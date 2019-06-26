@@ -1,0 +1,112 @@
+---
+title: "Looking back at Learning Disability Week"
+subtitle: "Our roving reporter on disability issues, Michael McEwan, attended a number of events over Learning Disability Week 2018 (14-20 May) and spoke to the organisers."
+date: "2018-06-25T23:00:00+00:00"
+draft: false
+iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/looking-back-at-learning-disability-week-1"
+iriss_archive_libsyn_title: "Looking back at Learning Disability Week"
+iriss_archive_libsyn_subtitle: "Our roving reporter on disability issues, Michael McEwan, attended a number of events over Learning Disability Week 2018 (14-20 May) and spoke to the organisers."
+iriss_archive_libsyn_duration: "14:51"
+iriss_archive_libsyn_publicationdate: "2018-06-25T23:00:00+00:00"
+iriss_archive_soundcloud_url: "https://soundcloud.com/iriss-fm/206-looking-back-at-learning-disability-week-2018"
+iriss_archive_website_pagetitle: "Looking back at Learning Disability Week"
+iriss_archive_website_url: "/resources/irissfm/looking-back-learning-disability-week"
+iriss_archive_website_date_of_recording: "2018-06-26T13:00:00+0100"
+---
+MM - Michael McEwan  
+KM - Katie Morris  
+PO - Paul O'Kane
+
+Michael McEwan, our roving reporter on disability issues attended a number of events over Learning Disability Week 2018 (14-20 May) and spoke to the organisers. We hear about 'Be the Change' campaign created by Enable Scotland, Project Ability and Mind the Gap theatre performance organised by the Scottish Commission for Learning Disability (SCLD).
+
+You're listening to Iriss.fm Scotland's Social Services podcast. Introduction
+
+MM On this podcast, we look back at the learning disability week, learning disability week took part in May and this year's theme was My Generation. I went out to cover some of the events for Iriss.fm, first up let's hear from Enable Scotland. Enable Scotland is running this campaign called Be the Change and on this interview, we're going to hear from Katie Morris, who is a programme coordinator manager, Paul O'Kane also from Enable and a volunteer from Be the Change.
+
+So we're now joined by Katie Morris, the coordinator from the Change campaign. So, tell us what's your role within the campaign?
+
+KM So, I facilitate ACE groups around the whole of Glasgow. So, I've got a group in Paisley which Paul goes to, I've got a group in Glasgow, I've got a group in East Renfrewshire and one in East Dunbartonshire as well and what I do as part of the campaign is I help my members to take part in all the activities. I've been gathering case studies and generally just supporting members to take part in the campaign.
+
+MM And do you like it?
+
+KM It's fantastic, it's an amazing campaign to be a part of. I think it's really important to support people with learning disabilities, to highlight their strengths and talents and show people that they're not going to accept bullying anymore so, I'm really proud of my members and I'm proud to be a part of it myself as well.
+
+MM And do you think attitudes is changing now?
+
+KM I think what we're doing with the Get to Know Us events is really important, I think it's really important to show people that people who have learning disabilities aren't so very different to them. They have their own hobbies, they have their own skills and talents and I think by holding public events we're giving people the opportunity to come along and really get to know members and I think that's so important in helping people to change their attitudes.
+
+MM Okay, thanks. So, you're one of our Change Champions, what does that mean?
+
+M Stop to bullying and stuff like that, stop bullying.
+
+KM Yeah.
+
+MM Bullying, yeah.
+
+KM So you're helping to stop bullying.
+
+MM And do you like it?
+
+M Yeah, I did, yeah.
+
+MM Yeah, how long have you done it for?
+
+M Done it for ...
+
+KM 2 months.
+
+M Yeah, 2 months.
+
+MM That's good.
+
+M Yeah.
+
+MM So, can you tell us what is the campaign about, Be the Change?
+
+PO So, Be the Change is an anti-bullying campaign. Enable Scotland have run this campaign since 2014, back in 2014 it really focussed around the language that people use sometimes about people who have learning disabilities that's offensive. It was about trying to challenge those words, we've moved on quite a bit now and the second phase of this campaign which we launched back in 2017 was all about people who have learning disabilities feeling empowered to make the change in their communities and that's by asking people to change their behaviour through understanding. So, we know that a lot of people bully others because of prejudice, because of things that they don't know and they just judge someone by their disability but we're asking people to break down those barriers and take time to get to know people who have a learning disability and we hope that by doing that we can stop bullying and we can encourage better relationships.
+
+MM And what's the feedback been like from the campaign so far?
+
+PO They've been really positive, so we've done a number of things, we've trained young Change Champions and older Change Champions to go out and to spread the word about the campaign. They both made films, so the films have been really well received and we're promoting those through our Be the Change, Get to Know Us events which we're hosting across the country. We're hosting 23 of those and that's opportunities for communities to come in and get to know people who have a learning disability who are part of our ACE groups which are Active Communities of Empowered people who have learning disabilities and that's been really well received so the campaign is really making it's mark.
+
+MM Okay and then we went to Project Ability to hear about an exhibition took part in Learning Disability Week from Adnan Mohammed.
+
+AM Told me the other day, and I've been coming to projects, making statues for a long time, about '96. I put paper in, I do tick crosses, I've been making quite a lot of clay head. I've been drawing quite a lot. I like making new friends, I like coming here quite a lot, it's really relaxed. You get the chance to meet other people. So, basically what I do is I draw a picture sometime, I put it in the window sometimes and I trace it and sometimes people say "why not do it like freehand?" I said "I don't know how to do it" but I kind of like it, coming here. I said you can teach younger people how to draw it because people come up to me, sitting on my table and said, "How are you doing clay head, my guy, just a small guy, can you help me?" and I said, "I can teach you how to do it." And they say, "You're good at it, you help me, you tell me what to do." So, I said, "Okay then, why not."
+
+MM So, why do you like coming to project Ability?
+
+AM To learn new stuff, to show younger people you can make clay heads as well. You know you can put your statue in a museum, you can give people extra money, you can put your stuff in a museum and all that and people can look at it and say you done it. And it was a cartoon picture, like a comic thing, my teacher need to say to me "(... unclear) better draw a balloon picture and make faces." And people did actually put it in a museum and people come up to me and said, "I liked that guy painting." It was that kind of feeling, so, a little boy out that day, he was about 15 or 14, saw a young guy, so my brother come up to me and my sister, people taking photograph and my sister said to me, "that is a nice picture." It was quite big, you know, t was in the glass and I just look at it, I couldn't believe that was me done it. It had this kind of feeling like "Wow, you can do that. I told you." My mum and my brother always said to me, you know like when I need to go to school he said, "When you don't go to school you never learn. You don't know how good you're going to be." And I like that, "I don't want to go to school." You know, I get that kind of feeling, I just want to stay in the house and he said, "You need to go, you need to be somebody."
+
+MM So, do you feel better from coming to Project Ability then, yeah?
+
+AM Yeah.
+
+MM How long have you been coming here, has it been a few years?
+
+AM I think 3 years, aye. I think most of the time when I come here I go to a house or sometimes I buy a book right and people draw celebrity with oil pastel, watching YouTube, watching the piece that I can do like drawing celebrities, doing like a clay dough and then signed his name colouring in, like doing black and white and then I look at it and I go like that, "Wow, I want to do it." So, watching a video, you know, making new ... thinking I want to do it.
+
+MM So what would you say to other people listening to this, if they've never heard of Project Ability?
+
+AM Well I can say to people never give up your dream, keep on trying, keep learning new stuff, so younger people can look at you and say, "One day, you can do something even if you need a hand." You know you can teach people how to make clay heads and one day your dream can be real, you never know.
+
+MM Okay finally, on this special podcast looking back at Learning Disability Week I went along to the Scottish Commission for Learning Disabilities to speak to Una Brown who spoke to us about a theatre company coming up to Glasgow to perform as part of Learning Disability week. They were called Mind the Gap and Una tells us more.
+
+So, tell me what was the play about?
+
+UB So, as part of Scotland's National Learning Disability Week on the 15th of May we at SLD and The Working Together with Parent's Network invited Mind the Gap who are a large theatre company made up people with learning disabilities based in England to come along to Scotland to perform their play which is called Mia: Daughters of Fortune and to also take part in a panel discussion with a range of professionals about support for parents with learning disabilities as well as performing Anna which is an interactive form theatre piece. What the whole day was about and what the play was about was about the issues faced by parents with learning disabilities and accessing the right kind of support to bring up and raise their own children as research has highlighted that for a number of parents with learning disabilities in both Scotland and the UK, parents can face real challenges both in getting information about relationships, sexual health and parenting information and about having the opportunity to raise their families without fear of professional judgement and about getting the early support at the early stages of pregnancy.
+
+MM And how was the play, was it powerful?
+
+UB So, it was a one hour play and it was very interactive. At points it asked members of the audience to get up on stage and take part. The play was about parents with learning disabilities experiences of what it was like to be a parent who has a learning disability, so, that included a range of both positive and negative experiences. So, some of the negative experiences being maybe not felt like they were listened to by Children and Family social workers, about having to go through assessments around their parenting capacity but some of the positive experiences as well, at one point in the play a film was shown about a mother in England and her daughter and she was talking a lot about what some of the difficulties they had faced when she first was pregnant but as well as that she also talked about what was great about being a parent and it was really nice to see her interacting positively and warmly with her daughter and I think that really sent a message home to the audience that parents with learning disabilities are living, capable and warm parents who at times depending on particular circumstances may need a level of support and that should be provided.
+
+MM So, what was the feedback on the day, was it positive or was it a mixture?
+
+UB The feedback we've got has been really positive, I think people were quite struck by the play and quite moved by it. We have been doing with Dr Gillian MacIntyre at Strathclyde University, who's also the chair of the Working Together with Parents Network, she's pulling together an evaluation of the day for us and we asked people on the day to fill out evaluation cards and what's come back from that is that people felt that they could really take some of the information that was discussed on that day back to their practice and felt quite inspired to make practice level changes within their organisations so, in 6 to 8 weeks' time, Gillian's going to conduct another follow up survey and find out what kind of practice level changes have been made by these individuals as a result of some of th information and learning they took away from that day, so, we'll hopefully find out. We're also going to conduct phone interviews with parents who attended the play to see what impact the play had for them, to see if it helped them to feel that their opinions and voices were being heard, maybe perhaps in a slightly different format than usual but it was just to see if they felt that that was helping to get the message out.
+
+MM Is there any more plans to invite the theatre company up again and do another piece?
+
+UB There's no plans at the moment to look at doing another piece but I think the theatre company were really warmly received and I think the evaluations have shown that it was a really positive event and that sometimes doing things a little bit differently and taking people a wee bit out their comfort zone and trying something different to get people's attention and engage them has worked really well so it's maybe something that we can stay open to in the future.
+
+MM Okay, thanks.
+
+Thanks to everybody that took their time out to speak to me during Learning Disability Week this year. Well I hope you enjoyed this special podcast looking back at Learning Disability Week.

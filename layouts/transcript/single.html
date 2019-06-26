@@ -1,0 +1,101 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+      	<p>{{ partial "post_meta.html" . }}</p>
+
+        {{ if .Params.iriss_episode_libsyn_url }}
+        <p><strong>Podcast Episode:</strong> <a href="{{ $.Params.iriss_episode_libsyn_url }}">{{.Params.title}}</a><br />
+        <strong>Transcript Copyright:</strong><br />
+        This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</p>
+ <!--
+iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/aberlour-glasgow-bridges-service-1"
+iriss_archive_libsyn_title: "Aberlour Glasgow Bridges service"
+iriss_archive_libsyn_subtitle: "The aim of the service was to develop and deliver interventions with children and parents to improve children's educational, health and well-being outcomes."
+iriss_archive_libsyn_duration: "12:15"
+iriss_archive_libsyn_publicationdate: "2012-03-06T00:00:00+00:00"
+iriss_archive_soundcloud_url: "https://soundcloud.com/iriss/ccpr-aberlour-glasgow-bridges-service-cheryl-burges-sandra-sweeten"
+iriss_archive_website_pagetitle: "Aberlour Glasgow Bridges service - Cheryl Burges, Sandra Sweeten"
+iriss_archive_website_url: "/resources/irissfm/aberlour-glasgow-bridges-service-cheryl-burges-sandra-sweeten"
+iriss_archive_website_date_of_recording: "2012-03-06T12:00:00+0000"
+-->
+        {{ end }}
+        <!-- Intro blurb -->
+		<p>What follows is a transcription of the audio recording. Due to 
+		differences between spoken and written English, the transcript may contain quirks of grammar and syntax.</p>
+        {{ .Content }}
+        {{ if .Params.tags }}
+          <div class="blog-tags">
+            {{ range .Params.tags }}
+              <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+            {{ end }}
+          </div>
+        {{ end }}
+        {{ if $.Param "socialShare" }}
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                {{ partial "share-links" . }}
+              </div>
+            </section>
+        {{ end }}
+        {{ if .Site.Params.showRelatedPosts }}
+          {{ $related := .Site.RegularPages.Related . | first 3 }}
+          {{ with $related }}
+          <h4 class="see-also">{{ i18n "seeAlso" }}</h4>
+          <ul>
+          {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+          </ul>
+          {{ end }}
+        {{ end }}
+      </article>
+      {{ if ne .Type "page" }}
+        <ul class="pager blog-pager">
+          {{ if .PrevInSection }}
+            <li class="previous">
+              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+            </li>
+          {{ end }}
+          {{ if .NextInSection }}
+            <li class="next">
+              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
+        {{ if .Site.DisqusShortname }}
+          {{ if .Site.Params.delayDisqus }}
+          <div class="disqus-comments">                  
+            <button id="show-comments" class="btn btn-default" type="button">{{ i18n "show" }} <span class="disqus-comment-count" data-disqus-url="{{ trim .Permalink "/" }}">{{ i18n "comments" }}</span></button>
+            <div id="disqus_thread"></div>
+
+            <script type="text/javascript">
+              var disqus_config = function () {
+              this.page.url = '{{ trim .Permalink "/" }}';
+            };
+
+          </script>
+          </div>
+          {{ else }}
+          <div class="disqus-comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+          {{ end }}
+        {{ end }}
+        {{ if .Site.Params.staticman }}
+          <div class="staticman-comments">
+            {{ partial "staticman-comments.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}

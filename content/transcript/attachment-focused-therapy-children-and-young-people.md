@@ -1,0 +1,209 @@
+---
+title: "Attachment focused therapy for children and young people"
+subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, who are adopted or are in foster care or children have experienced abuse, neglect or tra"
+date: "2012-09-04T23:00:00+00:00"
+draft: false
+iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/attachment-focused-therapy-for-children-and-young-people-1"
+iriss_archive_libsyn_title: "Attachment focused therapy for children and young people"
+iriss_archive_libsyn_subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, who are adopted or are in foster care or children have experienced abuse, neglect or tra"
+iriss_archive_libsyn_duration: "32:33"
+iriss_archive_libsyn_publicationdate: "2012-09-04T23:00:00+00:00"
+iriss_archive_soundcloud_url: "https://soundcloud.com/iriss-fm/015-attachment-focused-therapy-for-children-and-young-people"
+iriss_archive_website_pagetitle: "Attachment focused therapy for children and young people"
+iriss_archive_website_url: "/resources/irissfm/attachment-focused-therapy-children-and-young-people"
+iriss_archive_website_date_of_recording: "2012-09-05T13:00:00+0100"
+---
+EG -  Edwina Grant  
+DH - Dan Hughes
+
+Introduction: Dan Hughes is an specialist in dyadic developmental psychotherapy, an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, as well as children who are adopted or are in foster care and children have experienced abuse, neglect or trauma in their early years.
+
+Dan is a regular visitor to Scotland and we caught up with him in September 2012 in Glasgow during a four day workshop organised by Scottish Attachment in Action.
+
+Edwina Grant, a co- founder of Scottish Attachment in Action, asked Dan to explain the core features of dyactic developmental psychotherapy, in particular the attitude of PACE and the the concept of Blocked Care
+
+EG Good afternoon Dan and thank you for offering this interview. The Attachment Focus Therapy you have developed for supporting children and young people in foster care who are adopted, or children in residential care, children who have experienced abuse, neglect and trauma in their early years. This therapy is gaining momentum in Scotland as an effective intervention. The therapy of course is called Dyadic Developmental Psychotherapy. I wonder if you can tell us a little bit about the attitude of PACE that is core to dyadic developmental therapy, and also a little bit about the concept of blocked care?
+
+DH PACE, it comes out of my understanding about an attachment and also inter-subjectivity which is how children learn in the context of the relationship they have with the attachment figures, with their parents. It's interesting that inter-subjectivity, the impetus comes from the scholarly work of Cole and Trevarthin, Dr Trevarthin has been a psychologist at the University of Edinburgh for years and his research has really influenced how we understand about human development. But the notion is that when children are safe with their parents, they start to learn about the world and to learn about themselves, they learn that they are worthless or bad or lazy, so children who are raised in a good home have a sense of self that is very positive and hopeful. A child who is raised in a home experiencing abuse and neglect has the opposite experience itself and of the world, the world is not safe, the world is a place that you are frightened in and you have to become vigilant in to protect yourself.
+
+Well to pursue a child who started poorly, with a negative view of self in the world, to facilitate his ability to go into a more open, relaxed and safe way relating to adults, and in this case his foster carers, or his adoptive parents or his residential workers, social workers, and his therapists. I found that if we have an attitude toward that child similar to how a parent has toward a young child, an infant, a toddler, a young child or in healthy families frequently throughout a child's development, if we have an attitude like that, the child is more likely to respond to these adults who are attempting to care for him and learn about himself in a positive way. And the qualities that I saw when I was raising my own children, I found these are probably the qualities that I can, I need to facilitate with the foster parents towards the child with the therapist, and there are four characteristics which the acronym is PACE: Playful, Accepting, Curious and Empathic, and all four are very crucial.
+
+Playful is an attitude, you say well why is that so important to a child who has been abused and neglected? Well it's important to help the child to see that life is not just work and heavy duty stresses and things you have to worry about or attend do; sometimes you can relax and smile and giggle and laugh and actually have a lightness about life that life isn't all challenge and work and undoing traumas, but also it can be a positive experience of enjoyment and delight and it conveys a sense of hopefulness that this child has a reason to hope that there is something positive in life. 'Playful' helps the child to get closer to a parent without affection because the kids often are afraid of affection, it's sort of too heavy for them or too frightening that somebody loves them, but if somebody smiles and laughs and has eye contact with a big smile behind it, the child feels some positive affection that's lighter than directly saying you love the child. During therapy or doing...these kids have many challenges, so often we have to address hard things for them when their behaviour is filled with problems, and the playfulness gives them a chance to take a break from the hard work and just relax and have some fun.
+
+Acceptance', it sort of underlies everything, the child needs to know they are not being evaluated all day, that someone accepts them as they are, that doesn't mean they accept their behaviour, because sometimes their behaviours have to be addressed, evaluated, addressed and dealt with, but the inner life of the child, his wishes, his hopes, his fears, his dreams, his thoughts, his ideas are always respected and accepted. I may worry about some of them, if a child has a wish to no longer go to school or a wish to live on a mountain by himself, but if I evaluate and criticise it, he will probably not share with me what he's thinking and feeling and wanting, and it would be hard to influence him and guide him and develop him if he never tells me what he's thinking, what's going on inside. Also it will help this child to start to feel, I am a worthwhile being if my person is never evaluated and found lacking, maybe my behaviour might be once in a while, but never my person, then I could separate my behaviour from who I am and have confidence that I am loved for who I am even when my behaviour is disliked. We forget that, we tell kids, I am not angry at you, I am angry at what you are doing, but the kids who have been traumatised and experience loss, don't believe it, so if I really emphasise accepting the child and separate his behaviour from who he is, then the child is much more likely to believe me when I say I am only angry at your behaviour and not at you.
+
+EG Can I ask you a little bit about that Dan, just ... so again the acceptance is really for the therapist or for the parent or carer, there is no intention to fix or to rescue, really only to step into the shoes of the child and try and see it through their eyes during their experience of it ...
+
+DH Yes, yes ...
+
+EG ... yes, and help them to figure out what the meaning of that is?
+
+DH Right, so the child has a thought, I like he says, the child may say 'I don't think my parents love me', his adoptive parents, say. I am not going to argue with the child or rescue him from that by saying oh they do, they do love you, of course they do, and the parents say, we do love you, because that's not what the child hears, trying to talk him into it or reassure him that they love him won't undermine this conviction that he's not loved, so he has to know, I accept his thought and feeling that he's not loved and I ... this leads to another part which is empathy, which is how hard it must be if your parents don't love you. I apologise I said that incorrectly ... how hard it must be if you feel your parents don't love you, if you think they don't love you, that must be very difficult because you probably don't feel very close to them and you probably don't trust them, it's hard to believe them then when they tell you things and guide you. Thanks for letting us know, it must be very difficult, could you help us to understand it more about, do you always feel they don't love you, are there times when you think they might, that you are not sure about it, what's that like, how do you handle the feelings, do you feel isolated? ... so I am accepting his feeling or thought or both that he's not loved and then I can help him to wonder about it and rethink it. But if I try to talk him out of it, he probably will feel I don't understand him, I don't know what he's talking about and he would be less likely to share more of what he's thinking or feeling.
+
+EG So are you saying Dan that you just need to step ... it's a big thing to do, to step into the child's truths about relationships?
+
+DH Yes, yes, yes ... and it's hard, like the adoptive parents, it's hard for him or her to sit there when a child says I don't think you love me, without defending themselves, but I want the parents to be able to lean over and put their hand on the child's arm or shoulder and say, son if you don't think I love you, I am so sorry, it must be so hard for you, I have to find a way to show it because you're not experiencing it. Because I know I love you inside but you don't feel it now, then it must mean you are feeling lonely a lot, you are not feeling able to trust me, I have to work harder son to show you I love you, because you are not feeling it. Rather than, 'oh I do love you, how can you say that?', - you know, that sort of thing.
+
+EG And I guess, I know you are going to move on to talk about curiosity, but back to Playful a bit, because you talked about Playful as the first of the core attitudes and you were talking about as a therapist being playful in order to lighten and to recreate some of the conditions of safety that a child should have experienced, but I guess you are also saying that that's the parental attitude as well, about the shared experiences ...
+
+DH Uh huh
+
+EG ... having fun together, having a giggle together, telling stories about life together ...
+
+DH Uh huh
+
+EG ... so it's a parenting attitude as well as a therapeutic attitude?
+
+DH Definitely, in fact PACE is something that I talk to parents about, I have written about it, I want parents to have a similar attitude at home. They can't have it 24/7, I mean life is hard sometimes, you just don't have the energy for it sometimes, you should set a limit ... you are not ready for always being available emotionally and psychologically for you child, but if you can help it a lot, kids settle in quicker and learn, you enjoy being with them, you're interested and you are not judging them, you are just happy to have them be a member of your family.
+
+EG Okay, and 'Curiosity' then?
+
+DH It goes along with the first two quite well and it goes along with the last one, of Empathy. Curiosity means I want to get to know you, like again think of an infant, the parents, when they have an infant with them, they are desperate to get to know their infant, they study their eyebrows and their fingernails and every little gesture and expression, they try to make sense of it, they wonder where is the mind of my infant, what are they thinking and feeling and doing, what are they interested in?
+
+So Curiosity is apparent, or a therapist saying, I want them to understand who you are, I want to get to know you, because you are important to me and I don't know sort of how to raise you, or how to work with you in therapy unless I know who you are, so it begins with a not knowing stance and no judgement, no assumptions, can you tell me, can you tell me what you worry about, can you tell me what you think, can you tell me ... I hear you got quite angry with your teacher yesterday, could you tell me about it, what was that like, you got quite cross with your Mum and you swore at her, my goodness, you must have been very angry about it, can you help me understand ... you know, so I am exploring swearing at his Mother without an angry tone, without a lecture, I just want to understand it. That doesn't mean there won't be discipline related to that behaviour, but in terms of his reasons for swearing at his Mum I want to be totally non judgemental and curious about why were you swearing at your Mum, what was going on with you, what did you feel, what did you think, what did you think about why she said no to you when you wanted to go out and play with your friends, so the Curiosity is just helping the child, when he knows I accept him, to be able to tell me and to wonder about why he does things, what he thinks and feels.
+
+There's many studies that kids have been traumatised who have had very hard starts in life don't have enough curiosity, so they don't reflect enough about why they do things or what are they thinking or what are the feeling, you ask them why did you do that, I don't know and I am telling the truth, what do you think, I don't know ... so it's facilitating their ability to start wondering about their inner life, to have a better sense of who they are, what they want, what they feel, and then they could communicate it. We often tell children, use your words, many of these children don't have any words to use, they can't connect, whereas their inner life, my curiosity will facilitate the habit of starting to wonder and finding words, discovering what the words are to describe with what's going on inside. And then it helps them to sort of go in there in terms of who I am and what I feel without being ashamed of it, because a lot of these kids are filled with shame because they were told they were bad children and they are not worth being loved and things like that, so my curiosity takes that away and they start to wonder about their thoughts and feelings without that shame they were given by the original focus who may have abused or neglected or abandoned them.
+
+EG So once again, the Curiosity and that learning that young children do insecure situations, in good families, because it's a Mum and a Dad that usually give a baby, a small child, a start to language: is she hungry right now? oh my goodness, you know you have got a sore tummy, so parents would ordinarily give the child of beginnings of that sort of emotional language and wondering about the world. So hence curiosity helps them to grow, but really to rebuild what should have happened for them in their early years ...
+
+DH Well it should have happened, right, because most children, parents do that with babies ...
+
+EG Yes, yes ...
+
+DH... the kid can't talk but it can see the parent is wondering about what's going on inside and then the child starts to wonder ...
+
+EG Yes, yes ...
+
+DH... and then eventually they can communicate what's going on inside.
+
+EG Yes, and I guess the whole attitude of PACE also and your psychotherapy, really speaks to the children who, these children who have experienced abuse and neglect and trauma, then actually they have a lot of symptoms, to show how distressed, how cheerful they are, how raging they are, lots and lots of different symptoms, it's very much about seeing beneath the surface ...
+
+DH It really is, yes ...
+
+EG ... and looking for what needs being expressed in this behaviour?
+
+DH Correct, so say the child has stolen from a parent, well I may set a limit around that, I may have a consequence for that, I may make it very difficult for him to steal from me again, but if I start with that, my guess is that in the long run, whatever caused them to steal will come out some other way, where they steal from somebody else or when I forget it 2 months from now, they start stealing again. So I set the limit. I am very firm, this behaviour. I have to stop this and dah, dah, dah, but then when I am calm, I am not angry about it now, he's not angry with me for setting a limit, we set it aside maybe an hour later, maybe a day later, I sit him down and I say:
+
+- 'hey, hey Bill help me understand what's going on about that, because I know you have stolen now twice from me and I am puzzled about it, because we give you this and I give you this - what does it mean?
+
+- 'I don't know'
+
+- 'you don't, do you? Well why don't we try to sort it out together? Can you think of what you were feeling before you took that when I wasn't looking? Can you think of what you were hoping to gain by it, what was it like?
+
+... and often the kids will say surprising things, you know
+
+- 'well some day you may stop feeding me and I needed the money just to have it in case I ... you don't know what it was like to not have anything, any food...'
+
+- 'but son I have never not fed you...'
+
+- 'but you might! '
+
+You know a child who had severe neglect and went hungry the first two years of his life may have a very primitive terror of starving and he may want money to hoard in his bedroom so that when his parents decide not to feed him again, because he's a bad boy or whatever, he has money to buy food. Well as soon as the child discovers, is aware of why he stole, because he probably wasn't aware of that at some level, all of a sudden he's free: wait a second, and he can think about it. 'Will my adoptive parents stop feeding me? No they would never do that.'
+
+He can actually think it through and relax and now the parents too have so much more empathy for their child, it's not a moral issue, it's a survival issue. He's stealing in order to keep himself safe. Well the issue is now dealt with, he feels safe, he knows they won't ... and the stealing goes away. So that would be an example. But why do I give a consequence for a symptom if I don't know the cause of the symptom, because a consequence may not fit the cause. So I want to know the cause and that's where curiosity comes in. If I do that in a judgemental way: 'why did you do that?' He won't talk, he won't work with me to understand it, I have to do it on a very open and engaged way: 'hey, why do you think you do that? - without any sort of anger and judgement associated - I am just curious.
+
+EG Okay thank you Dan, so I guess - we have limited time today - so that's a nice ... it encapsulates PACE neatly ...
+
+DH Not quite, could I add a tiny bit on empathy?
+
+EG Okay
+
+DH Okay, empathy is sort of, is saying to a child, I understand and I feel it with you, so the boy is scared, I could say, I could say
+
+'you were really frightened by that dog weren't you? You are safe with me, stay with me. There you go - it was very hard, I could tell you were scared. You might have had a hard time maybe when you were a little fellow and a dog may have scared you. I am not sure, but whatever it is, it's really hard for you now'
+
+Or he's afraid of going to school or he's afraid that I hate him because he did something wrong and I say:
+
+'Oh son, come here, must be very hard now if you feel that I hate you for doing that, very difficult, I am sorry you feel that way because it makes it hard to trust me, doesn't it? '
+
+Empathy means you're feeling what the child is feeling, you are placing yourself in their shoes, you're letting them know you get it, you understand, and once he sees you get it, he will trust that you will do the right thing, he will trust that you understand, that you won't be harsh, you won't ... you will do what he needs to do because you are with him in his experience.
+
+EG Don't you have good intention?
+
+DH Good intention and it's not too big, it's not too terrifying, it's nothing to be disgusted about, you can share with me a trauma that happened to you and you say I am with you in the trauma, and my experience isn't, 'oh you're a rotten kid' because that happened to you or you are disgusting or anything like that. He feels my empathy and my compassion, my sadness with him over what happened to him and maybe my anger with him over what happened to him. It's wherever he is emotionally and mentally, and event, wherever it was, I am with him in it without judging him.
+
+EG That attitude is PACE is so important, I guess it's important for all children, it's really, really important for these children who have been distressed and damaged in their early years, but this is really hard work, isn't it, for parents, for foster carers, for residential workers, it's very hard work ...
+
+DH Uh huh
+
+EG ... because you can meet with a lot of resistance from children that they might be likeable or they might be lovable, so I guess maybe that takes us a little bit into support for parents and about 'Blocked Care' ...
+
+DH Right, yes I came to Block Care later in my practice and later in the development of this therapy because initially I am aware that foster, adoptive parents, residential workers, have big hearts, have big skills, big commitment, and are excellent people. And then I thought well they don't need much, they could just keep going and do what the kids needs, I will teach them about PACE and they will keep going. I forgot they are not robots, I forgot that they are human beings, and I also wasn't aware at that time that the parents brains work like the child brains and the care giving that is required by a parent is actually the other side of the coin of attachment behaviour - it's the same part of the brain. When you are a child, if you are attached well to your parents, you become an adult and you become a parent, so the ability to care for your child is very strong. It's robust because that part of the brain was developed through attachment. Well if a child's attachment wasn't developed well, he's likely not to do well in care giving. The importance of there being two sides of the coin is, they both work best when there's a response from the other side: if I am attaching to a parent and they then care for me, then attachment develops and the kid has secure attachment. If the parent doesn't care for me, it hurts attachment, well the other side of the coin works the same way, I am a care given, I am taking care of my child and they respond to me and I am successful at it, the care giving is ... it continues to strengthen itself through use and through success and it feels good when you are taking care of a child who needs you and values you and enjoys it, or cries in your arms and they feel better and they smile and they are fine, but if a child doesn't respond to you, that part of the brain starts to wobble a bit and it's hard to keep doing it day after day, week after week, month after money, year after year if you don't get a response.
+
+Care giving, there are five systems in a ...five regions, I am sorry, systems in the brain that when the child is responding they work very well. The one system is called the Approach part of ... in care giving, you have to want to be near your child, you approach them, they are in distress, you want to play with them. That system works very well assuming these parents had decent attachments themselves growing up. It will work quite well when the child responds and wants to be near the parent. The pleasure you get from it, raising a kid and the reward you get from it works well when a child wants to be with you too, when they feel pleasure. The third is child reading, you are interested in your kid, you are curious about your kid, that works very well when your child responds and wants to tell you about themselves and your child is interested in you. Those three systems are quite hard to maintain for months if the child doesn't respond. The fourth system is the meaning of it, you give positive meaning to these interactions, the kid is frightened in the middle of the night, you get up with them and cuddle them and comfort them and the child calms down or responds well to it - hey there's positive meaning in giving to my kid, they are sick and you take care of them, there's positive meaning because the kids needs are being met by you, but if a child gives negative needs to that, eventually that starts to get shaky too, the child devalues what you are doing for them, so the meaning is devalued and after a while they will start to get wobbly. So the fifth system is the executive system: it helps you to do it even when the kid isn't responding and it helps you to do it because you need to do it. It's your commitment as a parent, you know the long term distant goal, you know safety, you do it even if you don't feel like it. And you can do that, you can do that for years when you don't feel like it. The other four are harder to do when you don't feel like it, so many adoptive parents say over the years, if they haven't been successful facilitating attachment with their child, many will say can they cry when they are sad, I don't love them any more, I can't get the love back, I don't feel it, I take care of him and I do my job and I made a commitment, and I will do it, but I don't have any feelings any more. So when he's 18 I never want to see him again, and they are crying when they say that ...
+
+EG Yes because they feel awful ...
+
+DH ... they feel horrible, but they can't control their brain. They can do what they have to do, they can make the behaviour do it, they feed him and keep him safe and clothe him and all that, but to actually enjoy being with him, to want to be near him, to experience pleasure in it, to be interested in him and to see positive meaning and value it, the whole system starts to shut down. Well we call that Blocked Care. It helps parents understand why they don't care any more and not see it as a sign of selfishness or laziness: they want to care, they just can't do it neurologically - it starts shutting down. I also want professionals to know that. You wouldn't believe, well maybe you would, it's hard for me sometimes when I hear parents cry about how a teacher or another therapist or a physician or a social worker looks at them and they could tell by their look that they think the adoptive parent is selfish or isn't being a parent and they get that look and it's because they are being judged for not trying hard enough or judged for being selfish or whatever, when in fact they want to, they have been trying very hard and they want to love and they want to feel close, so it takes away the morality in terms of judging the parent as being bad or something wrong with the parent, they are doing their best, they just can't do it.
+
+EG Yes ... and I guess that's the advances in neuroscience that have helped us with all this explanation about ...
+
+DH Yes, to understand ...
+
+EG ... these developments, yes ... and about hormones involved in that as well ...
+
+DH Yes
+
+EG ... like oxytocin ...
+
+DH Dopamine ...
+
+EG ... dopamine ...
+
+DH Yes they really are crucial.
+
+EG Yes and how healthy hormones like those really support attachment, they go very much together.
+
+DH They do, because even a healthy kid in a healthy home, 18 years, 21 years, whatever it is, there are hard moments. Sometimes you raise your kids and it's hard, what keeps us going easily, well easily might be too strong a term, but what keeps us going is those moments or days or times when you just feel that deep pleasure, you enjoy being with your kids, it's so positive meaning, and you are so interested in your child, well that's part of being a parent, that when those four systems in the brain are active and working, you can do the hard work of being a parent and you have no regrets.
+
+EG And I guess also, you can also remember in the teenage years when children can become quite challenging young people, you can remember the things about the past and connect the stories ...
+
+DH You can, all is beautiful ...
+
+EG ... and that will also produce all those hormones that were around at the time, so that will keep you going to ...
+
+DH... right, those pleasurable moments and the pictures and just the phrases or the activities that you did together ...
+
+EG Yes, yes, because you are attuned ...
+
+DH... but if you don't have those with a child, first you are at risk not to have those because you never had the child as a baby, and secondly you are at risk to have those because a kid, when they come to you at four or eight, this kid who has serious attachment and trauma problems doesn't want that from you because they are terrified of it, and they don't know how to do it. So after a while, it can be very hard to keep going and that's what Blocked Care is about, it's to help a parent who is ... to understand it and then for them to experience PACE from us.
+
+EG Yes, so PACE is very much ...
+
+DH It's for the parent as well, not just ...
+
+EG ... absolutely
+
+DH... the child
+
+EG And I guess knowing that, as you said, can give parents and workers and foster carers a huge sense of relief about this isn't me, I am not a mean person ...
+
+DH Correct
+
+EG ... I am not a mean person ...
+
+DH And it slows down the professionals so they don't judge these parents.
+
+EG Yes absolutely. So Dan, just to sort of summarise your thoughts on supporting parents with PACE, to prevent I guess, Blocked Care happening for them?
+
+DH Uh huh
+
+EG Just a few thoughts on that before we finish?
+
+DH Sure, I would start with simply education for parents about how it works, that often helps parents, so their expectations are ... for themselves, are reasonable, they are not saints and they are not robots. And also the expectations of the child are reasonable because these kids may not have developmental skills that fit their chronological age, so education is where I always begin ...
+
+EG Okay
+
+DH Quickly though, because a parent may have developed some Blocked Care or a parent maybe, because it's so hard to raise these kids, I have to approach the parent with the same attitude of Playful, Acceptance, Curiosity and Empathic, so that the parent has a sense I am not judging them, I am accepting them, their intentions are good here, I am curious about what's the hardest and what they are feeling and all that and I am not judging it and I have empathy for how much they are trying to be an excellent parent and always breaking their heart when they are aware sometimes they hate their child, a regret being a parent of this child. Basically what I want the parent to experience is, me as a therapist or a social worker or a professional, or maybe their best friend to take care of them the way they have to take care of this child in the sense that allowing them to cry with me and just trust me and rely on me, I am not judging them and I understand how hard it is, what they are up to, what they are trying to do ... and how painful when, at this point, they are worried that they are going to fail in helping this child in having a decent life. So it's an attitude towards parents that is similar to the child, because at some point these parents are starting to shut down emotionally, just like the child is shut down when they were young being abused and neglected.
+
+EG So, I am thinking that PACE is an attitude actually that, this might sound a bit trite, but it's for all human beings, but with a particular focus that's really, really helpful to have that focus when children have been distressed and challenging and they are presenting difficult behaviour?
+
+DH Right, in fact the model of therapy has evolved, so it's not just for foster, adoptive and kids in residential care, it's now a model of family therapy based on attachment principles that I use for all families because I found these are universal principles, about how people are safe with each other, how people communicate with each other, and see the positive in each other and not get distracted by the symptoms. We have to address them, but if they become the entire relationship, just problem focused and centred around problems, it can be very hard for a child or a parent to come out of that because it's so negative and it's so pessimistic.
+
+EG And just to end Dan, I am wondering if folk are interested in knowing more about Block Cared, about PACE, are there things you would recommend that folk could read, I know you have a book out with Jonathan Baylin...
+
+DH Yes, that approach is Blocked Care more and it incorporates the neuropsychological findings, the brain based foundation of it, as well as interventions for the parent to understand it, but also for professionals working with the parent who are experiencing Blocked Care. I also have written Attachment Focused Parenting using this model in parenting, assuming the Blocked Carer is not undermining that - still these parents want skills to facilitate attachment in their child when they are ready and able to do it, well that's attachment focused parenting. Kim Golding, a psychologist down in England, Worcestershire, and I have written a beautiful book I think - she's the primary author- called Creating Loving Attachments.
+
+EG Okay thank you Dan, I have read these books and would highly recommend them to folk who are interested in learning more.
+
+DH Thank you

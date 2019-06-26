@@ -1,0 +1,111 @@
+baseURL = "https://transcripts.podcast.iriss.org.uk/"
+#baseurl = "https://username.github.io"
+languageCode = "en-gb"
+title = "Transcripts of Iriss.fm"
+theme = "beautifulhugo"
+#enableRobotsTXT = true
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+#googleAnalytics = "UA-814723-45"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+#  subtitle = ""
+#  logo = "img/avatar-icon.png" # Expecting square dimensions
+	logo = "img/irissfm-transcripts-site-art-2019-06-21.png" # Expecting square dimensions
+	favicon = "img/irissfm-favicon-300x300-2019-06-21.png"
+	dateFormat = "January 2, 2006"
+	commit = false
+	rss = false
+	comments = false
+	readingTime = true
+	wordCount = true
+	useHLJS = true
+	socialShare = false
+	delayDisqus = false
+	showRelatedPosts = false
+	#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+	iriss_transcript_prefix = "Transcript: "
+
+#[[Params.bigimg]]
+#  src = "img/irissfm-xwide-libsyn-1921x480-2019-06-18.png"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Iriss"
+  website = "https://www.iriss.org.uk/"
+#  email = "youremail@domain.com"
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#  github = "username"
+#  gitlab = "username"
+#  bitbucket = "username"
+  twitter = "irissorg"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Iriss.fm"
+    url = "https://podcast.iriss.org.uk"
+    weight = 1
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = true
+
