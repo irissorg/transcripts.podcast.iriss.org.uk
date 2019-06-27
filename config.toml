@@ -1,8 +1,8 @@
 baseURL = "https://transcripts.podcast.iriss.org.uk/"
-#baseurl = "https://username.github.io"
 languageCode = "en-gb"
 title = "Transcripts of Iriss.fm"
 theme = "beautifulhugo"
+publishDir = "docs"
 #enableRobotsTXT = true
 
 DefaultContentLanguage = "en"

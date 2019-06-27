@@ -2,7 +2,7 @@
 title: "Duty of Candour"
 subtitle: "Iriss hosted a group discussion"
 date: 2019-04-05T12:00:00+01:00
-draft: true
+draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/duty-of-candour"
 ---
 SM - Stuart Muirhead  

@@ -1,2 +1,6 @@
 public/
 word-docs/
+node_modules/
+build-site.sh
+deploy.js
+deploy.sh

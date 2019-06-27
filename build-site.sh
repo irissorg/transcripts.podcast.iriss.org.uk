@@ -1,3 +1,0 @@
-rm -rf public
-hugo
-

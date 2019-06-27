@@ -36,16 +36,13 @@
 
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>,
             {{ else }}
-              {{ .Site.Author.name }}
+              {{ .Site.Author.name }},
             {{ end }}
           {{ end }}
-
-          {{ if .Site.Title }}
-            ,&nbsp;&nbsp;
-            <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-          {{ end }}
+          <a href="https://www.iriss.org.uk/privacy-policy">Privacy policy</a>, 
+          <a href="https://www.iriss.org.uk/contact">Contact</a>
         </p>
         <!-- Please don't remove this, keep my open source work credited :) -->
         <p class="credits theme-by text-muted">
