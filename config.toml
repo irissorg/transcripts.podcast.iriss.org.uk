@@ -1,4 +1,6 @@
-baseURL = "https://transcripts.podcast.iriss.org.uk/"
+baseURL = "https://irissorg.github.io/transcripts.podcast.iriss.org.uk/"
+#baseURL = "https://transcripts.podcast.iriss.org.uk/"
+
 languageCode = "en-gb"
 title = "Transcripts of Iriss.fm"
 theme = "beautifulhugo"
@@ -15,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-#googleAnalytics = "UA-814723-45"
+googleAnalytics = "UA-814723-45"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
