@@ -1,6 +1,6 @@
 ---
 title: "Disability Equality Scotland"
-subtitle: "Michael McEwan speaks to Ian Buchanan about Disability Equality Scotland, focusing more specifically on Disability Access Panels. As the umbrella body for Access Panels in Scotland, Disability Equality Scotland offers support and training opportunities..."
+subtitle: "Michael McEwan speaks to Ian Buchanan about Disability Equality Scotland, focusing more specifically on Disability Access Panels."
 date: "2018-12-10T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/disability-equality-scotland-1"
