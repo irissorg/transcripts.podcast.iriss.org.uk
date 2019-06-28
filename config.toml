@@ -1,5 +1,4 @@
-baseURL = "https://irissorg.github.io/transcripts.podcast.iriss.org.uk/"
-#baseURL = "https://transcripts.podcast.iriss.org.uk/"
+baseURL = "https://transcripts.podcast.iriss.org.uk/"
 
 languageCode = "en-gb"
 title = "Transcripts of Iriss.fm"
@@ -81,7 +80,7 @@ googleAnalytics = "UA-814723-45"
 
 [[menu.main]]
     name = "About"
-    url = "https://transcripts.podcast.iriss.org.uk/about/"
+    url = "/about/"
     weight = 2
     
 [[menu.main]]
