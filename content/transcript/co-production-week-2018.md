@@ -1,6 +1,6 @@
 ---
 title: "Co-production Week 2018"
-subtitle: "Co-production Week (#CoProWeekScot) was held from the 19-25 November and provided an opportunity to learn, discuss and celebrate how co-production puts people and communities at the heart of the support and services they're part of. Iriss."
+subtitle: "Co-production Week (#CoProWeekScot) was held from the 19-25 November and provided an opportunity to learn, discuss and celebrate how co-production puts people and communities at the heart of the support and services they're part of."
 date: "2018-11-26T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/co-production-week-2018-1"
