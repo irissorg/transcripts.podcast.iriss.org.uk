@@ -1,6 +1,6 @@
 ---
 title: "Generations Working Together"
-subtitle: "On 8 February 2019, Michelle from Iriss had a conversation with Kate Samuels from Generations Working Together about the work it does to promote and support intergenerational practice. She also chatted to Keith Mitchell and Natalie Stewart from Glasgow..."
+subtitle: "Conversation with Kate Samuels from Generations Working Together, Keith Mitchell and Natalie Stewart from Glasgow's Golden Generation and Charlotte Craig from Impact Arts"
 date: "2019-02-08T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/generations-working-together-1"
