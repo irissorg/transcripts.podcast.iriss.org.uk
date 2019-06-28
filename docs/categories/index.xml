@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Transcripts of Iriss.fm</title>
-    <link>https://irissorg.github.io/transcripts.podcast.iriss.org.uk/categories/</link>
+    <link>https://transcripts.podcast.iriss.org.uk/categories/</link>
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://irissorg.github.io/transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
