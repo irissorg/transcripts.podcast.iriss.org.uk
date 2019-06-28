@@ -1,6 +1,6 @@
 ---
 title: "People-led Policy Panel"
-subtitle: "The People-led Policy Panel is a group of people who are working together to reform adult social care support in Scotland. The initiative is supported by Scottish Government. Michelle from Iriss has a conversation with Deirdre Henderson,"
+subtitle: "The People-led Policy Panel is a group of people who are working together to reform adult social care support in Scotland. The initiative is supported by Scottish Government."
 date: "2019-02-07T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/people-led-policy-panel-1"
