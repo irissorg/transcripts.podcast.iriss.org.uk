@@ -1,6 +1,6 @@
 ---
 title: "Learning Disability Week 2017"
-subtitle: "Michael McEwan speaks to Chris Creegan, Chief Executive of the Scottish Commission for Learning Disability (SCLD) about Learning Disability Week 2017. The theme for this year is: 'Looking back, thinking forward'"
+subtitle: "Michael McEwan speaks to Chris Creegan, Chief Executive of the Scottish Commission for Learning Disability (SCLD) about Learning Disability Week 2017. The theme for this year is: 'Looking back, thinking forward'."
 date: "2017-04-14T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/learning-disability-week-2017-1"
