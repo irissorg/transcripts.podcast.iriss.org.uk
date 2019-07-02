@@ -1,6 +1,6 @@
 ---
 title: "Child abuse scandals and online discourse"
-subtitle: "On 15 November 2016, Danielle Farrel, spoke to Iriss.fm about her PhD research, which examined the 2012 child abuse scandals in the UK. The research focused on the multifunctional nature of online discourse surrounding the issue. In this interview,"
+subtitle: "Danielle Farrel, spoke to Iriss.fm about her PhD research, which examined the 2012 child abuse scandals in the UK. The research focused on the multifunctional nature of online discourse surrounding the issue."
 date: "2016-11-15T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/child-abuse-scandals-and-online-discourse-1"
