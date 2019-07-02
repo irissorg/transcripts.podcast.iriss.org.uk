@@ -1,7 +1,7 @@
 ---
 title: "Shared Lives"
 subtitle: "On 18 October 2018, Iriss hosted a discussion about Shared Lives, a community based model of social care, where adults that need support move in with, or regularly visit, an approved Shared Lives carer."
-date: "2018-10-17T23:00:00+00:00"
+date: "2018-10-18T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/shared-lives-1"
 iriss_archive_libsyn_title: "Shared Lives"
