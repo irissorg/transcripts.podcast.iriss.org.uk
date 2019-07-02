@@ -1,6 +1,6 @@
 ---
 title: "Hate crime: causes, motivations and effective interventions"
-subtitle: "Reports of hate crime in Scotland have increased and research indicates that the trauma experienced by victims of hate crime can be more enduring and harmful than non-hate related offending and that it has detrimental effects on communities as well as ..."
+subtitle: "Rania Hamad, City of Edinburgh Council spoke to us about her research on the topic."
 date: "2017-05-08T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/hate-crime-causes-motivations-and-effective-interventions-1"
