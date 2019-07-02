@@ -1,6 +1,6 @@
 ---
 title: "ISBA 2016: Getting there - Roy McConkey"
-subtitle: "Roy McConkey OBE, Emeritus Professor, Ulster University in Ireland asks a number of questions"
+subtitle: "Roy McConkey OBE, Emeritus Professor, Ulster University in Ireland asks a number of questions."
 date: "2016-09-14T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-getting-there-roy-mcconkey-1"
