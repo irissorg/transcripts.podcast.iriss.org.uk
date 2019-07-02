@@ -1,6 +1,6 @@
 ---
 title: "The Dundee Early Intervention Team"
-subtitle: "The Dundee Early Intervention Team (DEIT) provides early intervention support to families. The team is a partnership of the four leading children's charities in Dundee"
+subtitle: "The Dundee Early Intervention Team (DEIT) provides early intervention support to families. The team is a partnership of the four leading children's charities in Dundee."
 date: "2017-07-30T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-dundee-early-intervention-team-1"
