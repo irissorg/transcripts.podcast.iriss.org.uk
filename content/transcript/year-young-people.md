@@ -1,6 +1,6 @@
 ---
 title: "Year of Young People"
-subtitle: "Michael McEwan interviews Kevin Ditcham, Project Manager for Year of Young People2018 and Cameron Smith, one of the Young Ambassadors involved in the year's activities. Year of Young People 2018 is an opportunity for generations to come together and ce..."
+subtitle: "Michael McEwan interviews Kevin Ditcham, Project Manager for Year of Young People2018 and Cameron Smith, one of the Young Ambassadors involved in the year's activities."
 date: "2018-11-01T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/year-of-young-people-1"
