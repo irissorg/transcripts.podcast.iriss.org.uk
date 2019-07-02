@@ -1,6 +1,6 @@
 ---
 title: "Hidden disabilities: Joseph Delaney"
-subtitle: "Michael McEwan speaks to Joseph Delaney about growing up with a 'hidden disability'. Joseph is on the autistic spectrum and tells us about his life experiences"
+subtitle: "Michael McEwan speaks to Joseph Delaney about growing up with a 'hidden disability'. Joseph is on the autistic spectrum and tells us about his life experiences."
 date: "2017-07-19T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/hidden-disabilities-joseph-delaney-1"
