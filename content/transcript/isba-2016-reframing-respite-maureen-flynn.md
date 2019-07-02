@@ -1,6 +1,6 @@
 ---
 title: "ISBA 2016: Reframing respite - Maureen Flynn"
-subtitle: "The Australian National Disability Insurance Scheme was created in 2013, and builds on lessons learned from other countries relating to self-directed support and personalisation. It hopes to enable social and economic participation as citizens for peop..."
+subtitle: The Australian National Disability Insurance Scheme was created in 2013, and builds on lessons learned from other countries relating to self-directed support and personalisation."
 date: "2016-09-13T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-reframing-respite-maureen-flynn-1"
