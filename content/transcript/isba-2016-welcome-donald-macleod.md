@@ -1,6 +1,6 @@
 ---
 title: "ISBA 2016: Welcome - Donald Macleod"
-subtitle: "Donald Macleod, Conference Chair, welcomes visitors to the conference. Recorded at the 10th International Short Break Association conference, 13–15 September 2016, Edinburgh, Scotland. Music Credit: Something Elated by Broke For Free"
+subtitle: "Donald Macleod, Conference Chair, welcomes visitors to the conference."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-welcome-donald-macleod-1"
