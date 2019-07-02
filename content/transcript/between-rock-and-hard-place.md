@@ -1,6 +1,6 @@
 ---
 title: "Between a rock and a hard place"
-subtitle: "The first of two episodes to celebrate the Festival of Residential Child Care 2017. Debbie Nolan and Kristina Moodie (Centre for Youth & Criminal Justice) introduce the rationale behind, and findings of their 2016 research"
+subtitle: "The first of two episodes to celebrate the Festival of Residential Child Care 2017. Debbie Nolan and Kristina Moodie (Centre for Youth & Criminal Justice) introduce the rationale behind, and findings of their 2016 research."
 date: "2017-05-22T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/between-a-rock-and-a-hard-place-1"
