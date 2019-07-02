@@ -1,6 +1,6 @@
 ---
 title: "Families as peer workers in early childhood intervention"
-subtitle: "The work of Plumtree, an Australian not-for-profit organisation that provides support for young children from birth to 8 years old with a developmental delay or disability and their families"
+subtitle: "The work of Plumtree, an Australian not-for-profit organisation that provides support for young children from birth to 8 years old with a developmental delay or disability and their families."
 date: "2018-10-29T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/families-as-peer-workers-in-early-childhood-intervention-1"

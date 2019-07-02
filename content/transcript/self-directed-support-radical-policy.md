@@ -1,6 +1,6 @@
 ---
 title: "Self-directed support: a radical policy?"
-subtitle: "Dr Charlotte Pearson and Professor Nick Watson speak about their research on the policy"
+subtitle: "Dr Charlotte Pearson and Professor Nick Watson speak about their research on the policy."
 date: "2019-02-19T17:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/self-directed-support-a-radical-policy"

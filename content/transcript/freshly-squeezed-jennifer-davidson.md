@@ -1,6 +1,6 @@
 ---
 title: "Freshly Squeezed: Jennifer Davidson"
-subtitle: "Michelle Drumm interviews Professor Jennifer Davidson, Executive Director of Inspiring Children's Futures at the University of Strathclyde, which incorporates the Centre for Excellence for Looked After Children in Scotland (CELCIS)"
+subtitle: "Michelle Drumm interviews Professor Jennifer Davidson, Executive Director of Inspiring Children's Futures at the University of Strathclyde, which incorporates the Centre for Excellence for Looked After Children in Scotland (CELCIS)."
 date: "2018-10-30T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-jennifer-davidson-1"

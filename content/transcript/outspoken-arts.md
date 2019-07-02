@@ -1,6 +1,6 @@
 ---
 title: "Outspoken Arts"
-subtitle: "Michael McEwan speaks to Steven Thomson, Creative Director and CEO of Outspoken Arts"
+subtitle: "Michael McEwan speaks to Steven Thomson, Creative Director and CEO of Outspoken Arts."
 date: "2018-12-03T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/outspoken-arts-1"
