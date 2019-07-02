@@ -1,6 +1,6 @@
 ---
 title: "Parents with learning disabilities"
-subtitle: "As part of Learning Disability Week 2017, we held a roundtable discussion on the topic of parents with learning disabilities to coincide with the launch of our new Iriss Insight on the topic. The discussion highlights how best we can support families"
+subtitle: "As part of Learning Disability Week 2017, we held a roundtable discussion on the topic of parents with learning disabilities to coincide with the launch of our new Iriss Insight on the topic."
 date: "2017-05-14T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/parents-with-learning-disabilities-1"
