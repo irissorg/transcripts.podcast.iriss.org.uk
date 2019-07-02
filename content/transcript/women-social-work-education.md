@@ -1,6 +1,6 @@
 ---
 title: "Women in social work education"
-subtitle: "Navigating Troubled Waters"
+subtitle: "Navigating Troubled Waters."
 date: "2018-10-23T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/women-in-social-work-education-1"
