@@ -1,6 +1,6 @@
 ---
 title: "Alzheimer Scotland: Annual Conference and Dementia Awards"
-subtitle: "Iriss.fm recently spoke to Kirsty Wilson from Alzheimer Scotland about two upcoming events in 2017: their annual conference and the national Dementia Awards. She also tells us about some of the exciting work being undertaken by Alzheimer Scotland this ..."
+subtitle: "Iriss.fm recently spoke to Kirsty Wilson from Alzheimer Scotland about two upcoming events in 2017: their annual conference and the national Dementia Awards."
 date: "2017-03-09T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/alzheimer-scotland-annual-conference-and-dementia-awards-1"
