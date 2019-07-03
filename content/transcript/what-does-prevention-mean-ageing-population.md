@@ -1,6 +1,6 @@
 ---
 title: "What does prevention mean in an ageing population?"
-subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people"
+subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
 date: "2013-12-17T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/what-does-prevention-mean-in-an-ageing-population-1"
