@@ -1,6 +1,6 @@
 ---
 title: "Challenge Poverty Week: effects of welfare reform on practice and practitioners"
-subtitle: "Challenge Poverty Week: effects of welfare reform on practice and practitioners"
+subtitle: "The effects of welfare reform on practice and practitioners: How can we continue to deliver positive services?"
 date: "2013-10-08T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/challenge-poverty-week-effects-of-welfare-reform-on-practice-and-practitioners-1"
