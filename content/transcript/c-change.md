@@ -1,6 +1,6 @@
 ---
 title: "C-Change"
-subtitle: "In this episode, Michael McEwan speaks to Sheryl Walker, PR and Marketing Co-ordinator for C-Change, about the goals and objectives of C-Change and the work that it does. This year, C-Change is celebrating its 15th birthday,"
+subtitle: "Michael McEwan speaks to Sheryl Walker, PR and Marketing Co-ordinator for C-Change, about the goals and objectives of C-Change and the work that it does."
 date: "2016-08-07T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/c-change-1"
