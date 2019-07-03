@@ -1,6 +1,6 @@
 ---
 title: "Able Radio presents... December 2013"
-subtitle: "International Day of Disabled People 2013 Able Radio Trend Spotting / Social Care Ideas Factory"
+subtitle: "International Day of Disabled People 2013 Able Radio Trend Spotting / Social Care Ideas Factory."
 date: "2013-12-09T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/able-radio-presents-december-2013-1"
