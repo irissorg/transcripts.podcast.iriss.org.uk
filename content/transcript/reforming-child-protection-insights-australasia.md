@@ -1,6 +1,6 @@
 ---
 title: "Reforming child protection insights from Australasia"
-subtitle: "Professor Marie Connolly, shares her experiences of child welfare reform efforts in Australia and New Zealand. Situating these reforms within a broader frame of political change across the public sector, she discusses the ways in which reform occurs withi"
+subtitle: "Professor Marie Connolly, shares her experiences of child welfare reform efforts in Australia and New Zealand."
 date: "2016-06-13T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/reforming-child-protection-insights-from-australasia-1"
