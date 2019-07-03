@@ -1,6 +1,6 @@
 ---
 title: "Why attachment matters beyond early years. SAIA Conference 2013"
-subtitle: "During the Scottish Attachment In Action 2013 conference Iriss.fm spoke to the speakers - Tam Baillie, Judy Furnivall, Helen Minnis, Sally Wassell and Paul Gilroy"
+subtitle: "Iriss.fm spoke to the speakers - Tam Baillie, Judy Furnivall, Helen Minnis, Sally Wassell and Paul Gilroy."
 date: "2014-01-29T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/why-attachment-matters-beyond-early-years-saia-conference-2013-1"
