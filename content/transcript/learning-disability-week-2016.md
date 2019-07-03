@@ -1,6 +1,6 @@
 ---
 title: "Learning Disability Week 2016"
-subtitle: "Michael McEwan speaks to Linda Mitchell, Learning and Development Manager at Scottish Commission for Learning Disability, about the theme for this year and associated activities happening in Scotland"
+subtitle: "Michael McEwan speaks to Linda Mitchell, Learning and Development Manager at Scottish Commission for Learning Disability, about the theme for this year and associated activities happening in Scotland."
 date: "2016-05-01T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/learning-disability-week-2016-1"
