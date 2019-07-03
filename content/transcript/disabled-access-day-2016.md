@@ -1,6 +1,6 @@
 ---
 title: "Disabled Access Day 2016"
-subtitle: "Kiki McDonald, founder of Disabled Access Day, speaks to Able Radio's Michael McEwan about Disabled Access Day and associated events and activities. It will be held on 12 March 2016"
+subtitle: "Kiki McDonald, founder of Disabled Access Day, speaks to Able Radio's Michael McEwan about Disabled Access Day and associated events and activities."
 date: "2016-02-25T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/disabled-access-day-2016-1"
