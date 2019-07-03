@@ -1,6 +1,6 @@
 ---
 title: "Values into Action Scotland"
-subtitle: "Michael McEwan of Able Radio first talks to David Ross about how his work as a Quality Checker helps people bring more choice and control into their lives"
+subtitle: "Values into Action Scotland promotes rights and equality for people with learning difficulties and individuals on the autistic spectrum."
 date: "2015-07-12T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/values-into-action-scotland-1"
