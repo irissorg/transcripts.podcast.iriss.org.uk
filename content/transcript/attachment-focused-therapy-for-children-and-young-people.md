@@ -1,6 +1,6 @@
 ---
 title: "Attachment focused therapy for children and young people"
-subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, who are adopted or are in foster care or children have experienced abuse, neglect or tra"
+subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland."
 date: "2012-09-04T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/attachment-focused-therapy-for-children-and-young-people-1"
