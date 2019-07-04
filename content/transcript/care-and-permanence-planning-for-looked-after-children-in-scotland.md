@@ -1,6 +1,6 @@
 ---
 title: "Care and permanence planning for looked after children in Scotland"
-subtitle: "Recent research into the care and permanence planning for looked after children in Scotland. Working to fill a gap in evidence and to inform changes in policy and law through the Scottish Government's Looked After Children Strategic Implementation Group"
+subtitle: "Recent research into the care and permanence planning for looked after children in Scotland."
 date: "2012-02-16T00:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/care-and-permanence-planning-for-looked-after-children-in-scotland-1"
