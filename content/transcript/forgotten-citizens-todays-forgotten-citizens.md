@@ -1,6 +1,6 @@
 ---
 title: "Forgotten Citizens: today's forgotten citizens"
-subtitle: "Furrah Arshad: Furrah will introduce us to the work of her organisation Ethnic Enable and how it started up. She will also talk us through some of the major issues affecting people with learning disabilities from black and minority ethnic communities i..."
+subtitle: "Ethnic Enable and how it started up. Tahira is a young Asian woman with learning disabilities and she shares her experiences and hopes for her future with us."
 date: "2008-06-16T23:00:00+00:00"
 draft: false
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/forgotten-citizens-todays-forgotten-citizens-0"
