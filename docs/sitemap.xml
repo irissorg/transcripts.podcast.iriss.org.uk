@@ -1215,11 +1215,6 @@
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/__index/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
     <priority>0</priority>
   </url>
