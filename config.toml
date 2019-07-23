@@ -18,6 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 googleAnalytics = "UA-814723-45"
 
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 #  subtitle = ""
@@ -109,4 +110,6 @@ googleAnalytics = "UA-814723-45"
   [privacy.youtube]
     disable = true
     privacyEnhanced = true
-
+    
+[blackfriday]
+	smartypants = false
