@@ -6,7 +6,7 @@ theme = "beautifulhugo"
 publishDir = "docs"
 #enableRobotsTXT = true
 
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -17,7 +17,6 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 googleAnalytics = "UA-814723-45"
-
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
