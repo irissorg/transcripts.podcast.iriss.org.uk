@@ -3,25 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/calum-glasgow/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-calum-glasgow/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/about/</loc>
     <lastmod>2019-06-13T15:46:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
-    <lastmod>2019-06-13T15:46:05+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/research-governance-in-social-care/</loc>
     <lastmod>2019-06-07T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2019-06-07T12:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1212,16 +1253,6 @@
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/forgotten-citizens-welcome/</loc>
     <lastmod>2008-06-16T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

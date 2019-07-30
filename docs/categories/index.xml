@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Mon, 08 Jul 2019 07:10:00 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freshly Squeezed</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</link>
+      <pubDate>Mon, 08 Jul 2019 07:10:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

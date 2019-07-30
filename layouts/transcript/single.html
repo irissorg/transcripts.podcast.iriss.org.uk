@@ -3,12 +3,17 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-      	<p>{{ partial "post_meta.html" . }}</p>
-
-        {{ if .Params.iriss_episode_libsyn_url }}
-        <p><strong>Podcast Episode:</strong> <a href="{{ $.Params.iriss_episode_libsyn_url }}">{{.Params.title}}</a><br />
-        <strong>Transcript Copyright:</strong><br />
+        <!-- Intro blurb -->
+		<p>What follows is a transcription of the audio recording. Due to 
+		differences between spoken and written English, the transcript may contain quirks of grammar and syntax.</p>
+        {{ .Content }}
+        <hr />
+        <p><strong>Transcript Copyright:</strong><br />
         This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</p>
+        
+        {{ if .Params.iriss_episode_libsyn_url }}
+        <hr />
+        <p><strong>Podcast Episode:</strong> <a href="{{ $.Params.iriss_episode_libsyn_url }}">{{.Params.title}}</a></p>
  <!--
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/aberlour-glasgow-bridges-service-1"
 iriss_archive_libsyn_title: "Aberlour Glasgow Bridges service"
@@ -21,10 +26,17 @@ iriss_archive_website_url: "/resources/irissfm/aberlour-glasgow-bridges-service-
 iriss_archive_website_date_of_recording: "2012-03-06T12:00:00+0000"
 -->
         {{ end }}
-        <!-- Intro blurb -->
-		<p>What follows is a transcription of the audio recording. Due to 
-		differences between spoken and written English, the transcript may contain quirks of grammar and syntax.</p>
-        {{ .Content }}
+        
+        {{ if .Params.categories }}
+          <div class="blog-categories">
+          	<p><strong>Category:</strong>
+            {{ range .Params.categories }}
+              <a href="{{ $.Site.LanguagePrefix | absURL }}categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+            {{ end }}</p>
+          </div>
+        {{ end }}
+        
+        
         {{ if .Params.tags }}
           <div class="blog-tags">
             {{ range .Params.tags }}

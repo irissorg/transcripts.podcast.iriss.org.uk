@@ -24,7 +24,15 @@
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" />
                 {{ end }}
               </a>
-              {{ partial "transcript_meta_home.html" . }}
+              {{ if .Params.categories }}
+                <div class="blog-categories">
+                	<p><strong>Category:</strong>
+					{{ range .Params.categories }}
+						<a href="{{ $.Site.LanguagePrefix | absURL }}categories/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+					{{ end }}</p>
+				</div>
+              {{ end }}
+              {{ partial "post_meta.html" . }}
               {{ if .Params.tags }}
                 <div class="blog-tags">
                   {{ range .Params.tags }}

@@ -112,3 +112,9 @@ googleAnalytics = "UA-814723-45"
     
 [blackfriday]
 	smartypants = false
+	
+# remove default tags	
+[taxonomies]
+  category = "categories"
+  speaker = "speakers"
+  host = "hosts"
