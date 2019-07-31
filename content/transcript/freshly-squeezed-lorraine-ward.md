@@ -8,15 +8,6 @@ hosts: ["Michelle Drumm"]
 speakers: ["Lorraine Ward"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-lorraine-ward"
 ---
-[Insert transcript here prefixed by the speakers e.g.  MD - Michelle Drumm
-Two spaces to end of speaker name if you have multiple want a line break
-N.B. Replace the date with the Libsyn episode publication date. 
-Remember to set categories: ["Example"] where Example is the Libsyn category.
-Remember to set speakers (interviewees/speaker): ["Joe Blogs","Joanna Smith"]
-Remember to set hosts (interviewer): ["Joe Blogs","Joanna Smith"]
-Remember to set draft: false when finished editing ]
-
-
 MD - Michelle Drumm
 LW - Lorraine Ward
 
