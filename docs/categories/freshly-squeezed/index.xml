@@ -6,10 +6,19 @@
     <description>Recent content in Freshly Squeezed on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jul 2019 07:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 04:41:00 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freshly Squeezed: Lorraine Ward</title>
+      <link>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-lorraine-ward/</link>
+      <pubDate>Tue, 23 Jul 2019 04:41:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-lorraine-ward/</guid>
+      <description>[Insert transcript here prefixed by the speakers e.g. MD - Michelle Drumm Two spaces to end of speaker name if you have multiple want a line break N.B. Replace the date with the Libsyn episode publication date. Remember to set categories: [&amp;quot;Example&amp;quot;] where Example is the Libsyn category. Remember to set speakers (interviewees/speaker): [&amp;quot;Joe Blogs&amp;quot;,&amp;quot;Joanna Smith&amp;quot;] Remember to set hosts (interviewer): [&amp;quot;Joe Blogs&amp;quot;,&amp;quot;Joanna Smith&amp;quot;] Remember to set draft: false when finished editing ]</description>
+    </item>
     
     <item>
       <title>Freshly Squeezed Calum Glasgow</title>

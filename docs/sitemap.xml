@@ -3,19 +3,124 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/calum-glasgow/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/influencing-practice-relationships-matter/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/jackie-irvine/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2019-07-29T05:05:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</loc>
+    <lastmod>2019-07-23T04:41:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-lorraine-ward/</loc>
+    <lastmod>2019-07-23T04:41:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2019-07-23T04:41:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/lorraine-ward/</loc>
+    <lastmod>2019-07-23T04:41:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
+    <lastmod>2019-07-23T04:41:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/bruce-adamson/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/criminal-justice/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/fiona-dyer/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/james-frame/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/lady-dorrian/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/rosie-moore/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/tim-bateman/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/youth-justice-through-the-ages/</loc>
+    <lastmod>2019-07-18T04:28:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/calum-glasgow/</loc>
     <lastmod>2019-07-08T07:10:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -26,32 +131,13 @@
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/influencing-policy-relationships-matter/</loc>
+    <lastmod>2019-06-24T10:17:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
-    <lastmod>2019-07-08T07:10:00+01:00</lastmod>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/iona-colvin/</loc>
+    <lastmod>2019-06-24T10:17:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

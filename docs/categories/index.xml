@@ -6,17 +6,35 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jul 2019 07:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 05:05:00 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Social work (general)</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
+      <pubDate>Mon, 29 Jul 2019 05:05:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Freshly Squeezed</title>
       <link>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</link>
-      <pubDate>Mon, 08 Jul 2019 07:10:00 +0100</pubDate>
+      <pubDate>Tue, 23 Jul 2019 04:41:00 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criminal justice</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/criminal-justice/</link>
+      <pubDate>Thu, 18 Jul 2019 04:28:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/criminal-justice/</guid>
       <description></description>
     </item>
     
