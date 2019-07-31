@@ -8,7 +8,7 @@ hosts: ["Michelle Drumm"]
 speakers: ["Lorraine Ward"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-lorraine-ward"
 ---
-MD - Michelle Drumm
+MD - Michelle Drumm  
 LW - Lorraine Ward
 
 An interview with Lorraine Ward, a social worker awarded for Best Practice in Equality & Diversity at the SASW Awards 2019. 
