@@ -1,5 +1,5 @@
 ---
-title: "Influencing Policy Relationships Matter"
+title: "Influencing policy: relationships matter"
 subtitle: "Iona Colvin, Chief Social Work Adviser at Scottish Government, speaks about the importance of relationships at the newly qualified social worker conference."
 date: 2019-06-24T10:17:00+01:00
 draft: true
