@@ -3,6 +3,9 @@ title: "Access Film Club"
 subtitle: "Our roving reporter on disability issues, Michael McEwan, speaks to Jodie Wilkinson, the Public Engagement Coordinator of Access Film Club which is hosted at Glasgow Film Theatre."
 date: "2017-10-22T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Jodie Wilkinson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/access-film-club-1"
 iriss_archive_libsyn_title: "Access Film Club"
 iriss_archive_libsyn_subtitle: "Our roving reporter on disability issues, Michael McEwan, speaks to Jodie Wilkinson, the Public Engagement Coordinator of Access Film Club which is hosted at Glasgow Film Theatre."

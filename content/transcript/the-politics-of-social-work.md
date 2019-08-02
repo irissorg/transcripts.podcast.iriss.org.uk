@@ -3,6 +3,9 @@ title: "The politics of social work"
 subtitle: "An understanding of social work's political dimension is essential and that the failure to recognise this has been harmful both to the social work profession and to service users."
 date: "2013-04-17T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Iain Ferguson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-politics-of-social-work-1"
 iriss_archive_libsyn_title: "The politics of social work"
 iriss_archive_libsyn_subtitle: "An understanding of social work's political dimension is essential and that the failure to recognise this has been harmful both to the social work profession and to service users."

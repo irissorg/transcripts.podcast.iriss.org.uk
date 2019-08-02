@@ -3,6 +3,9 @@ title: "Recovery 2020: A vision achieved? SRN 5th national gathering"
 subtitle: "The main themes that emerged included the importance of relationships and working with, and empowering individuals and communities to make recovery a reality by 2020."
 date: "2013-03-18T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Simon Bradstreet", "Rachel Perkins", "John McCormack", "Louise Christie", "Jenny Graydon", "Elinor Dowson", "Susan Scott"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/recovery-2020-a-vision-achieved-srn-5th-national-gathering-1"
 iriss_archive_libsyn_title: "Recovery 2020: A vision achieved? SRN 5th national gathering"
 iriss_archive_libsyn_subtitle: "The main themes that emerged included the importance of relationships and working with, and empowering individuals and communities to make recovery a reality by 2020."

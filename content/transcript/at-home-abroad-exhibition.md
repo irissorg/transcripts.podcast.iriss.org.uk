@@ -3,6 +3,9 @@ title: "At Home Abroad exhibition"
 subtitle: "In the exhibition, children from four schools - migrants and non-migrants - share their views of the migratory experience through photographs, poems, objects, painting and collage."
 date: "2012-12-12T00:00:00+00:00"
 draft: false
+categories: ["Migration"]
+hosts: ["Michelle Drumm"]
+speakers: ["Daniele Sime"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/at-home-abroad-exhibition-1"
 iriss_archive_libsyn_title: "At Home Abroad exhibition"
 iriss_archive_libsyn_subtitle: "In the exhibition, children from four schools - migrants and non-migrants - share their views of the migratory experience through photographs, poems, objects, painting and collage."
@@ -14,7 +17,7 @@ iriss_archive_website_url: "/resources/irissfm/home-abroad-exhibition"
 iriss_archive_website_date_of_recording: "2012-12-12T12:00:00+0000"
 ---
 MD - Michelle Drumm  
-DS = Daniele Sime
+DS - Daniele Sime
 
 DS This exhibition is one of a series of events that we are organising for practitioners and general public policymakers, through a knowledge exchange programme of activities funded by the Economic and Social Research Council. The exhibition is an interactive, very visual child centred model of thinking about a topic which is often quite controversial and a lot of people will have different opinions on, bringing together people who are migrants, non-migrants, people who have positive or less positive views on migration, perhaps challenging stereo types that people might have about what migrants are like and what experiences of migration are, what are peoples reasons for migrating. So having part mediated process of disseminating research and looking at how visual materials can connect with the general public has been a novel idea in our research. We found that using art to connect with audiences that might not read research reports, might not think about research on migration, but still want to engage with a debate of what migration is for, what migration is like for newly arrived families and for people who are settled, is a very useful way of engaging the general public in the debate.
 

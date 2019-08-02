@@ -3,6 +3,9 @@ title: "SPAEN and self directed support"
 subtitle: "Colin Millar, Chief Executive of SPAEN (Scottish Personal Assistant Employers Network), talks to Michael McEwan of Able Radio about Self Directed Support in Scotland: the four options, SDS and carers, how to apply and the role of SPAEN."
 date: "2014-06-11T23:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michael McEwan"]
+speakers: ["Colin Millar"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/spaen-and-self-directed-support-1"
 iriss_archive_libsyn_title: "SPAEN and self directed support"
 iriss_archive_libsyn_subtitle: "Colin Millar, Chief Executive of SPAEN (Scottish Personal Assistant Employers Network), talks to Michael McEwan of Able Radio about Self Directed Support in Scotland: the four options, SDS and carers, how to apply and the role of SPAEN."

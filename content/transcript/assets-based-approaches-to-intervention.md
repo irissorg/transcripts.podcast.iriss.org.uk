@@ -3,6 +3,9 @@ title: "Assets-based approaches to intervention"
 subtitle: "Tap into and mobilise the human capital that exists in people and communities to create strong social and community networks."
 date: "2012-10-14T23:00:00+00:00"
 draft: false
+categories: ["Community development"]
+hosts: ["Lisa Pattoni"]
+speakers: ["Paul Morin", "Fiona Garven", "Jennifer McLean"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/assets-based-approaches-to-intervention-1"
 iriss_archive_libsyn_title: "Assets-based approaches to intervention"
 iriss_archive_libsyn_subtitle: "Tap into and mobilise the human capital that exists in people and communities to create strong social and community networks."

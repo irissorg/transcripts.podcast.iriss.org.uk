@@ -3,6 +3,9 @@ title: "ASSET (Age Specialist Services Emergency Team)"
 subtitle: "ASSET, which was set up in February 2012, is based in Coathill Hospital in Coatbridge. The team is running a Hospital at Home service for people aged over 65 (sometimes they take younger patients too)"
 date: "2014-10-05T23:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: []
+speakers: ["Trudi Marshall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/asset-age-specialist-services-emergency-team-1"
 iriss_archive_libsyn_title: "ASSET (Age Specialist Services Emergency Team)"
 iriss_archive_libsyn_subtitle: "ASSET, which was set up in February 2012, is based in Coathill Hospital in Coatbridge. The team is running a Hospital at Home service for people aged over 65 (sometimes they take younger patients too)"

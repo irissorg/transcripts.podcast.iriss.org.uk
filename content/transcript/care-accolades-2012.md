@@ -3,6 +3,9 @@ title: "Care Accolades 2012"
 subtitle: "Some of those involved in the inspiring projects nominated in the ten categories of award"
 date: "2012-06-21T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Gary Coutts", "Lisa Curtis", "Trisha Lowe", "Doug Fairweather", "Maureen O'Neill", "Maria McKay", "Mhairi Buttle", "Ashleigh Ryan", "Kenneth McGowan", "Karen Maley", "Kirsty Soutar", "Grace McVeigh", "Heather", "David Jarrold", "Nigel Henderson", "Jane Cumming", "Leah Ford", "Andrew Thomson", "Lindsay Kinloch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/care-accolades-2012-1"
 iriss_archive_libsyn_title: "Care Accolades 2012"
 iriss_archive_libsyn_subtitle: "Some of those involved in the inspiring projects nominated in the ten categories of award"

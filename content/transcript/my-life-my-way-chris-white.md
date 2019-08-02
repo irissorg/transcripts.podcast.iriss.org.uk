@@ -3,6 +3,9 @@ title: "My Life My Way: Chris White"
 subtitle: "Until his mid 20s Chris White was doing OK: working, married and a decent social life. He began to feel worried and anxious and quickly began to feel he couldn't cope. Between 1995 and 1999 Chris attended a day centre."
 date: "2014-10-03T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Chris White"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/my-life-my-way-chris-white-1"
 iriss_archive_libsyn_title: "My Life My Way: Chris White"
 iriss_archive_libsyn_subtitle: "Until his mid 20s Chris White was doing OK: working, married and a decent social life. He began to feel worried and anxious and quickly began to feel he couldn't cope. Between 1995 and 1999 Chris attended a day centre."

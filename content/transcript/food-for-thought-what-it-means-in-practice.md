@@ -3,6 +3,9 @@ title: "Food for Thought. What it means in practice"
 subtitle: "Iriss talks to attendees at the Food for Thought launch event on 19 November 2013 talk about the project and the educational resources that emerged from it."
 date: "2013-11-19T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Ruth Edmond", "Robbie Gilligan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-for-thought-what-it-means-in-practice-1"
 iriss_archive_libsyn_title: "Food for Thought. What it means in practice"
 iriss_archive_libsyn_subtitle: "Iriss talks to attendees at the Food for Thought launch event on 19 November 2013 talk about the project and the educational resources that emerged from it."

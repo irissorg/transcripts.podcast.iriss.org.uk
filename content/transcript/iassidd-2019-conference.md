@@ -3,6 +3,9 @@ title: "IASSIDD 2019 Conference"
 subtitle: "Michael McEwan speaks to Linda Mitchell from the Scottish Commission for Learning Disability (SCLD)."
 date: 2019-05-28T12:00:00+01:00
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Linda Mitchell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/iassidd-2019-conference"
 ---
 MM - Michael McEwan  
@@ -24,7 +27,7 @@ MM So, this is the 16th year and, as you say, it's brilliant that the congress i
 
 LM Well I suppose, why not Glasgow Michael? We've got so much to offer as a city and Scotland as a country, but I know Andrew and Anna work really hard to bring the congress to Scotland and it is a bit of kudos for the UK because it's the first time the congress has come to Scotland and I think Glasgow, as a city, is a gateway to the rest of Scotland so I think it's going to be a great venue and the Scottish Exhibition Campus has won lots of accolades about being a great place to hold a congress, so I think it will work well. 
 
-MM Every so often when the congress is on you pick a theme and I suppose it was up to the organising committee to pick the theme of the 1 for Future4All, so I suppose that says a lot about future (• unclear) again all walks of life, but why did you pick this theme? Why did you think it was important to have this?
+MM Every so often when the congress is on you pick a theme and I suppose it was up to the organising committee to pick the theme of the 1 for Future4All, so I suppose that says a lot about future (... unclear) again all walks of life, but why did you pick this theme? Why did you think it was important to have this?
 
 LM Well I think the whole local organising committee thought it was really, really important because we are bringing researchers from all corners of the globe together here who are interested in the whole lives of people with a learning disability and I think so many people collaborate and talk together and share ideas and knowledge and the topics covered from birth to old age. It's for everybody and it's everybody's future and we felt when we looked at the range of things that people were going to be submitting abstracts on, we just thought this is everybody's future and it should be a future for all. Now, that's not to say that everybody has a glowing future, because we know for so many people with a learning disability that might not be the case, but 1 of the things that the congress and the spirit of the congress is that by having Future4Alll, because I think our hope is that having a congress in Glasgow, that this will make a difference to the lives of people with a learning disability. All this research that's done needs to lead to practical change for people. Having the congress in Glasgow, we hope, will make a difference, not only to people with a learning disability in Glasgow and in Scotland and the UK, but in the wider world. So, there are particular interest host workshop topics. The congress is, I think, probably 1 of the times where all these people who are involved in research around learning disability get together in 1 location, so we want to make the most of that time together to share and collaborate. So, the academy workshops are really to bring people together around areas of special interest. The workshops are either half a day or a full day and the topics are quite wide ranging, from parenting to things like conversational analysis, to weight loss, to end of life. So, it's quite a breadth of topics that are covered through the academy workshops and people can sign up for these on the IASSIDD website as well, I will share those details. So, it's a fully jam-packed program. 
 

@@ -3,6 +3,9 @@ title: "Media and the criminal courts in Scotland"
 subtitle: "Blogging and microblogging in court. James Doleman started blogging during the Tommy Sheridan trial in 2006."
 date: "2012-11-01T00:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: ["Ian Watson"]
+speakers: ["James Doleman"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/media-and-the-criminal-courts-in-scotland-1"
 iriss_archive_libsyn_title: "Media and the criminal courts in Scotland"
 iriss_archive_libsyn_subtitle: "Blogging and microblogging in court. James Doleman started blogging during the Tommy Sheridan trial in 2006."

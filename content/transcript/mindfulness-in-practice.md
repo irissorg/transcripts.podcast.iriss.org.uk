@@ -3,6 +3,9 @@ title: "Mindfulness in practice"
 subtitle: "Mindfulness and its application to social services practice."
 date: "2013-12-18T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Sandra Gyalsten", "Jane Kellock"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/mindfulness-in-practice-1"
 iriss_archive_libsyn_title: "Mindfulness in practice"
 iriss_archive_libsyn_subtitle: "Mindfulness and its application to social services practice."

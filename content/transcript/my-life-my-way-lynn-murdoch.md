@@ -3,6 +3,9 @@ title: "My Life My Way: Lynn Murdoch"
 subtitle: "In our continuing series My Life, My Way Lynn Murdoch talks candidly to Michael McEwan of Able Radio about life with cerebral palsy. Lynn attended mainstream schools and tried office work for a while."
 date: "2015-12-18T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Lynn Murdoch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/my-life-my-way-lynn-murdoch-1"
 iriss_archive_libsyn_title: "My Life My Way: Lynn Murdoch"
 iriss_archive_libsyn_subtitle: "In our continuing series My Life, My Way Lynn Murdoch talks candidly to Michael McEwan of Able Radio about life with cerebral palsy. Lynn attended mainstream schools and tried office work for a while."

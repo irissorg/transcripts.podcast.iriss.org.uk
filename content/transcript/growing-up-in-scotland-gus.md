@@ -3,6 +3,9 @@ title: "Growing up in Scotland (GUS)"
 subtitle: "Study, which captures a picture of what life is like for children in Scotland, and the different pathways that children take as they grow up."
 date: "2012-02-06T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Paul Bradshaw"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/growing-up-in-scotland-gus-1"
 iriss_archive_libsyn_title: "Growing up in Scotland (GUS)"
 iriss_archive_libsyn_subtitle: "Study, which captures a picture of what life is like for children in Scotland, and the different pathways that children take as they grow up."

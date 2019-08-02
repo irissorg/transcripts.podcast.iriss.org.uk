@@ -3,6 +3,9 @@ title: "Looked after young people and home supervision requirements"
 subtitle: "Young people who are looked after at home or are under a Home Supervision Requirement make up the largest proportion of young people who are looked after."
 date: "2013-02-07T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["John Paul Fitzpatrick"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/looked-after-young-people-and-home-supervision-requirements-1"
 iriss_archive_libsyn_title: "Looked after young people and home supervision requirements"
 iriss_archive_libsyn_subtitle: "Young people who are looked after at home or are under a Home Supervision Requirement make up the largest proportion of young people who are looked after."

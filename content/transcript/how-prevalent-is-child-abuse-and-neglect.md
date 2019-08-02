@@ -3,6 +3,9 @@ title: "How prevalent is child abuse and neglect?"
 subtitle: "Are children's lives getting worse? Is there any evidence that our child protection efforts over the last 30 or 40 years have been making a difference?"
 date: "2012-04-26T23:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Lorraine Radford"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/how-prevalent-is-child-abuse-and-neglect-1"
 iriss_archive_libsyn_title: "How prevalent is child abuse and neglect?"
 iriss_archive_libsyn_subtitle: "Are children's lives getting worse? Is there any evidence that our child protection efforts over the last 30 or 40 years have been making a difference?"

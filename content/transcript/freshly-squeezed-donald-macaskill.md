@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Donald Macaskill"
 subtitle: "Michelle from Iriss interviews Dr Donald Macaskill, Chief Executive of Scottish Care."
 date: "2018-08-01T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Donald Macaskill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-donald-macaskill-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Donald Macaskill"
 iriss_archive_libsyn_subtitle: "Michelle from Iriss interviews Dr Donald Macaskill, Chief Executive of Scottish Care."

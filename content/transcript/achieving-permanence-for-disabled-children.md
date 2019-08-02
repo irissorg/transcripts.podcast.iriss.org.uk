@@ -3,6 +3,9 @@ title: "Achieving permanence for disabled children"
 subtitle: "A new piece of research - Achieving permanence for disabled children and young people in foster care and adoption."
 date: "2014-10-09T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michelle Drumm"]
+speakers: ["Liz Brabender", "Tam Baillie"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/achieving-permanence-for-disabled-children-1"
 iriss_archive_libsyn_title: "Achieving permanence for disabled children"
 iriss_archive_libsyn_subtitle: "A new piece of research - Achieving permanence for disabled children and young people in foster care and adoption."

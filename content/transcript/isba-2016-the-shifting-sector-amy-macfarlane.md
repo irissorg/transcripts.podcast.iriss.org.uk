@@ -3,6 +3,9 @@ title: "ISBA 2016: The shifting sector - Amy MacFarlane"
 subtitle: "Amy MacFarlane, Founder and Chief Executive at Recreational Respite talks about innovative partnerships and use of technology in respite provision in Canada."
 date: "2016-09-13T23:00:00+00:00"
 draft: false
+categories: ["Carers"]
+hosts: []
+speakers: ["Donald Macleod", "Amy McFarlane"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-the-shifting-sector-amy-macfarlane-1"
 iriss_archive_libsyn_title: "ISBA 2016: The shifting sector - Amy MacFarlane"
 iriss_archive_libsyn_subtitle: "Amy MacFarlane, Founder and Chief Executive at Recreational Respite talks about innovative partnerships and use of technology in respite provision in Canada."

@@ -3,6 +3,9 @@ title: "Scottish Mental Health Arts and Film Festival 2013"
 subtitle: "Guest presenter Heidi Tweedie, Highland Festival Publicity Co-ordinator, gives us a round-up the Scottish Mental Health Arts and Film Festival 2013 in the Highlands."
 date: "2013-11-21T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Heidi Tweedie"]
+speakers: ["Keith Walker", "Lee Knifton", "Richard Warden", "Douglas T Stuart", "Chris Evans", "Roger Hutchison", "Chris Salt", "Carrie Marshall", "Jackie Hodges"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/scottish-mental-health-arts-and-film-festival-2013-1"
 iriss_archive_libsyn_title: "Scottish Mental Health Arts and Film Festival 2013"
 iriss_archive_libsyn_subtitle: "Guest presenter Heidi Tweedie, Highland Festival Publicity Co-ordinator, gives us a round-up the Scottish Mental Health Arts and Film Festival 2013 in the Highlands."

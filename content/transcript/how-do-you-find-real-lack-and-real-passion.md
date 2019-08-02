@@ -3,6 +3,9 @@ title: "How do you find real lack and real passion?"
 subtitle: "On 24 October 2016 at the University of Strathclyde in Glasgow, Dr Robert French led an Iriss workshop exploring how to negotiate a way through the complexities of our managed world, in order to do some of the worthwhile things we feel passionate about."
 date: "2016-10-23T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Robert French"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/how-do-you-find-real-lack-and-real-passion-1"
 iriss_archive_libsyn_title: "How do you find real lack and real passion?"
 iriss_archive_libsyn_subtitle: "On 24 October 2016 at the University of Strathclyde in Glasgow, Dr Robert French led an Iriss workshop exploring how to negotiate a way through the complexities of our managed world, in order to do some of the worthwhile things we feel passionate about."

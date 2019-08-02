@@ -3,6 +3,9 @@ title: "C-Change"
 subtitle: "Michael McEwan speaks to Sheryl Walker, PR and Marketing Co-ordinator for C-Change, about the goals and objectives of C-Change and the work that it does."
 date: "2016-08-07T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Cheryl Walker"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/c-change-1"
 iriss_archive_libsyn_title: "C-Change"
 iriss_archive_libsyn_subtitle: "In this episode, Michael McEwan speaks to Sheryl Walker, PR and Marketing Co-ordinator for C-Change, about the goals and objectives of C-Change and the work that it does. This year, C-Change is celebrating its 15th birthday,"
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "C-Change"
 iriss_archive_website_url: "/resources/irissfm/c-change"
 iriss_archive_website_date_of_recording: "2016-08-08T13:00:00+0100"
 ---
-MM - Michael McEwan (Interviewer)  
+MM - Michael McEwan  
 CW - Cheryl Walker
 
 MM OK and we're at the C-Change office in Glasgow and we're joined by Cheryl Walker. Now Cheryl Walker is a PR in Marketing, Development Officer at C-Change. So Cheryl, can you tell us first of all what is C-Change?

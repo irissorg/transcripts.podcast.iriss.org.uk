@@ -3,6 +3,9 @@ title: "Protecting people through partnerships: WithScotland Conference 2012"
 subtitle: "Iriss.fm spoke to a number of the speakers, they offered their thoughts on the importance and challenges of partnership working and the significance of the conference."
 date: "2012-10-24T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Tom Wood", "Beth Smith", "Joy Barlow", "Brigid Daniel"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/protecting-people-through-partnerships-withscotland-conference-2012-1"
 iriss_archive_libsyn_title: "Protecting people through partnerships: WithScotland Conference 2012"
 iriss_archive_libsyn_subtitle: "Iriss.fm spoke to a number of the speakers, they offered their thoughts on the importance and challenges of partnership working and the significance of the conference."

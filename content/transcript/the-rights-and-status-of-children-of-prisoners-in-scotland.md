@@ -3,6 +3,9 @@ title: "The rights and status of children of prisoners in Scotland"
 subtitle: "Findings of work undertaken to explore the rights and status of the children of prisoners in Scotland."
 date: "2012-01-06T00:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: []
+speakers: ["Nico Juetten"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-rights-and-status-of-children-of-prisoners-in-scotland-1"
 iriss_archive_libsyn_title: "The rights and status of children of prisoners in Scotland"
 iriss_archive_libsyn_subtitle: "Findings of work undertaken to explore the rights and status of the children of prisoners in Scotland."

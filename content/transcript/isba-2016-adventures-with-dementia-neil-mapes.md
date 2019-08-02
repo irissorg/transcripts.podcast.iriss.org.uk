@@ -3,6 +3,9 @@ title: "ISBA 2016: Adventures with dementia - Neil Mapes"
 subtitle: "Dementia Adventure is a registered charity that is dedicated to supporting people to live well with dementia and have a sense of adventure in their lives."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: []
+speakers: ["Donald Macleod", "Neil Mapes"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-adventures-with-dementia-neil-mapes-1"
 iriss_archive_libsyn_title: "ISBA 2016: Adventures with dementia - Neil Mapes"
 iriss_archive_libsyn_subtitle: "Dementia Adventure is a registered charity that is dedicated to supporting people to live well with dementia and have a sense of adventure in their lives."

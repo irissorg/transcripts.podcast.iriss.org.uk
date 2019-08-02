@@ -2,6 +2,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+     <div class="collapse navbar-collapse" id="footer-navbar">
+		<ul class="list-inline text-center footer-links">
+		{{ range $key, $tag := .Site.Menus.footer.ByWeight }}
+			<li>{{- if ne $key 0 }} |&nbsp;&nbsp;{{- end -}}
+			<a title="{{ .Title }}" href="{{ .URL  | relLangURL }}">{{ .Name }}</a></li>
+		{{ end }}
+		</ul>
+       </div>     
+      <hr />
         <ul class="list-inline text-center footer-links">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
             {{- if isset $.Site.Author .id }}
@@ -37,12 +46,12 @@
 
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>,
+              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a> |
             {{ else }}
-              {{ .Site.Author.name }},
+              {{ .Site.Author.name }} |
             {{ end }}
           {{ end }}
-          <a href="https://www.iriss.org.uk/privacy-policy">Privacy policy</a>, 
+          <a href="https://www.iriss.org.uk/privacy-policy">Privacy policy</a> | 
           <a href="https://www.iriss.org.uk/contact">Contact</a>
         </p>
         <!-- Please don't remove this, keep my open source work credited :) -->

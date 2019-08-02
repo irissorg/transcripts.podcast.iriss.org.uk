@@ -3,6 +3,9 @@ title: "Imagining the Future: public debate part two"
 subtitle: "Public debate on the subject of social justice, chaired by the journalist Lesley Riddoch."
 date: "2014-05-18T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Lesley Riddoch", "Jackie McLeod", "Alison Urie", "Bob Hamilton"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/imagining-the-future-public-debate-part-two-1"
 iriss_archive_libsyn_title: "Imagining the Future: public debate part two"
 iriss_archive_libsyn_subtitle: "Public debate on the subject of social justice, chaired by the journalist Lesley Riddoch."
@@ -14,8 +17,8 @@ iriss_archive_website_url: "/resources/irissfm/imagining-future-public-debate-pa
 iriss_archive_website_date_of_recording: "2014-05-19T13:00:00+0100"
 ---
 MD - Michelle Drumm  
-LR -  Lesley Riddoch  
-JM -  Jackie McLeod  
+LR - Lesley Riddoch  
+JM - Jackie McLeod  
 AU - Alison Urie  
 BH - Bob Hamilton
 

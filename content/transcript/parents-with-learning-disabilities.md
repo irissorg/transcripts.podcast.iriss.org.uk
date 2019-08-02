@@ -3,6 +3,9 @@ title: "Parents with learning disabilities"
 subtitle: "As part of Learning Disability Week 2017, we held a roundtable discussion on the topic of parents with learning disabilities to coincide with the launch of our new Iriss Insight on the topic."
 date: "2017-05-14T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Kerry Musselbrook"]
+speakers: ["Andy Miller", "Amanda Muir", "Bianca Wood", "David Barr", "Gillian McIntrye"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/parents-with-learning-disabilities-1"
 iriss_archive_libsyn_title: "Parents with learning disabilities"
 iriss_archive_libsyn_subtitle: "As part of Learning Disability Week 2017, we held a roundtable discussion on the topic of parents with learning disabilities to coincide with the launch of our new Iriss Insight on the topic. The discussion highlights how best we can support families"
@@ -13,12 +16,12 @@ iriss_archive_website_pagetitle: "Parents with learning disabilities"
 iriss_archive_website_url: "/resources/irissfm/parents-learning-disabilities"
 iriss_archive_website_date_of_recording: "2017-05-15T13:00:00+0100"
 ---
+KM - Kerry Musselbrook  
 AMi - Andy Miller  
 AMu - Amanda Muir  
 BW - Bianca Wood  
 DB - David Barr  
 GM - Gillian McIntrye  
-KM - Kerry Musselbrook
 
 KM Morning everyone it's Learning Disability Week this week and today we are here to focus ton parents with learning disabilities. Today we are joined by a range of people, so welcome. We have Bianca Wood, People First Scotland, an organisation that works to support people with learning disabilities, to have more choice and control and Bianca is Chairperson of the People First Scotland Parents Group, a self-advocacy group that has been meeting for over ten years now. We also have Gillian McIntrye, one of the authors of the recent Iriss insight and evidence summary about this topic and she is from Strathclyde University. We are pleased to welcome Andy Miller from Scottish Commission for Learning Disability, Amanda Muir Development Manager at Equal Say, an Independent Advocacy organisation that works with adults with learning disabilities and last but not least we have David Barr from Aberlour Scotland's Children's Charity. So, welcome. I would like to kick off by setting the scene a little bit. So why does this matter. Well, we know from the evidence, that families where one or more parents have a learning disability are over represented in care proceedings. It is also estimated that between forty and sixty percent of parents with a learning disability have their children removed from their care. So, Bianca why is this?
 

@@ -4,9 +4,9 @@ subtitle: "An interview with Calum Glasgow, winner of Student Social Worker Awar
 date: 2019-07-08T07:10:00+01:00
 draft: false
 categories: ["Freshly Squeezed"]
-iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-calum-glasgow"
 hosts: ["Michelle Drumm"]
 speakers: ["Calum Glasgow"]
+iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-calum-glasgow"
 ---
 MD - Michelle Drumm  
 CG - Calum Glasgow

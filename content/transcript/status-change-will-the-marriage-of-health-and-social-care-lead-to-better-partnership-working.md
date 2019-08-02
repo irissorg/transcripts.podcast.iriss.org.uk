@@ -3,6 +3,9 @@ title: "Status change: will the marriage of health and social care lead to bette
 subtitle: "The Public Bodies (Joint Working) (Scotland) Bill that has passed through Scottish Parliament is aimed at ensuring closer integration of health and social care services across Scotland."
 date: "2014-03-27T00:00:00+00:00"
 draft: false
+categories: ["Integration"]
+hosts: []
+speakers: ["Alison Petch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/status-change-will-the-marriage-of-health-and-social-care-lead-to-better-partnership-working-1"
 iriss_archive_libsyn_title: "Status change: will the marriage of health and social care lead to better partnership working?"
 iriss_archive_libsyn_subtitle: "The Public Bodies (Joint Working) (Scotland) Bill that has passed through Scottish Parliament is aimed at ensuring closer integration of health and social care services across Scotland."
@@ -13,7 +16,6 @@ iriss_archive_website_pagetitle: "Status change: will the marriage of health and
 iriss_archive_website_url: "/resources/irissfm/status-change-will-marriage-health-social-care-lead-better-partnership-working"
 iriss_archive_website_date_of_recording: "2014-03-27T12:00:00+0000"
 ---
-MD - Michelle Drumm  
 AP - Alison Petch
 
 MD The Public Bodies (Joint Working) (Scotland) Bill that has passed through Scottish Parliament is aimed at ensuring closer integration of health and social care services across Scotland. Given a growing older population on the one hand and a past history of sometimes difficult working relationship between health and social work services on the other, any measure which will result in more joined-up services with less people falling through the gaps is to be welcomed. At the same time, it is clearly important to learn the lessons from previous attempts to improve joint working and to explore the implications of these changes for inter-professional education and working. These are some of the issues which Alison Petch, Director at Iriss explores in this seminar, based on her extensive research in this area.

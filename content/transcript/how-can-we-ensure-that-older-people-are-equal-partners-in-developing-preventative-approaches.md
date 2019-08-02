@@ -3,6 +3,9 @@ title: "How can we ensure that older people are equal partners in developing pre
 subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
 date: "2014-03-21T12:00:00+0000"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Vivien Moffat"]
+speakers: ["Irene Weeden", "Sarah Currie","Gerry Power","Agnes McGroarty","Glenda Watt","Betty Milton"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/how-can-we-ensure-that-older-people-are-equal-partners-in-developing-preventative-approaches-1"
 iriss_archive_libsyn_title: "How can we ensure that older people are equal partners in developing preventative approaches?"
 iriss_archive_libsyn_subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."

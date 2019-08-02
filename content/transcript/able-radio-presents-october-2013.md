@@ -3,6 +3,9 @@ title: "Able Radio presents- October 2013"
 subtitle: "Guest presenter, Michael McEwan from Able Radio offers the latest round-up of news and events for people with disabilities."
 date: "2013-10-20T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: []
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/able-radio-presents-october-2013-1"
 iriss_archive_libsyn_title: "Able Radio presents- October 2013"
 iriss_archive_libsyn_subtitle: "Guest presenter, Michael McEwan from Able Radio offers the latest round-up of news and events for people with disabilities."
@@ -13,10 +16,9 @@ iriss_archive_website_pagetitle: "Able Radio presents... October 2013"
 iriss_archive_website_url: "/resources/irissfm/able-radio-presents-october-2013"
 iriss_archive_website_date_of_recording: "2013-10-21T13:00:00+0100"
 ---
-MD - Michelle Drumm  
 MM - Michael McEwan
 
-MD In this episode, guest presenter, Michael McEwan from Able Radio, gives us the latest roundup of news and events for people with disabilities.
+In this episode, guest presenter, Michael McEwan from Able Radio, gives us the latest roundup of news and events for people with disabilities.
 
 MM Hello, welcome to Iriss.fm and welcome to this podcast. Coming up on this months podcast we will tell you a bit about a few AGM's taking place - Enable Scotland, Downs Syndrome Scotland, and we will tell you a bit about the SCLD, the Scottish Consortium for Learning Disabilities we have news of events taking place later in November. We will also tell you a bit about Trendspotting, a new project undertaken by the Social Ideas Factory.
 

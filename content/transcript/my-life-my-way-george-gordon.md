@@ -3,6 +3,9 @@ title: "My Life My Way: George Gordon"
 subtitle: "Michael McEwan of Able Radio talks to George Gordon, a part-time receptionist with with SCLD who has previously worked with Common Knowledge as an interviewer on the Special Olympics and as a support worker."
 date: "2015-11-26T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["George Gordon"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/my-life-my-way-george-gordon-1"
 iriss_archive_libsyn_title: "My Life My Way: George Gordon"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio talks to George Gordon, a part-time receptionist with with SCLD who has previously worked with Common Knowledge as an interviewer on the Special Olympics and as a support worker."

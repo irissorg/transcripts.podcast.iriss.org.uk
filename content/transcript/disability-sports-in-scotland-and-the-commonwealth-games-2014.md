@@ -3,6 +3,9 @@ title: "Disability sports in Scotland and the Commonwealth Games 2014"
 subtitle: "Michael McEwan of Able Radio speaks to Gavin Macleod, Chief Executive of Scottish Disability Sport about the work that they do and the build up to Glasgow 2014 Commonwealth Games."
 date: "2014-02-20T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Gavin MacLeod"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/disability-sports-in-scotland-and-the-commonwealth-games-2014-1"
 iriss_archive_libsyn_title: "Disability sports in Scotland and the Commonwealth Games 2014"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio speaks to Gavin Macleod, Chief Executive of Scottish Disability Sport about the work that they do and the build up to Glasgow 2014 Commonwealth Games."

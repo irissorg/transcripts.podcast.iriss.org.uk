@@ -3,6 +3,9 @@ title: "Using the Sony Playstation Portable (PsP) for context based learning"
 subtitle: "During 2013 Iriss worked with Key to explore how mobile technologies might provide context-based information and training for care workers."
 date: "2014-03-04T00:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: ["Ian Watson"]
+speakers: ["Alistair Welsh", "Sandy Marshall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/using-the-sony-playstation-portable-psp-for-context-based-learning-1"
 iriss_archive_libsyn_title: "Using the Sony Playstation Portable (PsP) for context based learning"
 iriss_archive_libsyn_subtitle: "During 2013 Iriss worked with Key to explore how mobile technologies might provide context-based information and training for care workers."

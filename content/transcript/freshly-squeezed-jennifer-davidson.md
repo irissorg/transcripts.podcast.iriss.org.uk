@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Jennifer Davidson"
 subtitle: "Michelle Drumm interviews Professor Jennifer Davidson, Executive Director of Inspiring Children's Futures at the University of Strathclyde, which incorporates the Centre for Excellence for Looked After Children in Scotland (CELCIS)."
 date: "2018-10-30T00:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Jennifer Davidson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-jennifer-davidson-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Jennifer Davidson"
 iriss_archive_libsyn_subtitle: "Michelle Drumm interviews Professor Jennifer Davidson, Executive Director of Inspiring Children's Futures at the University of Strathclyde, which incorporates the Centre for Excellence for Looked After Children in Scotland (CELCIS)"
@@ -26,7 +29,7 @@ MD It's fantastic to meet you, you have done a lot for children and children's s
 
 JD I've been thinking about that question for some time, I think I've always wanted to help people. I think there's always been a sense of wanting to help ... I would never have known to name it social services until after I left high school so yeah, I think ... I grew up in a family that were very sort of science'y and medically and so social services really wasn't on the radar for us and I knew the expectation was I was meant to go to university so, when it was time to go to university, I had no idea what I was going to be studying. I did a tour of the university in Montreal, where I was going to be studying and I passed the door of the social work building and suddenly it was like this epiphany and I thought, "Oh, my gosh that's exactly what I want to do." I'd been doing some work with young people from disadvantaged areas in Toronto and I knew that those young people had social workers working in their life and how important those social workers were to those young people but it wasn't until I sort of suddenly had this moment of, "Oh, of course I don't want to do French Translation. Of course, I want to do social work." And so, it was through this moment when I realised everything that I was really passionate about in terms of wanting to see justice done and wanting to support people during times when things were really hard for them that actually there was a professional name for that and I could sort of justify professionally this was actually a legitimate place I could pour my energy into.
 
-MD Sure./p>
+MD Sure.
 
 JD I was what, eighteen or nineteen at the time, completely convinced that's what I wanted to do.
 

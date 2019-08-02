@@ -3,6 +3,9 @@ title: "Promoting Excellence in Dementia Education Conference"
 subtitle: "The Promoting Excellence in Dementia Education conference was held on 18 September 2013 at the Stirling Management Centre. It was organised by NHS Education for Scotland (NES) and Scottish Social Services Council (SSSC)."
 date: "2013-09-17T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Henry Simmons", "Peter McLaughlin", "Mairead Rae", "Pamela Mackay"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/promoting-excellence-in-dementia-education-conference-1"
 iriss_archive_libsyn_title: "Promoting Excellence in Dementia Education Conference"
 iriss_archive_libsyn_subtitle: "The Promoting Excellence in Dementia Education conference was held on 18 September 2013 at the Stirling Management Centre. It was organised by NHS Education for Scotland (NES) and Scottish Social Services Council (SSSC)."

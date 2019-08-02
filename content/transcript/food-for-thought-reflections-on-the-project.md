@@ -3,6 +3,9 @@ title: "Food for Thought. Reflections on the project"
 subtitle: "Professor Brigid Daniel reflects on the main messages from the original food practices research as well the the Food for Thought project."
 date: "2013-11-19T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Brigid Daniel"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-for-thought-reflections-on-the-project-1"
 iriss_archive_libsyn_title: "Food for Thought. Reflections on the project"
 iriss_archive_libsyn_subtitle: "Professor Brigid Daniel reflects on the main messages from the original food practices research as well the the Food for Thought project."
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "Food for Thought. Reflections on the project"
 iriss_archive_website_url: "/resources/irissfm/food-thought-reflections-project"
 iriss_archive_website_date_of_recording: "2013-11-19T12:00:00+0000"
 ---
-BD -  Bridget Daniel
+BD -  Professor Bridget Daniel
 
 The Food for Thought project grew out of research undertaken by the University of Stirling into the symbolic role of food in foster and residential child care. Bridget Daniel is Professor of Social Work at the University of Stirling, she pooled together the main messages from the original Food Practices research as well as the Food for Thought project. She highlighted the value in combining practice based evidence with academic research adding a sprinkling of the day to day experiences of children and young people.
 

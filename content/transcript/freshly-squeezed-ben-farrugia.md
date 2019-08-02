@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Ben Farrugia"
 subtitle: "Michelle Drumm interviews Ben Farrugia, Director of Social Work Scotland."
 date: "2019-03-19T16:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Ben Farrugia"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-ben-farrugia"
 iriss_archive_libsyn_title: "Freshly Squeezed: Ben Farrugia"
 iriss_archive_libsyn_subtitle: "Michelle Drumm interviews Ben Farrugia, Director of Social Work Scotland."

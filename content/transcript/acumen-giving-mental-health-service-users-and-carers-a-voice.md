@@ -3,6 +3,9 @@ title: "Acumen: giving mental health service users and carers a voice"
 subtitle: "Michael McEwan of Able Radio speaks to Pauline Vance, Development Worker at Acumen, about its supports and services."
 date: "2016-05-16T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michael McEwan"]
+speakers: ["Pauline Vance"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/acumen-giving-mental-health-service-users-and-carers-a-voice-1"
 iriss_archive_libsyn_title: "Acumen: giving mental health service users and carers a voice"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio speaks to Pauline Vance, Development Worker at Acumen, about its supports and services."

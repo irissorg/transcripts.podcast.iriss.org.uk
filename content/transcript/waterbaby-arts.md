@@ -3,6 +3,9 @@ title: "Waterbaby Arts"
 subtitle: "We hear about the work of Waterbaby Arts and the experiences of Sandy and Maureen."
 date: 2019-04-30T12:00:00+01:00
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Ruth Foster", "Maureen Graham", "Sandy Graham"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/waterbaby-arts"
 ---
 MM - Michael McEwan  

@@ -3,6 +3,9 @@ title: "ISBA 2016: Anything to declare? - Jaynie Mitchell"
 subtitle: "Jaynie Mitchell, Director at Inspiring Inclusion (Scotland) shares the experience of her own family of accessing appropriate services and support for her son who was diagnosed with autism as a child."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Carers"]
+hosts: []
+speakers: ["Donald Macleod", "Jaynie Mitchell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-anything-to-declare-jaynie-mitchell-1"
 iriss_archive_libsyn_title: "ISBA 2016: Anything to declare? - Jaynie Mitchell"
 iriss_archive_libsyn_subtitle: "Jaynie Mitchell, Director at Inspiring Inclusion (Scotland) shares the experience of her own family of accessing appropriate services and support for her son who was diagnosed with autism as a child."
@@ -14,7 +17,7 @@ iriss_archive_website_url: "/resources/irissfm/isba-2016-anything-declare-jaynie
 iriss_archive_website_date_of_recording: "2016-09-13T13:00:00+0100"
 ---
 DM - Donald Macleod  
-JM - Janie Mitchell
+JM - Jaynie Mitchell
 
 DM The theme of today is to look at ways in which we can enable people to develop policies and practices to maximise opportunities for people to experience real choice and control over their short breaks. Today we are looking at unlocking the potential of family and friends. What are the different ways we can support people to achieve the breaks they want? How do we promote creativity against the back drop of increasing regulation and major funding constraints? What can help us to make progress? It's my pleasure to introduce to Jaynie Mitchell who is the Director of Inspiring Inclusion and Jaynie will share her family's experience of accessing appropriate services and support for her son Ross who was diagnosed with Autism at the age of 20 months. She is a champion and passionate advocate for more flexible person centre and services and she will talk about the before and after impact of self-directed support, particularly in relation to how this helped open up new opportunities for Ross and family to plan the breaks they wanted and achieve better outcomes all round. So would you please welcome to the stage, Jaynie Mitchell.
 

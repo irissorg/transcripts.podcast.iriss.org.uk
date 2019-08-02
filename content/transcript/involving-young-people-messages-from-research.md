@@ -3,6 +3,9 @@ title: "Involving young people: messages from research"
 subtitle: "Helen Whincup, Teaching Fellow at the University of Stirling, reflects on a qualitative study of young people and their feelings about how they are involved, or not, in assessment and decision making."
 date: "2012-04-29T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Helen Whincup"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/involving-young-people-messages-from-research-1"
 iriss_archive_libsyn_title: "Involving young people: messages from research"
 iriss_archive_libsyn_subtitle: "Helen Whincup, Teaching Fellow at the University of Stirling, reflects on a qualitative study of young people and their feelings about how they are involved, or not, in assessment and decision making."

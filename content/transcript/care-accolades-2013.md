@@ -3,6 +3,9 @@ title: "Care Accolades 2013"
 subtitle: "Iriss.fm spoke to a number of people involved in the many projects nominated for awards, as well as Alan Baird, Chief Social Work Advisor at Scottish Government; and Anna Fowlie, Chief Executive of SSSC."
 date: "2013-05-30T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Alan Baird", "Anna Fowlie", "Susan McGregor", "Margaret Richmond", "Marlene Murray", "Diane Wright", "Caroline Tumath", "Alex Wallace", "David McKay", "David Bleasdale"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/care-accolades-2013-1"
 iriss_archive_libsyn_title: "Care Accolades 2013"
 iriss_archive_libsyn_subtitle: "Iriss.fm spoke to a number of people involved in the many projects nominated for awards, as well as Alan Baird, Chief Social Work Advisor at Scottish Government; and Anna Fowlie, Chief Executive of SSSC."

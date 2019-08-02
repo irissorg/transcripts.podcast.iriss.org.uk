@@ -3,6 +3,9 @@ title: "ISBA 2016: ISBA values and themes - Don Williamson"
 subtitle: "Don Williamson, ISBA President and Chief Executive at Shared Care Scotland details how the conference came to be hosted in Scotland in 2016 and the value that previous conferences have contributed to the sector."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Carers"]
+hosts: []
+speakers: ["Donald Macleod", "Don Williamson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-isba-values-and-themes-don-williamson-1"
 iriss_archive_libsyn_title: "ISBA 2016: ISBA values and themes - Don Williamson"
 iriss_archive_libsyn_subtitle: "Don Williamson, ISBA President and Chief Executive at Shared Care Scotland details how the conference came to be hosted in Scotland in 2016 and the value that previous conferences have contributed to the sector."

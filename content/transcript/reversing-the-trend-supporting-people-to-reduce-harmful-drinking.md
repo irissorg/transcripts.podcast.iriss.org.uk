@@ -3,6 +3,9 @@ title: "Reversing the trend: supporting people to reduce harmful drinking"
 subtitle: "Resource developed by Partnership Drugs Initiative (PDI) and Evaluation Support Scotland (ESS) with practitioners to help gather and disseminate evidence on the impact of preventative approaches for young people at risk of developing alcohol issues."
 date: "2015-05-13T23:00:00+00:00"
 draft: false
+categories: ["Substance misuse"]
+hosts: []
+speakers: ["Elaine Wilson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/reversing-the-trend-supporting-people-to-reduce-harmful-drinking-1"
 iriss_archive_libsyn_title: "Reversing the trend: supporting people to reduce harmful drinking"
 iriss_archive_libsyn_subtitle: "Resource developed by Partnership Drugs Initiative (PDI) and Evaluation Support Scotland (ESS) with practitioners to help gather and disseminate evidence on the impact of preventative approaches for young people at risk of developing alcohol issues."

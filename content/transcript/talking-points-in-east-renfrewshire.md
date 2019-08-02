@@ -3,6 +3,9 @@ title: "Talking Points in East Renfrewshire"
 subtitle: "Michael McEwan speaks to Gerry Tougher, Public Engagement Officer at East Renfrewshire Council about Talking Points, a new approach to providing information and support to people in their local communities."
 date: "2018-08-06T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Gerry Tougher"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/talking-points-in-east-renfrewshire-1"
 iriss_archive_libsyn_title: "Talking Points in East Renfrewshire"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Gerry Tougher, Public Engagement Officer at East Renfrewshire Council about Talking Points, a new approach to providing information and support to people in their local communities."

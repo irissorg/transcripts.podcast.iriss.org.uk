@@ -3,6 +3,9 @@ title: "Conversation with Greg Campbell, a support worker"
 subtitle: "Michael McEwan speaks to Greg Campbell, a support worker who works with vulnerable adults."
 date: "2017-11-16T00:00:00+00:00"
 draft: false
+categories: ["Practitioner stories"]
+hosts: ["Michael McEwan"]
+speakers: ["Greg Campbell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/conversation-with-greg-campbell-a-support-worker-1"
 iriss_archive_libsyn_title: "Conversation with Greg Campbell, a support worker"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Greg Campbell, a support worker who works with vulnerable adults."

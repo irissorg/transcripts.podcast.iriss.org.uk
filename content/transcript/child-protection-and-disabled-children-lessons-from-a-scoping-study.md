@@ -3,6 +3,9 @@ title: "Child protection and disabled children: lessons from a scoping study"
 subtitle: "Recorded Scottish Child Care and Protection Network. Contemporary issues in child protection seminar."
 date: "2011-04-04T23:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Kirsten Stalker"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/child-protection-and-disabled-children-lessons-from-a-scoping-study-1"
 iriss_archive_libsyn_title: "Child protection and disabled children: lessons from a scoping study"
 iriss_archive_libsyn_subtitle: "Recorded Scottish Child Care and Protection Network. Contemporary issues in child protection seminar."
@@ -35,4 +38,7 @@ Joint working is crucial to child protection, and there could be opportunities f
 
 Inspection processes could pay particular attention to cases involving disabled children, so really trying to gain the learning from those cases.
 
-If you want to look at our full research report and our full literature review, they are on 'strathprints' at the University of Strathclyde website and they will be attached to this recording.
+If you want to look at our full research report[^1] and our full literature review[^2], they are on 'strathprints' at the University of Strathclyde website and they will be attached to this recording.
+
+[^1]: [Child protection and the needs and rights of disabled children and young people: A scoping study](https://strathprints.strath.ac.uk/27036/)
+[^2]: [Visible or invisible : the presence of disabled children in child protection policy in the four countries of the UK](https://strathprints.strath.ac.uk/42077/)

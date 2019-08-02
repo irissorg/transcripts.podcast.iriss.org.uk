@@ -3,6 +3,9 @@ title: "Birth family contact. Continuity or contamination?"
 subtitle: "Mary McKenna interviews Barbara Godden about her experience of contact with the birth family of her adopted children, now in their teens."
 date: "2012-06-19T23:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Mary McKenna", "Barbara Godden"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/birth-family-contact-continuity-or-contamination-3"
 iriss_archive_libsyn_title: "Birth family contact. Continuity or contamination?"
 iriss_archive_libsyn_subtitle: "Mary McKenna interviews Barbara Godden about her experience of contact with the birth family of her adopted children, now in their teens."

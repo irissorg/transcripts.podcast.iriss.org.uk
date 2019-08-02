@@ -3,6 +3,9 @@ title: "Neighbourhood Networks"
 subtitle: "Michael McEwan speaks to Lauren May, Network Manager for Glasgow about Neighbourhood Networks and the services it provides."
 date: "2016-06-23T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Lauren May"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/neighbourhood-networks-1"
 iriss_archive_libsyn_title: "Neighbourhood Networks"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Lauren May, Network Manager for Glasgow about Neighbourhood Networks and the services it provides."

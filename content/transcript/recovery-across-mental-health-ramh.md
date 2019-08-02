@@ -3,6 +3,9 @@ title: "Recovery Across Mental Health (RAMH)"
 subtitle: "Recovery Across Mental Health (formerly Renfrewshire Association for Mental Health) is an independent voluntary sector organisation that aims to enable people to recover from mental ill health and to promote wellbeing."
 date: "2015-04-20T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michael McEwan"]
+speakers: ["Karen Milne"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/recovery-across-mental-health-ramh-1"
 iriss_archive_libsyn_title: "Recovery Across Mental Health (RAMH)"
 iriss_archive_libsyn_subtitle: "Recovery Across Mental Health (formerly Renfrewshire Association for Mental Health) is an independent voluntary sector organisation that aims to enable people to recover from mental ill health and to promote wellbeing."

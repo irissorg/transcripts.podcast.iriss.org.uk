@@ -3,6 +3,9 @@ title: "In Control Scotland"
 subtitle: "In this episode, Michael McEwan speaks to Keith Etherington, Director of In Control Scotland about the services the organisation provides."
 date: "2016-10-02T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michael McEwan"]
+speakers: ["Keith Etherington"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/in-control-scotland-1"
 iriss_archive_libsyn_title: "In Control Scotland"
 iriss_archive_libsyn_subtitle: "In this episode, Michael McEwan speaks to Keith Etherington, Director of In Control Scotland about the services the organisation provides."
@@ -13,8 +16,8 @@ iriss_archive_website_pagetitle: "In Control Scotland"
 iriss_archive_website_url: "/resources/irissfm/control-scotland"
 iriss_archive_website_date_of_recording: "2016-10-03T13:00:00+0100"
 ---
-MM Michael McEwan  
-KE Keith Etherington
+MM - Michael McEwan  
+KE - Keith Etherington
 
 MM Ok, now on Iriss.fm we are in the In Control Scotland office and we are speaking to Keith Etherington, who is the director of In Control Scotland. So, first of all Keith, can you tell us more information about what is In Control Scotland?
 

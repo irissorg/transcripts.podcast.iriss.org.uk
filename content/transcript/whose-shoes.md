@@ -3,6 +3,9 @@ title: "Whose Shoes?"
 subtitle: "Michelle Drumm from Iriss has a conversation with Gill Phillips (the creator of Whose Shoes?) and Ken Howard (a media ambassador for people with dementia)"
 date: "2014-11-24T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Gill Phillips", "Ken Howard", "Dorothy Hall", "Marion Brown"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/whose-shoes-1"
 iriss_archive_libsyn_title: "Whose Shoes?"
 iriss_archive_libsyn_subtitle: "Michelle Drumm from Iriss has a conversation with Gill Phillips (the creator of Whose Shoes?) and Ken Howard (a media ambassador for people with dementia)"

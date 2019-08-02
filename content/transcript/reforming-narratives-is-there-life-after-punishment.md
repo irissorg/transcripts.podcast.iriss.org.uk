@@ -3,6 +3,9 @@ title: "Reforming narratives: is there life after punishment?"
 subtitle: "Sutherland Trust lecture: 'Reforming narratives: is there life after punishment?' presented by Fergus McNeill, Professor of Criminology and Social Work and Head of Sociology at the University of Glasgow."
 date: "2014-10-29T00:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: []
+speakers: ["Fergus McNeill", "Louis Abbott"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/reforming-narratives-is-there-life-after-punishment-1"
 iriss_archive_libsyn_title: "Reforming narratives: is there life after punishment?"
 iriss_archive_libsyn_subtitle: "Sutherland Trust lecture: 'Reforming narratives: is there life after punishment?' presented by Fergus McNeill, Professor of Criminology and Social Work and Head of Sociology at the University of Glasgow."

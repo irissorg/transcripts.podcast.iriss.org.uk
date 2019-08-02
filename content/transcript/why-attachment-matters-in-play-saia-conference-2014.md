@@ -3,6 +3,9 @@ title: "Why attachment matters: in play, SAIA Conference 2014"
 subtitle: "Theraplay is a child and family therapy aimed at enhancing and building attachment, self-esteem, trust in others, and joyful engagement."
 date: "2014-12-05T00:00:00+00:00"
 draft: false
+categories: ["Attachment"]
+hosts: []
+speakers: ["Edwina Grant"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/why-attachment-matters-in-play-saia-conference-2014-1"
 iriss_archive_libsyn_title: "Why attachment matters: in play, SAIA Conference 2014"
 iriss_archive_libsyn_subtitle: "Theraplay is a child and family therapy aimed at enhancing and building attachment, self-esteem, trust in others, and joyful engagement."

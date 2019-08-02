@@ -3,6 +3,9 @@ title: "Permanence panel: part one"
 subtitle: "This mock Adoption and Permanence Panel considers the case of nine month old Douglas who is being considered for adoption. All characters are fictional although the facts of the case are drawn from real cases."
 date: "2012-02-11T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Chair", "Dave", "Margaret", "Anne", "Jean", "Helen"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/permanence-panel-part-1-1"
 iriss_archive_libsyn_title: "Permanence panel: part one"
 iriss_archive_libsyn_subtitle: "This mock Adoption and Permanence Panel considers the case of nine month old Douglas who is being considered for adoption. All characters are fictional although the facts of the case are drawn from real cases."

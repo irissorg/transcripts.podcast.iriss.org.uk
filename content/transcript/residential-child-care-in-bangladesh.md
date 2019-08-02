@@ -3,6 +3,9 @@ title: "Residential child care in Bangladesh"
 subtitle: "As a forester starting out with no qualifications in social work, Tuhinul did voluntary work with street children and the children of sex workers in Bangladesh."
 date: "2013-07-22T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: ["Ian Watson"]
+speakers: ["Tuhinul Islam"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/residential-child-care-in-bangladesh-1"
 iriss_archive_libsyn_title: "Residential child care in Bangladesh"
 iriss_archive_libsyn_subtitle: "As a forester starting out with no qualifications in social work, Tuhinul did voluntary work with street children and the children of sex workers in Bangladesh."

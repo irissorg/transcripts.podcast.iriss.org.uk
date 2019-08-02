@@ -3,6 +3,9 @@ title: "What does it mean to be a radical?"
 subtitle: "Angela Morgan, Chief Executive at Includem. Includem provides intensive support services for Scotland's most vulnerable young people."
 date: "2014-11-14T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Angela Morgan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/what-does-it-mean-to-be-a-radical-1"
 iriss_archive_libsyn_title: "What does it mean to be a radical?"
 iriss_archive_libsyn_subtitle: "Angela Morgan, Chief Executive at Includem. Includem provides intensive support services for Scotland's most vulnerable young people."

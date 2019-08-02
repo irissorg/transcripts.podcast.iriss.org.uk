@@ -3,6 +3,9 @@ title: "Food for Thought. The experience of partnership and co-production"
 subtitle: "Jane Alcorn of Foster Care Associates describes her experience of being part of the project in particular working with academics. Laura Steckley of the University of Strathclyde who reflects on the pros and cons of co-production."
 date: "2013-11-19T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Jane Alcorn", "Laura Steckley"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-for-thought-the-experience-of-partnership-and-co-production-1"
 iriss_archive_libsyn_title: "Food for Thought. The experience of partnership and co-production"
 iriss_archive_libsyn_subtitle: "Jane Alcorn of Foster Care Associates describes her experience of being part of the project in particular working with academics. Laura Steckley of the University of Strathclyde who reflects on the pros and cons of co-production."
@@ -13,8 +16,7 @@ iriss_archive_website_pagetitle: "Food for Thought. The experience of partnershi
 iriss_archive_website_url: "/resources/irissfm/food-thought-experience-partnership-coproduction"
 iriss_archive_website_date_of_recording: "2013-11-19T12:00:00+0000"
 ---
-JA - Jane Alcorn
-
+JA - Jane Alcorn  
 LS - Laura Steckley
 
 Food for Thought project grew out of research undertaken by the University of Stirling, into the symbolic role of food in foster and residential child care. Jane Alcorn, of Foster Care Associates, explains her experience in being part of the project, in particular working with academics. She mentions the difference between an evidence based practice and practice based evidence. Jane is followed by Laura Steckley of the University of Strathclyde who reflects on the pros and cons of co-production.

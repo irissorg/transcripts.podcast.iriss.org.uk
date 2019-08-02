@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Iona Colvin"
 subtitle: "Michelle Drumm spoke to Iona Colvin, Chief Social Work Adviser for Scotland."
 date: "2018-06-10T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Iona Colvin"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-iona-colvin-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Iona Colvin"
 iriss_archive_libsyn_subtitle: "Michelle Drumm spoke to Iona Colvin, Chief Social Work Adviser for Scotland."

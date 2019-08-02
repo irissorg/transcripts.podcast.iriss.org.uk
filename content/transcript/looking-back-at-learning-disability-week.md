@@ -3,6 +3,9 @@ title: "Looking back at Learning Disability Week"
 subtitle: "Our roving reporter on disability issues, Michael McEwan, attended a number of events over Learning Disability Week 2018 (14-20 May) and spoke to the organisers."
 date: "2018-06-25T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Katie Morris", "Paul O'Kane"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/looking-back-at-learning-disability-week-1"
 iriss_archive_libsyn_title: "Looking back at Learning Disability Week"
 iriss_archive_libsyn_subtitle: "Our roving reporter on disability issues, Michael McEwan, attended a number of events over Learning Disability Week 2018 (14-20 May) and spoke to the organisers."

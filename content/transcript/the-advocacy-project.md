@@ -3,6 +3,9 @@ title: "The Advocacy Project"
 subtitle: "Catriona Rowley of The Advocacy Project talks to Michael McEwan of Able Radio about advocacy and the services offered by the project."
 date: "2014-04-26T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michael McEwan"]
+speakers: ["Catriona Rowley"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-advocacy-project-1"
 iriss_archive_libsyn_title: "The Advocacy Project"
 iriss_archive_libsyn_subtitle: "Catriona Rowley of The Advocacy Project talks to Michael McEwan of Able Radio about advocacy and the services offered by the project."

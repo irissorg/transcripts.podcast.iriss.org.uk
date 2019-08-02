@@ -3,6 +3,9 @@ title: "Glasgow Disability Alliance"
 subtitle: "In this episode Michael McEwan speaks to Brian Scott, Development Manager at the Glasgow Disability Alliance about the work that it does."
 date: "2016-11-09T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Brian Scott"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/glasgow-disability-alliance-1"
 iriss_archive_libsyn_title: "Glasgow Disability Alliance"
 iriss_archive_libsyn_subtitle: "In this episode Michael McEwan speaks to Brian Scott, Development Manager at the Glasgow Disability Alliance about the work that it does."
@@ -74,4 +77,4 @@ BS It's very, very straightforward and I should stress that you know membership 
 
 MM Okay thanks Brian for you time and good luck.
 
-BS Thanks very much Michael
+BS Thanks very much Michael.

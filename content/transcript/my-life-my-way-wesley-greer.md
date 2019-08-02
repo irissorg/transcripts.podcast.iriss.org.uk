@@ -3,6 +3,9 @@ title: "My Life My Way: Wesley Greer"
 subtitle: "Never underestimate people with disability. Wesley (Wes) Greer talks to Michael McEwan of Able Radio about his life from school through the highs and lows of breaking into performing arts."
 date: "2016-01-14T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Wes Greer"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/my-life-my-way-wesley-greer-1"
 iriss_archive_libsyn_title: "My Life My Way: Wesley Greer"
 iriss_archive_libsyn_subtitle: "Never underestimate people with disability. Wesley (Wes) Greer talks to Michael McEwan of Able Radio about his life from school through the highs and lows of breaking into performing arts."

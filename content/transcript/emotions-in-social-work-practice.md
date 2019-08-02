@@ -3,6 +3,9 @@ title: "Emotions in social work practice"
 subtitle: "Looking at the role of emotional intelligence in social work."
 date: "2012-06-10T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Ian Watson"]
+speakers: ["Richard Ingram"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/emotions-in-social-work-practice-1"
 iriss_archive_libsyn_title: "Emotions in social work practice"
 iriss_archive_libsyn_subtitle: "Looking at the role of emotional intelligence in social work."

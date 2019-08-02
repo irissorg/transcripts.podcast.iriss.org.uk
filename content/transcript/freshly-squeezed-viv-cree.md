@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Viv Cree"
 subtitle: "Michelle Drumm from Iriss 'squeezes' Viv Cree, Professor of Social Work Studies at the University of Edinburgh."
 date: "2018-07-23T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Viv Cree"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-viv-cree-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Viv Cree"
 iriss_archive_libsyn_subtitle: "Michelle Drumm from Iriss 'squeezes' Viv Cree, Professor of Social Work Studies at the University of Edinburgh."

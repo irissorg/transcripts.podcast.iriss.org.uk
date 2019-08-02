@@ -3,6 +3,9 @@ title: "Self-directed support survey"
 subtitle: "On 21st February 2017, Iriss.fm spoke to Cathy McGregor and Lorraine Gillies from Audit Scotland about the national self-directed support survey that has been recently circulated."
 date: "2017-02-21T00:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michelle Drumm"]
+speakers: ["Cathy McGregor", "Lorraine Gillies"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/self-directed-support-survey-1"
 iriss_archive_libsyn_title: "Self-directed support survey"
 iriss_archive_libsyn_subtitle: "On 21st February 2017, Iriss.fm spoke to Cathy McGregor and Lorraine Gillies from Audit Scotland about the national self-directed support survey that has been recently circulated."
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "Self-directed support survey"
 iriss_archive_website_url: "/resources/irissfm/self-directed-support-survey"
 iriss_archive_website_date_of_recording: "2107-02-21T12:00:00+0000"
 ---
-Int. = Interviewer  
+MD - Michelle Drumm  
 CM - Cathy McGregor  
 LG - Lorraine Gillies
 
@@ -25,7 +28,7 @@ LG And I'm Lorraine Gillies. I'm senior manager overseeing this piece of work an
 
 CM Audit Scotland, so we check public money's being spent properly and effectively, that's essentially what we do, but that includes the billions spent on providing health and social care services every year. So that's about us really examining not only how money is being spent, but also whether policies are effectively achieving what they're supposed to do. So it's about the money, but it's about the outcomes as well. So for Self-Directed Support, what we wanted to know really was whether it's helping to achieve better outcomes for people who need support and their carers, and their families. So our report is trying to shine a light on what's working well and what needs to get better. It really is an improvement agenda for us and we do this work on behalf of the Auditor General and Accounts Commission.
 
-Int. So this is a National survey then across Scotland, looking at the improvement agenda, and what exactly does the survey really want to know?
+MD So this is a National survey then across Scotland, looking at the improvement agenda, and what exactly does the survey really want to know?
 
 CM Yeah, I mean so, we're 6 years into the 10-year Self-Directed Support strategy. It's an area that's not new to us. We reported an early progress about 3 years ago and I think that we just felt that it's a good time now to go back in and review progress again. So that we can help with identifying what's wrong, we can identify what's working well, for further improvements are needed and it kind of felt like the right time to do that. So 6 years into a 10-year strategy, you know, things are going well but there are some areas for improvement and we wanted to be able to contribute to that.
 
@@ -39,31 +42,31 @@ LG And I suppose just to say that we're as interested in the experience of famil
 
 LG And you know, the opposite, you know, of course applies. You know, we have heard some stories where Self-Directed Support has not been a good experience or assessment has been not good and again, you know, we're very keen to understand that and to hear about that so, very important to us to hear the good stories and the not so good stories.
 
-Int. And are you asking people emm, so are you asking service managers? Are you asking people who work on the frontline or is it more about the stories of people who are affected by Self-Directed Support?
+MD And are you asking people emm, so are you asking service managers? Are you asking people who work on the frontline or is it more about the stories of people who are affected by Self-Directed Support?
 
 CM We're gathering evidence from a range of different sources so we are visiting 5 local authorities. We're also doing focus groups with users and carers. We've spoken to a whole range of organisations in the 3rd sector. We're looking at what other information is already out there including surveys with users and carers. So we're pulling all this information together from providers, local authorities, as well as users and carers to give us a whole picture of what's happening in Self-Directed Support.
 
-Int. Okay. And could you say a bit more about across the 5 local authorities, emm implementing policy, is there any interesting findings or any real differences between them?
+MD Okay. And could you say a bit more about across the 5 local authorities, emm implementing policy, is there any interesting findings or any real differences between them?
 
 CM Well that's really what we're trying to find out in this audit. In our last audit in 2014 we found quite a variation across the country and, in terms of how local authorities were implementing Self-Directed Support, and we did have, I've got still got quite a lot of work to do at that stage. Since then authorities are facing mounting challenges including pressures on their budgets and an ever-increasing demand for their services and they're also busy integrating health and social care to make them more joined up for people. So there's a lot happening. We're not quite ready to conclude on where we think implementation of Self-Directed Support is at the moment across the country but we will report on that when we publish our report, which is intended for July this year.
 
 LG We've had quite a good response to the survey. So we were going to go to I suppose, gather some information from that. We've had over 80 responses from the survey and that doesn't include you know, the telephone calls we've had, the focus groups we've been running. I think overarchingly, I think what we're saying is as you would expect, you know, some real differences across the country, you know, some differences in challenges. So, every local authority, whether its urban, rural, remote, an island authority, they have their own particular set of challenges and we've been seeing different responses to all of those challenges. I think it would be too early days for us to go into any of the detail about what some of those challenges are but they're things that you would expect, you know, differences around provision, differences around transport and being able to access choices. So I think the overarching picture is really, you know, not a huge surprise in that there are some differences. There are some differences in approaches, some differences in how those challenges are being met. We've seen some really good stories, you know, of some good Self-Directed Support stories. We've also seen some that are not so good.
 
-Int. Do you think awareness is an issue, around Self-Directed Support options?
+MD Do you think awareness is an issue, around Self-Directed Support options?
 
 CM That's an interesting one. We generally feel that people are aware of Self-Directed Support in that they've heard of it and they often know what it means for them if they need support. We're not sure yet whether people really understand the full range of choices that may be available to them, and clearly in different areas the choices are not always there. A good example is in rural areas where there may not be a choice of providers, in fact, there may be no provider in some very remote areas, and so we've heard about local authorities seeking to provide quite unique solutions to that sort of problem. We have heard for example in Highland and Perth and Kinross about how they've been trying to work with communities to develop a support service that would suit users that they already know about and we would hope to showcase a couple of these examples in our report but unfortunately we have yet to work out all the details and be able to be accurate about that.
 
-Int. (- unclear) my questions here I think. So I had, what will happen with the findings of the survey, but that is basically going to be the report, is it?
+MD (- unclear) my questions here I think. So I had, what will happen with the findings of the survey, but that is basically going to be the report, is it?
 
 CM Well it'll contribute to the report, you know, we will take the findings away, we'll analyse them. We'll sort of match that up to other sources of evidence and we'll be able to take a view. So what's important to us about the survey responses is that it'll be about people's stories. This is a not particularly data rich area for us and you know, so the statistics can tell some of the story but what's, you know, what we needed to get to is how people feel about the experience that they've had. So the results of the survey, we will be very interested in what everyone says, we will be interested in every story that we hear and we will use that analysis to kind of, you know, to match it to some of the statistics, some of the information that we've got through, you know, typical forms of, you know, evidence. So, very much this helps us understand the nuances, the small things that make a big difference.
 
-Int. So is there a plan to do any sort of video case studying around it or anything, or is it just mostly written stories that you'll?
+MD So is there a plan to do any sort of video case studying around it or anything, or is it just mostly written stories that you'll?
 
 CM Well, we're considering at the moment actually how best to share some of that rich information that we're getting. Our audit report is a relatively short report and it encompasses everything that we're looking at and so it is unlikely to be able to give much space to some really good examples of what we're hearing from the surveys and focus groups and other places, so we're thinking about how best to share that at the same time as publishing our standard audit report.
 
 LG It's an area that we're very interested in looking at though at Audit Scotland. I mean, we're aware that, you know, some of our reports aren't necessarily that readable for people who are affected by the services that we report on, so we've been looking at different ways of getting information out, for example, our health and care illustration piece has been very popular, you know, lots of people have been using that to, you know, to kind of illustrate how they feel about health and care. So it is possible, and we haven't agreed what we'll look at, but it is possible we'll produce some sort of alternative output, you know, something that you know, that just showcases some of the things that we've heard from people, and it might be in the form of an animation, it might be in the form of, we haven't decided but as an organisation we are committed to finding new ways to make sure people are able to access the information that we produce.
 
-Int. In terms of the report, will there be any sort of discussions or partnership of other agencies or organisations going forward on the back of your findings from the survey?
+MD In terms of the report, will there be any sort of discussions or partnership of other agencies or organisations going forward on the back of your findings from the survey?
 
 CM We have involved other organisations right from the start of the audit. We have an audit advisory group which comprises a range of organisations from the Scottish Government, Self-Directed Support Scotland, some 3rd sector organisations, COSLA and the Scottish Local Government Partnership representing local authorities. So we touch base with them as we go through the audit and we take advice from them about whether we're asking the right questions, about where perhaps to seek certain types of evidence, and we also talk to them about our emerging findings and whether we are interpreting what we're seeing correctly and we share a draft report with them and get their comments on that. So we try and keep in touch with quite a wide range of people as we develop the audit and as we interpret the findings. Once we publish the report we'll try and promote that, that'll be in July. Once we publish the report in July we'll try and promote that widely and we are keen to be involved with other organisations and seminars, conferences, workshops, whichever it might be if we can helpfully contribute to these on the back of our audit.
 

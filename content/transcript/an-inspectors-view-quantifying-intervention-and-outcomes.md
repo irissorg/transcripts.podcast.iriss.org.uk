@@ -3,6 +3,9 @@ title: "An inspector's view: quantifying intervention and outcomes"
 subtitle: "Meeting children's needs for care and protection: designing longitudinal research in complex multi-professional environments. Emma McWilliam, Her Majesty's Inspectorate for Education."
 date: "2011-04-20T23:00:00+00:00"
 draft: false
+categories: ["Outcomes"]
+hosts: []
+speakers: ["Emma McWilliam"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/an-inspectors-view-quantifying-intervention-and-outcomes-1"
 iriss_archive_libsyn_title: "An inspector's view: quantifying intervention and outcomes"
 iriss_archive_libsyn_subtitle: "Meeting children's needs for care and protection: designing longitudinal research in complex multi-professional environments. Emma McWilliam, Her Majesty's Inspectorate for Education."
@@ -21,33 +24,7 @@ Longitudinal research: measuring child well-being, outcomes and interventions fr
 
 Introduction
 
-EM For the past four and a half years, I have been working as an inspector in the multi-disciplinary Services for Children team based in HMIE which from the 1.4.11 transferred to SCSWIS. The main focus of my work has been joint inspections of services to protect children. I have been asked to share with you today specific aspects of our inspection methodology. I hope these will be relevant to designing longitudinal research to evaluate the effectiveness of interventions by staff across services in improving experiences and outcomes for children in need of care and protection. Between 2005 and 2009, the first multi-agency child protection inspections were carried out in 30 local authority areas across Scotland (2 local authorities had prior to this been involved in piloting the methodology). There was no precedent for inspecting the collective impact of child protection work principally undertaken by police, health, education, social work and the Scottish Children's Reporter Administration; but also other council services such as housing, community learning and development, libraries, leisure etc and those provided by the third sector. New legislation was passed accompanied by regulations and a Code of Practice in February 2006
-
-[1]
-
-to provide members of each inspection team with the necessary powers to access and share information. The first programme of joint inspections of services to protect children provided baseline information about how well we protect Scotland's children. A report summarising the findings of these inspections can be found on the HMIE website
-
-[2]
-
-. Services to protect children were evaluated across 18 quality indicators using a 6 point scale from unsatisfactory to excellent. Results of CP1 inspections, as I will now refer to these, were variable with some local authority areas performing well while in others there were significant concerns about poor performance. Overall, areas for improvement were identified nationally in key processes of information-sharing, assessment of risks and needs and in planning for individual children which to varying degrees had diminished the impact and outcomes for children. In February 2009, Ministers requested that a second 3 year programme of child protection inspections take place which is due for completion by March 2012. Some of our experiences of applying the methodology from this current programme of joint inspections of services to protect children, which I will now refer to as CP2, will I think be of particular interest to you. This revised methodology built on the learning from CP1 but also took account of recommendations laid down by Crerar in his report on the scrutiny of public services
-
-[3]
-
-. In CP1, we carried out the same inspection activities in each local authority area, in CP2 we have moved to an intelligence-led, proportionate approach starting with evidence from joint self-evaluation presented by Chief Officers and Child Protection Committees. We also tried to develop approaches to increasing the involvement of children and families using child protection services, though not always with as much success as we would have liked. The revised methodology also had to ensure that it promoted the implementation of a number of government policies including
-
-Getting It Right For Every Child (GIRFEC)
-
-[4]
-
-, the Early Years Framework
-
-[5]
-
-and Equally Well Implementation Plan
-
-[6]
-
-.
+EM For the past four and a half years, I have been working as an inspector in the multi-disciplinary Services for Children team based in HMIE which from the 1.4.11 transferred to SCSWIS. The main focus of my work has been joint inspections of services to protect children. I have been asked to share with you today specific aspects of our inspection methodology. I hope these will be relevant to designing longitudinal research to evaluate the effectiveness of interventions by staff across services in improving experiences and outcomes for children in need of care and protection. Between 2005 and 2009, the first multi-agency child protection inspections were carried out in 30 local authority areas across Scotland (2 local authorities had prior to this been involved in piloting the methodology). There was no precedent for inspecting the collective impact of child protection work principally undertaken by police, health, education, social work and the Scottish Children's Reporter Administration; but also other council services such as housing, community learning and development, libraries, leisure etc and those provided by the third sector. New legislation was passed accompanied by regulations and a Code of Practice in February 2006.[^1] to provide members of each inspection team with the necessary powers to access and share information. The first programme of joint inspections of services to protect children provided baseline information about how well we protect Scotland's children. A report summarising the findings of these inspections can be found on the HMIE website [^2]. Services to protect children were evaluated across 18 quality indicators using a 6 point scale from unsatisfactory to excellent. Results of CP1 inspections, as I will now refer to these, were variable with some local authority areas performing well while in others there were significant concerns about poor performance. Overall, areas for improvement were identified nationally in key processes of information-sharing, assessment of risks and needs and in planning for individual children which to varying degrees had diminished the impact and outcomes for children. In February 2009, Ministers requested that a second 3 year programme of child protection inspections take place which is due for completion by March 2012. Some of our experiences of applying the methodology from this current programme of joint inspections of services to protect children, which I will now refer to as CP2, will I think be of particular interest to you. This revised methodology built on the learning from CP1 but also took account of recommendations laid down by Crerar in his report on the scrutiny of public services [^3]. In CP1, we carried out the same inspection activities in each local authority area, in CP2 we have moved to an intelligence-led, proportionate approach starting with evidence from joint self-evaluation presented by Chief Officers and Child Protection Committees. We also tried to develop approaches to increasing the involvement of children and families using child protection services, though not always with as much success as we would have liked. The revised methodology also had to ensure that it promoted the implementation of a number of government policies including Getting It Right For Every Child (GIRFEC) [^4], the Early Years Framework [^5] and Equally Well Implementation Plan [^6].
 
 We have fundamentally changed our approach from a backward looking evaluation of practice to becoming more forward looking with the aim of building capacity for change and improvement.
 
@@ -75,21 +52,13 @@ integrated assessment of risks and needs, a single multi-agency child's plan and
 
 When an inspector did not understand some aspect of practice from another discipline, they could readily seek advice from another team member with relevant knowledge and experience. This whole child approach to reading children's records is in our experience invaluable. We have therefore replicated it in CP2 inspections. In our role as link inspectors to Child Protection Committees we have supported and trained multi-agency cohorts of staff to adopt the same approach to conducting internal quality audits of children's records.
 
-In CP2 inspections, our case file sample in each local authority area consists of a sample of children whose names are on the Child Protection Register and whose names have been de-registered from the Child Protection Register during the preceding 12 month period. This case sample is statistically valid with a 90% confidence level and 15% variance enabling us to generalise from our findings to assertions about all children whose names are on or have recently been removed from the Child Protection Register. In addition, we select a small, but not statistically valid, sample of children with recent involvement in child protection systems who did not end up with their name being placed on the Child Protection Register as a result. For example, children who have been subject to a child protection investigation. This assists us in evaluating the consistency of thresholds for registering children's names on the Child Protection Register and the effectiveness of services to vulnerable children and families where risks fall just below the threshold for registration. In Lord Laming's 2009 Progress Report
-
-[7]
-
-he expressed concern about thresholds being too high and stated that
+In CP2 inspections, our case file sample in each local authority area consists of a sample of children whose names are on the Child Protection Register and whose names have been de-registered from the Child Protection Register during the preceding 12 month period. This case sample is statistically valid with a 90% confidence level and 15% variance enabling us to generalise from our findings to assertions about all children whose names are on or have recently been removed from the Child Protection Register. In addition, we select a small, but not statistically valid, sample of children with recent involvement in child protection systems who did not end up with their name being placed on the Child Protection Register as a result. For example, children who have been subject to a child protection investigation. This assists us in evaluating the consistency of thresholds for registering children's names on the Child Protection Register and the effectiveness of services to vulnerable children and families where risks fall just below the threshold for registration. In Lord Laming's 2009 Progress Report [^7] he expressed concern about thresholds being too high and stated that
 
 children who fall just short of needing a child protection plan are placed at particular risk of suffering harm when services are not provided for them.
 
 In CP1, we placed a lot of emphasis on evaluating the impact of key processes. In CP2 we have a much stronger focus on evaluating improvements in the well-being of vulnerable children. We focus on current practice in the previous 12 - 18 months.
 
-We evaluate what staff do together on a day to day basis to reduce risks and better meet children's needs against 4 impact quality indicators which form part of a framework produced by the Services for Children team to support joint self-evaluation
-
-[8]
-
-. These 4 impact quality indicators cover specific themes: children and families experiences of communication and trusting relationships with staff; the effectiveness of support at an early stage for vulnerable children and families to prevent difficulties arising or getting worse; action taken to give children the knowledge and skills to keep themselves safe; the immediate response by staff to children who may be at risk of significant harm and children and families experiences in these circumstances; how well children's short and longer term needs are met and the impact of the help they receive to recover from abuse and neglect. In particular, we are interested in the efficacy of the multi-agency work of the child's network of support sometimes referred to as 'the team around the child'. I have attached copies of these 4 impact quality indicators to this presentation. They include illustrations using the 6 point scale of key characteristics of Very Good and Weak practice. We actively support and encourage Child Protection Committees to use this quality indicator framework to achieve improvements in outcomes for children through self-evaluation. Where they are able to provide us with robust evidence based joint self-evaluation which shows us that they know themselves well and are progressing well on a journey of continual improvement then this reduces the amount of inspection activity it is necessary for us to carry out. It is fair to say that across Scotland, staff working in children's services are at different stages in developing self-evaluation skills which deliver tangible improvements. Those who are furthest ahead are able to demonstrate positive differences they are making over time to the lives of vulnerable children and families.
+We evaluate what staff do together on a day to day basis to reduce risks and better meet children's needs against 4 impact quality indicators which form part of a framework produced by the Services for Children team to support joint self-evaluation [^8]. These 4 impact quality indicators cover specific themes: children and families experiences of communication and trusting relationships with staff; the effectiveness of support at an early stage for vulnerable children and families to prevent difficulties arising or getting worse; action taken to give children the knowledge and skills to keep themselves safe; the immediate response by staff to children who may be at risk of significant harm and children and families experiences in these circumstances; how well children's short and longer term needs are met and the impact of the help they receive to recover from abuse and neglect. In particular, we are interested in the efficacy of the multi-agency work of the child's network of support sometimes referred to as 'the team around the child'. I have attached copies of these 4 impact quality indicators to this presentation. They include illustrations using the 6 point scale of key characteristics of Very Good and Weak practice. We actively support and encourage Child Protection Committees to use this quality indicator framework to achieve improvements in outcomes for children through self-evaluation. Where they are able to provide us with robust evidence based joint self-evaluation which shows us that they know themselves well and are progressing well on a journey of continual improvement then this reduces the amount of inspection activity it is necessary for us to carry out. It is fair to say that across Scotland, staff working in children's services are at different stages in developing self-evaluation skills which deliver tangible improvements. Those who are furthest ahead are able to demonstrate positive differences they are making over time to the lives of vulnerable children and families.
 
 Inspectors go about reading children's records by first understanding 'the child's story'. They usually do this through identifying the most recent reports for a child protection case conference or children's hearing. They then look for evidence of improvements staff from different services have made to a child's circumstances in the context of the impact quality indicators. So for example, when considering the quality indicator about trusting relationships between children and staff, inspectors ask themselves what evidence is there of this child having a trusting relationship with staff who see them regularly and have got to know them well. They may find evidence in case notes, reports submitted to meetings, parents' and children's own reports to meetings, recording of professional supervision etc. Once inspectors have finished reading the child's records they reflect at some length on the benefits to the child and their family of the services they have received and consider carefully whether there have been improvements in the child's well-being. Inspectors make use of the SHANARRI indicators of well-being (safe, healthy, active, nurtured, achieving, respected, responsible and included) to evaluate how well children's needs have been met. They then write down evaluative statements against the impact quality indicators under key areas of strength and areas for development. Evaluative statements against quality indicators from reading individual children's records are then aggregated and subject to a higher level analysis to gain a picture of the main findings emerging from the case file sample as a whole. Atypical practice particular to a specific case is discarded at this stage. Although practice is becoming more outcome focussed, at present the evidence we are looking for cannot be found in a specific place in children's records and may require an inspector to carry out the evaluation for themselves of improvements in outcomes for a child based on the available information. The process therefore depends heavily on the knowledge, expertise and professional judgements of inspectors. From an ethical point of view, inspectors have an agreed process in place for raising concerns if they read about a child who is in their view at immediate risk or where practice is so poor over a prolonged period of time that this is having a substantially adverse impact on a child's well-being.
 
@@ -129,34 +98,18 @@ Senior Inspector
 
 Social Care and Social Work Improvement Scotland
 
-[1]
+[^1]: Joint Inspection of Services for Children and Inspection of Social Work Services (Scotland) Act 2006.
 
-Joint Inspection of Services for Children and Inspection of Social Work Services (Scotland) Act 2006.
+[^2]: How well do we protect Scotland's children? A report on the findings of the joint inspections of services to protect children 2005 - 2009.
 
-[2]
+[^3]: The Crerar Review: The Report of the Independent Review of Regulation, Audit, Inspection and Complaints Handling of Public Services in Scotland 2007.
 
-How well do we protect Scotland's children? A report on the findings of the joint inspections of services to protect children 2005 - 2009.
+[^4]: Getting it right for every child: An overview of the Getting It Right Approach, Scottish Government 2008.
 
-[3]
+[^5]: Early Years Framework, A joint Scottish Government and COSLA policy statement.
 
-The Crerar Review: The Report of the Independent Review of Regulation, Audit, Inspection and Complaints Handling of Public Services in Scotland 2007.
+[^6]: Equally Well Implementation Plan, Scottish Government 2008.
 
-[4]
+[^7]: The Protection of Children in England: A Progress Report, The Lord Laming March 2009.
 
-Getting it right for every child: An overview of the Getting It Right Approach, Scottish Government 2008.
-
-[5]
-
-Early Years Framework, A joint Scottish Government and COSLA policy statement.
-
-[6]
-
-Equally Well Implementation Plan, Scottish Government 2008.
-
-[7]
-
-The Protection of Children in England: A Progress Report, The Lord Laming March 2009.
-
-[8]
-
-How well do we protect children and meet their needs? A self-evaluation guide using quality indicators HM Inspectorate of Education 2009.
+[^8]: How well do we protect children and meet their needs? A self-evaluation guide using quality indicators HM Inspectorate of Education 2009.

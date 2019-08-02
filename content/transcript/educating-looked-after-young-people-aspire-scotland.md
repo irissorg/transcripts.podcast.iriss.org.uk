@@ -3,6 +3,9 @@ title: "Educating looked after young people: Aspire Scotland"
 subtitle: "Using computers and the internet with looked after young people. Aspire Scotland provides high quality residential care and education for children and young people aged between eight and seventeen."
 date: "2013-01-24T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: ["Ian Watson"]
+speakers: ["Francis Scott", "Paul Neilson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/educating-looked-after-young-people-aspire-scotland-1"
 iriss_archive_libsyn_title: "Educating looked after young people: Aspire Scotland"
 iriss_archive_libsyn_subtitle: "Using computers and the internet with looked after young people. Aspire Scotland provides high quality residential care and education for children and young people aged between eight and seventeen."
@@ -14,8 +17,7 @@ iriss_archive_website_url: "/resources/irissfm/aspire-scotland-educating-looked-
 iriss_archive_website_date_of_recording: "2013-01-24T12:00:00+0000"
 ---
 IW - Ian Watson  
-FS - Francis Scott
-
+FS - Francis Scott  
 PN - Paul Neilson
 
 IW Aspire provides high quality residential care and education for children and young people aged between 8 and 17. Aspire Education is based in Kilbirnie, Ayrshire, in a converted cinema which is also home to a number of community facilities including a cafe, gym and games hall to which the school has access. In fact these facilities play an important part in the education programme - helping the young people integrate with the local community and learning about trust and respect. Aspire's approach to education includes extensive and innovative use of computers and the internet, and the school has embraced the iPad and other devices as valuable educational resources. I talked to Francis Scott, Head of Education, and Paul Neilson, the ICT Manager, about internet safety, the use of computers in learning, including YouTube for learning multiplication, growing potatoes and running nail bars. I caught up with Francis in the entrance foyer of the cafe before going on a tour of the building, meeting some of the young people and getting a glimpse of life in Aspire.

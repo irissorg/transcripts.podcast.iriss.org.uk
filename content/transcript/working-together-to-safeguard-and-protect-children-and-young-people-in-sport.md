@@ -3,6 +3,9 @@ title: "Working together to safeguard and protect children and young people in s
 subtitle: "The 'Working together to safeguard and protect children and young people in sport' conference was held on 29 October, 2013 at Celtic Park. It was a partnership event of WithScotland and Children 1st."
 date: "2013-10-29T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: ["Michelle Drumm"]
+speakers: ["Shona Robison", "Beth Smith", "Campbell Bell", "Deborah Fry"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/working-together-to-safeguard-and-protect-children-and-young-people-in-sport-1"
 iriss_archive_libsyn_title: "Working together to safeguard and protect children and young people in sport"
 iriss_archive_libsyn_subtitle: "The 'Working together to safeguard and protect children and young people in sport' conference was held on 29 October, 2013 at Celtic Park. It was a partnership event of WithScotland and Children 1st."

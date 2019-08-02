@@ -3,6 +3,9 @@ title: "World Dementia Awareness Month 2014"
 subtitle: "September is World Dementia Awareness Month and to mark it Iriss.fm met up with the directors of Dementia Scotland Consultancy and Training and a group professionals and carers in the area of dementia care."
 date: "2014-09-22T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Yvonne Stewart", "Anne Marie MacDonald", "Anne Love", "Rosalyn Barclay", "Ann-Marie McGregor"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/world-dementia-awareness-month-2014-1"
 iriss_archive_libsyn_title: "World Dementia Awareness Month 2014"
 iriss_archive_libsyn_subtitle: "September is World Dementia Awareness Month and to mark it Iriss.fm met up with the directors of Dementia Scotland Consultancy and Training and a group professionals and carers in the area of dementia care."

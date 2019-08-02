@@ -3,6 +3,9 @@ title: "Conversations about alcohol: making a difference to alcohol-related harm
 subtitle: "The Evidence Exchange programme, an Alliance for Useful Evidence initiative, seeks to encourage the sharing and use of social policy evidence across the UK."
 date: "2015-05-13T23:00:00+00:00"
 draft: false
+categories: ["Substance misuse"]
+hosts: []
+speakers: ["Naimh Fitzgerald"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/conversations-about-alcohol-making-a-difference-to-alcohol-related-harm-1"
 iriss_archive_libsyn_title: "Conversations about alcohol: making a difference to alcohol-related harm"
 iriss_archive_libsyn_subtitle: "The Evidence Exchange programme, an Alliance for Useful Evidence initiative, seeks to encourage the sharing and use of social policy evidence across the UK."

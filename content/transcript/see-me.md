@@ -3,6 +3,9 @@ title: "See Me"
 subtitle: "See Me is Scotland's Programme to tackle mental health stigma and discrimination. It is funded by Scottish Government and Comic Relief and is managed by SAMH and The Mental Health Foundation."
 date: "2018-03-20T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michael McEwan"]
+speakers: ["Nick Jedrzejewski", "Maeve Grindall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/see-me-1"
 iriss_archive_libsyn_title: "See Me"
 iriss_archive_libsyn_subtitle: "See Me is Scotland's Programme to tackle mental health stigma and discrimination. It is funded by Scottish Government and Comic Relief and is managed by SAMH and The Mental Health Foundation."

@@ -3,6 +3,9 @@ title: "Knowledge Café"
 subtitle: "Part of the Iriss Masterclass series, David Gurteen - talks about the Gurteen Knowledge Cafe."
 date: "2010-02-19T00:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: []
+speakers: ["David Gurteen"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/knowledge-caf-0"
 iriss_archive_libsyn_title: "Knowledge Café"
 iriss_archive_libsyn_subtitle: "Part of the Iriss Masterclass series, David Gurteen - talks about the Gurteen Knowledge Cafe."

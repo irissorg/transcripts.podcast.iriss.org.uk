@@ -3,6 +3,9 @@ title: "The Care Collective"
 subtitle: "Michael McEwan speaks to Ruth Gallagher (Voluntary Action East Renfrewshire), Lynn Wardle (Thrive) and Colette Walker (carer) about the Care Collective."
 date: "2017-08-24T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Ruth Gallagher", "Lynn Wardle", "Colette Walker"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-care-collective-1"
 iriss_archive_libsyn_title: "The Care Collective"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Ruth Gallagher (Voluntary Action East Renfrewshire), Lynn Wardle (Thrive) and Colette Walker (carer) about the Care Collective."

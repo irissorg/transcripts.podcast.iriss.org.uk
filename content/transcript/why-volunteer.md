@@ -3,6 +3,9 @@ title: "Why volunteer?"
 subtitle: "Iriss brought together nine people at the Volunteer Development Scotland offices in Stirling to discuss what motivated them to volunteer, and to share their experiences of volunteering."
 date: "2013-05-07T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Claire Lightowler"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/why-volunteer-1"
 iriss_archive_libsyn_title: "Why volunteer?"
 iriss_archive_libsyn_subtitle: "Iriss brought together nine people at the Volunteer Development Scotland offices in Stirling to discuss what motivated them to volunteer, and to share their experiences of volunteering."

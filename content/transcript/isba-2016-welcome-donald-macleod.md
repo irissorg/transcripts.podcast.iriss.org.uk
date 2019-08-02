@@ -3,6 +3,9 @@ title: "ISBA 2016: Welcome - Donald Macleod"
 subtitle: "Donald Macleod, Conference Chair, welcomes visitors to the conference."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Carers"]
+hosts: []
+speakers: ["Donald Macleod"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-welcome-donald-macleod-1"
 iriss_archive_libsyn_title: "ISBA 2016: Welcome - Donald Macleod"
 iriss_archive_libsyn_subtitle: "Donald Macleod, Conference Chair, welcomes visitors to the conference. Recorded at the 10th International Short Break Association conference, 13–15 September 2016, Edinburgh, Scotland. Music Credit: Something Elated by Broke For Free"
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "ISBA 2016: Welcome - Donald Macleod"
 iriss_archive_website_url: "/resources/irissfm/isba-2016-welcome-donald-macleod"
 iriss_archive_website_date_of_recording: "2016-09-13T13:00:00+0100"
 ---
-DM - Donald Macloud
+DM - Donald Macleod
 
 DM Ceud Mìle Fàilte, a hundred thousand welcomes as we say in Gaelic. To those of you who have come from 17 other nations. Failte gu na h-Alba, welcome to Scotland and to you all Failte gu Dun Eideann, welcome to Edinburgh. Maidin mhaith, good morning. My name is Domhnall Eoin ma'klaud, Donald Ian Macleod and it's a pleasure to stand here today to welcome you to the 10th International Short Breaks Conference.
 

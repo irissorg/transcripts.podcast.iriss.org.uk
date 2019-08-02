@@ -3,6 +3,9 @@ title: "Sense Scotland: supporting disabled people and their families"
 subtitle: "Michael McEwan talks to Communication Officer Graeme Thomson about the kinds of support offered and Support Worker Grant Hendry about arts and outdoor activities."
 date: "2015-08-17T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Graeme Thomson", "Grant Hendry"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/sense-scotland-supporting-disabled-people-and-their-families-1"
 iriss_archive_libsyn_title: "Sense Scotland: supporting disabled people and their families"
 iriss_archive_libsyn_subtitle: "Michael McEwan talks to Communication Officer Graeme Thomson about the kinds of support offered and Support Worker Grant Hendry about arts and outdoor activities."

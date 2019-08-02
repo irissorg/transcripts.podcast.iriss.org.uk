@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Trisha Hall"
 subtitle: "Michelle from Iriss interviews Trisha Hall, National Director of the Scottish Association of Social Work (SASW)."
 date: "2018-08-06T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Trisha Hall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-trisha-hall-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Trisha Hall"
 iriss_archive_libsyn_subtitle: "Michelle from Iriss interviews Trisha Hall, National Director of the Scottish Association of Social Work (SASW)."

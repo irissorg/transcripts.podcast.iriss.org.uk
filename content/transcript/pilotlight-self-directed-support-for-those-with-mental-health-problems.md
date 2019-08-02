@@ -3,6 +3,9 @@ title: "Pilotlight: self-directed support for those with mental health problems"
 subtitle: "The Social Care (Self-directed Support) (Scotland) Act 2013 goes live on the 1st April 2014 and the implementation of the National Strategy is well under way across Scotland. Pilotlight is contributing to these preparations."
 date: "2013-11-06T00:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michelle Drumm"]
+speakers: ["Kate Dowling", "Judith Midgeley", "Joyce Lorimer", "Ailsa Innes", "Catriona Watson", "Tracey Grant"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/pilotlight-self-directed-support-for-those-with-mental-health-problems-1"
 iriss_archive_libsyn_title: "Pilotlight: self-directed support for those with mental health problems"
 iriss_archive_libsyn_subtitle: "The Social Care (Self-directed Support) (Scotland) Act 2013 goes live on the 1st April 2014 and the implementation of the National Strategy is well under way across Scotland. Pilotlight is contributing to these preparations."
@@ -16,7 +19,7 @@ iriss_archive_website_date_of_recording: "2013-11-06T12:00:00+0000"
 MD - Michelle Drumm  
 KD - Kate Dowling  
 JM - Judith Midgeley  
-JL - Joyce Lorimer
+JL - Joyce Lorimer  
 AI - Ailsa Innes  
 CW - Catriona Watson  
 TG - Tracey Grant

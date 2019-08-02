@@ -3,6 +3,9 @@ title: "Social pedagogy in practice at Camphill Scotland"
 subtitle: "Social pedagogy is an approach to working with people which focuses on relationships as a way to help people to learn and develop. It is widely used in Europe but is still in its infancy in the UK."
 date: "2016-07-07T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Kirsten", "Alec", "Ishtvan", "Robina", "Sandra"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-pedagogy-in-practice-at-camphill-scotland-1"
 iriss_archive_libsyn_title: "Social pedagogy in practice at Camphill Scotland"
 iriss_archive_libsyn_subtitle: "Social pedagogy is an approach to working with people which focuses on relationships as a way to help people to learn and develop. It is widely used in Europe but is still in its infancy in the UK."

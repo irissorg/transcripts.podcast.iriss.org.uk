@@ -3,6 +3,9 @@ title: "Write to recovery"
 subtitle: "A website designed to support people affected by mental health problems on their journeys of recovery, was launched on 11 June 2014 at the Scottish Storytelling Centre in Edinburgh."
 date: "2014-06-10T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Linda Gillard", "Robin Ross", "Ashley Campbell", "Jim Campbell", "Sandy Nisbet", "Simon Bradstreet", "John McCormack"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/write-to-recovery-1"
 iriss_archive_libsyn_title: "Write to recovery"
 iriss_archive_libsyn_subtitle: "A website designed to support people affected by mental health problems on their journeys of recovery, was launched on 11 June 2014 at the Scottish Storytelling Centre in Edinburgh."
@@ -22,7 +25,7 @@ SN - Sandy Nisbet
 SB - Simon Bradstreet  
 JM - John McCormack
 
-Michelle Drumm: Write to Recovery, a website designed to support people affected by mental health problems on their journeys of recovery, was launched on the 11th of June 2014 at the Scottish Storytelling Centre in Edinburgh. The launch forms part of the Scottish Recovery Networks 10-year anniversary celebrations. Iriss.fm went along to chat with the guest speakers, acclaimed 'Indie' author, Linda Gillard and Robin Ross, both of who have used writing on their own journeys of recovery.
+MD Write to Recovery, a website designed to support people affected by mental health problems on their journeys of recovery, was launched on the 11th of June 2014 at the Scottish Storytelling Centre in Edinburgh. The launch forms part of the Scottish Recovery Networks 10-year anniversary celebrations. Iriss.fm went along to chat with the guest speakers, acclaimed 'Indie' author, Linda Gillard and Robin Ross, both of who have used writing on their own journeys of recovery.
 
 LG I started writing because I couldn't find the sort of books I wanted to read. I was recovering from a breakdown and doing a lot of reading, I was doped on anti-depressants and really wasn't up to doing anything very much, other than reading and sewing. And I did a lot of reading, and I couldn't find anything that I could really relate to as a middle aged woman, as a middle aged broken down woman, I felt I was on the scrapheap, I had lost my job, I lost my mind, and I started writing the sort of book that I wanted to read that was a sort of alternative autobiography for me, it was about a woman a bit like me, but not actually me, a woman my age, which was 47, and a woman with my mental health problem, which was bipolar affective disorder. So I thought I would try and write my story, but a better story. It was therapeutic writing, I think, and I quickly found it addictive, I got such a buzz from writing and enjoyed making sense of all the nonsense, so much that quickly I was writing simply because I loved it, I absolutely loved doing what I was doing.
 

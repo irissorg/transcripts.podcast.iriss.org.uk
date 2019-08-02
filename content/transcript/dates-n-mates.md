@@ -3,6 +3,9 @@ title: "Dates-n-Mates"
 subtitle: "Dating and friendship for people with learning disabilities. Dates n Mates is a friendship and dating agency for people with learning disabilities."
 date: "2015-02-13T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Liz Irvine"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/dates-n-mates-1"
 iriss_archive_libsyn_title: "Dates-n-Mates"
 iriss_archive_libsyn_subtitle: "Dating and friendship for people with learning disabilities. Dates n Mates is a friendship and dating agency for people with learning disabilities."

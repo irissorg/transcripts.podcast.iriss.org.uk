@@ -3,6 +3,9 @@ title: "What does prevention mean in an ageing population?"
 subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
 date: "2013-12-17T00:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Emma Collins"]
+speakers: ["Audrey Taylor", "Jackie Reid", "Jerry Power", "Irene Wheaton", "Derek Young"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/what-does-prevention-mean-in-an-ageing-population-1"
 iriss_archive_libsyn_title: "What does prevention mean in an ageing population?"
 iriss_archive_libsyn_subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people"
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "What does prevention mean in an ageing populat
 iriss_archive_website_url: "/resources/irissfm/what-does-prevention-mean-ageing-population"
 iriss_archive_website_date_of_recording: "2013-12-17T12:00:00+0000"
 ---
-AT -  Audrey Taylor  
+AT - Audrey Taylor  
 JR - Jackie Reid  
 JP - Jerry Power  
 IW - Irene Wheaton  

@@ -3,6 +3,9 @@ title: "Learning Disability Week 2018"
 subtitle: "Michael McEwan speaks to Linda Mitchell from the Scottish Commission for Learning Disability (SCLD) about the week's activities."
 date: "2018-05-03T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Linda Mitchell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/learning-disability-week-2018-1"
 iriss_archive_libsyn_title: "Learning Disability Week 2018"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Linda Mitchell from the Scottish Commission for Learning Disability (SCLD) about the week's activities."

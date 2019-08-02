@@ -3,6 +3,9 @@ title: "Young Scotland's Got Talent"
 subtitle: "Supporting people with learning disability into work. Michael McEwan of Able Radio in conversation with Emma Hill about the East Project in East Renfrewshire. The project is run by Enable Scotland to support people with disabilities into employment."
 date: "2015-01-29T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Maura Lynch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/young-scotlands-got-talent-1"
 iriss_archive_libsyn_title: "Young Scotland's Got Talent"
 iriss_archive_libsyn_subtitle: "Supporting people with learning disability into work. Michael McEwan of Able Radio in conversation with Emma Hill about the East Project in East Renfrewshire. The project is run by Enable Scotland to support people with disabilities into employment."

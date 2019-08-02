@@ -3,6 +3,9 @@ title: "Exploring bipolar disorder through theatre"
 subtitle: "Piece of Mind is a documentary dance theatre performance devised by Vanessa Coffey and based on interviews with people between the ages of 15 and 25 who had been diagnosed bipolar."
 date: "2012-10-08T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Ian Watson"]
+speakers: ["Vanessa Coffey"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/exploring-bipolar-disorder-through-theatre-1"
 iriss_archive_libsyn_title: "Exploring bipolar disorder through theatre"
 iriss_archive_libsyn_subtitle: "Piece of Mind is a documentary dance theatre performance devised by Vanessa Coffey and based on interviews with people between the ages of 15 and 25 who had been diagnosed bipolar."

@@ -3,6 +3,9 @@ title: "Challenge Poverty Week: effects of welfare reform on practice and practi
 subtitle: "The effects of welfare reform on practice and practitioners: How can we continue to deliver positive services?"
 date: "2013-10-08T23:00:00+00:00"
 draft: false
+categories: ["Welfare reform"]
+hosts: ["Michelle Drumm"]
+speakers: ["Fiona McHardy", "Jackie Barton", "Chris White", "Lorraine McGrath", "Andrew MacDonald", "Lesley Sharkey", "Isobel Kelly", "Barry Levine"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/challenge-poverty-week-effects-of-welfare-reform-on-practice-and-practitioners-1"
 iriss_archive_libsyn_title: "Challenge Poverty Week: effects of welfare reform on practice and practitioners"
 iriss_archive_libsyn_subtitle: "Challenge Poverty Week: effects of welfare reform on practice and practitioners"

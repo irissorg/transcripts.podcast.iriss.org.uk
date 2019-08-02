@@ -3,6 +3,9 @@ title: "Permanence panel: part two"
 subtitle: "The panel considers the view of the mother and her extended family on the future care of Douglas. His current foster parent is invited to join the meeting and we hear assessment from the medical and legal advisers, to the panel."
 date: "2012-02-11T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Chair","Jean", "Anne Brown", "Dave Campbell", "Margaret Fortes", "Helen Green", "Yvonne Smith"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/permanence-panel-part-two-1"
 iriss_archive_libsyn_title: "Permanence panel: part two"
 iriss_archive_libsyn_subtitle: "The panel considers the view of the mother and her extended family on the future care of Douglas. His current foster parent is invited to join the meeting and we hear assessment from the medical and legal advisers, to the panel."

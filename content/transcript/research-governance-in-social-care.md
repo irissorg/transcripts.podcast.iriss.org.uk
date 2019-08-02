@@ -3,6 +3,9 @@ title: "Research Governance in Social Care"
 subtitle: "Research Scotland Management Team, talks about the development of a Research Governance Framework (RGF)."
 date: 2019-06-07T12:00:00+01:00
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Irina McLean"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/research-governance-in-social-care"
 ---
 MD - Michelle Drumm  

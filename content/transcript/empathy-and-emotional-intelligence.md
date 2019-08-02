@@ -3,6 +3,9 @@ title: "Empathy and emotional intelligence"
 subtitle: "Professor David Howe, one of the UK's leading social work academics, talks about how attachment theory is informed by research and how this translates into practice, and why attachment is a key element in effective and appropriate practice."
 date: "2012-05-09T23:00:00+00:00"
 draft: false
+categories: ["Attachment"]
+hosts: []
+speakers: ["David Howe"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/empathy-and-emotional-intelligence-1"
 iriss_archive_libsyn_title: "Empathy and emotional intelligence"
 iriss_archive_libsyn_subtitle: "Professor David Howe, one of the UK's leading social work academics, talks about how attachment theory is informed by research and how this translates into practice, and why attachment is a key element in effective and appropriate practice."

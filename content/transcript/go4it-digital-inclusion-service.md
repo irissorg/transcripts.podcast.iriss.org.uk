@@ -3,6 +3,9 @@ title: "Go4IT digital inclusion service"
 subtitle: "Iriss.fm visited the Glasgow Centre for Inclusive Living which hosts Go4IT."
 date: "2014-12-16T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michelle Drumm"]
+speakers: ["Diane Webb", "Ross McNicol", "Dee Piggott", "Pamela Hewison"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/go4it-digital-inclusion-service-1"
 iriss_archive_libsyn_title: "Go4IT digital inclusion service"
 iriss_archive_libsyn_subtitle: "Iriss.fm visited the Glasgow Centre for Inclusive Living which hosts Go4IT."

@@ -3,6 +3,9 @@ title: "Women in social work education"
 subtitle: "Navigating Troubled Waters."
 date: "2018-10-23T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Viv Cree", "Mary Mitchell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/women-in-social-work-education-1"
 iriss_archive_libsyn_title: "Women in social work education"
 iriss_archive_libsyn_subtitle: "Navigating Troubled Waters"

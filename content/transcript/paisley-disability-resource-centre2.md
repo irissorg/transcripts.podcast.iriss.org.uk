@@ -3,6 +3,9 @@ title: "Paisley Disability Resource Centre:2"
 subtitle: "Michael McEwan speaks to Jim Thompson, the web design and movie maker co-ordinator, as well as Duncan Tomlinson, a participant in the activities."
 date: "2018-02-28T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Jim Thompson", "Duncan Tomlinson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/paisley-disability-resource-centre2-1"
 iriss_archive_libsyn_title: "Paisley Disability Resource Centre:2"
 iriss_archive_libsyn_subtitle: "The Paisley Disability Resource Centre actively promotes independent living through various leisure, social, educational and employment activities and services. It aims to be a welcoming, supportive and inclusive place,"

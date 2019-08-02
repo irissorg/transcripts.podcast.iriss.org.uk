@@ -3,6 +3,9 @@ title: "Paisley Disability Resource Centre:1"
 subtitle: "Michael McEwan speaks to Kevin Cantwell, the arts group facilitator at the Centre, as well as a number of people who take part in the activities which include painting, photography and dancing."
 date: "2018-01-20T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Kevin Cantwell", "Billy Neil", "Brenda", "Billy White"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/paisley-disability-resource-centre1-1"
 iriss_archive_libsyn_title: "Paisley Disability Resource Centre:1"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Kevin Cantwell, the arts group facilitator at the Centre, as well as a number of people who take part in the activities which include painting, photography and dancing."

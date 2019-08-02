@@ -3,6 +3,9 @@ title: "New technologies and child protection"
 subtitle: "The event explored the challenges of, and solutions to, protecting children, given the emergence of social media and other technologies."
 date: "2013-03-01T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: ["Michelle Drumm"]
+speakers: ["Colin McKerracher", "Beth Smith", "Bill White", "Kelly Stone", "Ian Watson", "Pauline Rattray", "Katrina Laing", "Stewart Kerr"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/new-technologies-and-child-protection-1"
 iriss_archive_libsyn_title: "New technologies and child protection"
 iriss_archive_libsyn_subtitle: "The event explored the challenges of, and solutions to, protecting children, given the emergence of social media and other technologies."

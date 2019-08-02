@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Mairi O'Keefe"
 subtitle: "Michelle Drumm speaks to Chief Executive of Leuchie House national respite centre."
 date: "2018-10-22T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Mairi O'Keefe"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-mairi-okeefe-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Mairi O'Keefe"
 iriss_archive_libsyn_subtitle: "Michelle Drumm speaks to Chief Executive of Leuchie House national respite centre"

@@ -3,6 +3,9 @@ title: "Trend Spotter network"
 subtitle: "Michael McEwan of Able Radio interviews Susan Campbell of the Social Care Ideas Factory about the Trend Spotter network in Glasgow that will capture stories and trends of everyday living of people affected by disabilities."
 date: "2014-01-15T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Susan Campbell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/trend-spotter-network-1"
 iriss_archive_libsyn_title: "Trend Spotter network"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio interviews Susan Campbell of the Social Care Ideas Factory about the Trend Spotter network in Glasgow that will capture stories and trends of everyday living of people affected by disabilities."

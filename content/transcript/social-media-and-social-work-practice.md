@@ -3,6 +3,9 @@ title: "Social media and social work practice"
 subtitle: "In April 2012, a team from Iriss took part in an international workshop on evidence-informed practice in County Cavan, Ireland."
 date: "2012-07-18T23:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: ["Ian Watson"]
+speakers: ["Deborah Goodman", "Katharine Dill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-media-and-social-work-practice-1"
 iriss_archive_libsyn_title: "Social media and social work practice"
 iriss_archive_libsyn_subtitle: "In April 2012, a team from Iriss took part in an international workshop on evidence-informed practice in County Cavan, Ireland."

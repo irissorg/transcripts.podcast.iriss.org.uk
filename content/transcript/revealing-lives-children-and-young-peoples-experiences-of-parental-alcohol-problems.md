@@ -3,6 +3,9 @@ title: "Revealing lives: children and young people's experiences of parental alc
 subtitle: "Dr Louise Hill describes her qualitative research study on children young people affected by parental alcohol problems."
 date: "2012-02-03T00:00:00+00:00"
 draft: false
+categories: ["Substance misuse"]
+hosts: []
+speakers: ["Louise Hill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/revealing-lives-children-and-young-peoples-experiences-of-parental-alcohol-problems-1"
 iriss_archive_libsyn_title: "Revealing lives: children and young people's experiences of parental alcohol problems"
 iriss_archive_libsyn_subtitle: "Dr Louise Hill describes her qualitative research study on children young people affected by parental alcohol problems."

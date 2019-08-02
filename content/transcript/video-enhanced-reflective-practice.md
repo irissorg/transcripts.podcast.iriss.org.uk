@@ -3,6 +3,9 @@ title: "Video enhanced reflective practice"
 subtitle: "Supporting improved communication and reflective practice amongst newly qualified child and family social workers."
 date: "2012-10-24T23:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: []
+speakers: ["Robin Sen"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/video-enhanced-reflective-practice-1"
 iriss_archive_libsyn_title: "Video enhanced reflective practice"
 iriss_archive_libsyn_subtitle: "Supporting improved communication and reflective practice amongst newly qualified child and family social workers."

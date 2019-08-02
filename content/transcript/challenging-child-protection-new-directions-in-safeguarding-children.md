@@ -3,6 +3,9 @@ title: "Challenging child protection: new directions in safeguarding children"
 subtitle: " Janice McGhee and Professor Lorraine Waterhouse, explore the research landscape in child protection drawing on the work of academics from different research backgrounds both disciplinary and place."
 date: "2016-06-19T23:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Janice McGhee"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/challenging-child-protection-new-directions-in-safeguarding-children-1"
 iriss_archive_libsyn_title: "Challenging child protection: new directions in safeguarding children"
 iriss_archive_libsyn_subtitle: " Janice McGhee and Professor Lorraine Waterhouse, explore the research landscape in child protection drawing on the work of academics from different research backgrounds both disciplinary and place."

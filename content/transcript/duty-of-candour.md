@@ -3,6 +3,9 @@ title: "Duty of Candour"
 subtitle: "Iriss hosted a group discussion."
 date: 2019-04-05T12:00:00+01:00
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Stuart Muirhead"]
+speakers: ["Jackie Weston", "Alison Kirsty", "Lisa Greenan", "Linda Kemp"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/duty-of-candour"
 ---
 SM - Stuart Muirhead  

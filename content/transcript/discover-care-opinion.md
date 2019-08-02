@@ -3,6 +3,9 @@ title: "Discover Care Opinion"
 subtitle: "Care Opinion is an independent site where anyone can share their stories of adult social care or the NHS."
 date: "2014-11-13T00:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Michelle Drumm"]
+speakers: ["James Munro", "Irene Oldfather", "Gina Alexander", "Gina Alexander", "Grant Douglas", "Richard Lyall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/discover-care-opinion-1"
 iriss_archive_libsyn_title: "Discover Care Opinion"
 iriss_archive_libsyn_subtitle: "Care Opinion is an independent site where anyone can share their stories of adult social care or the NHS."
@@ -13,11 +16,11 @@ iriss_archive_website_pagetitle: "Discover Care Opinion"
 iriss_archive_website_url: "/resources/irissfm/discover-care-opinion"
 iriss_archive_website_date_of_recording: "2014-11-13T12:00:00+0000"
 ---
-Int. - Interviewer  
-JM - James Munro  
-IO - Irene Oldfather  
-GA - Gina Alexander  
-GD - Grant Douglas  
+MD - Michelle Drumm  
+JM - James Munro
+IO - Irene Oldfather
+GA - Gina Alexander
+GD - Grant Douglas
 RL - Richard Lyall
 
 On the 13th of November, Iriss.fm attended Discover Care Opinion, an event to launch, as well as discussing explore Care Opinion, the sister site to patient Opinion in Scotland. James Munro, Chief Executive of Patient Opinion, gave us the background on the initiative and its aims.
@@ -28,15 +31,15 @@ In some ways this is much more normal now than it was when we started in 2005, b
 
 The essence of it is that social media and online communication allow us to enter a different relationship with the services that we rely on, which is about us being much more active participants in our own care, but also much more active participants in helping to improve services for other people. So that's what drives us forward, and looking at the extraordinary potential and possibilities of the technology that we now have, to share learning, to share change, share good practice across the whole of the health and social care sector, at much, much lower costs than we could ever do it in the past because once you have somebody's experience online, you can share it with everybody who needs to see it, and who can benefit from it and can learn from it.
 
-Int. Patient Opinion wasn't really originally a health model ...
+MD Patient Opinion wasn't really originally a health model ...
 
 JM Yes
 
-Int. ... and it was the Tera Opinion model that was a little bit more about combining health and social care opinion, if you like ...
+MD ... and it was the Tera Opinion model that was a little bit more about combining health and social care opinion, if you like ...
 
 JM That's right
 
-Int. Do you think there's some challenges around that?
+MD Do you think there's some challenges around that?
 
 JM There are, there are some real challenges, health and social care are different in all kinds of ways, but the importance differences from our perspective are, in terms of the challenges of trying to maintain peoples anonymity so that people can feel safe, that they won't be identified, that giving feedback won't put them in a worse position than they are in when they start. So that's more of a challenge in social care, for 2 reasons, I think, 1 is that care settings are often very much smaller, and the second thing is that people are often cared for in those care settings for very much longer when they are in healthcare. And so those 2 things make it much more tricky, really, to ensure that we don't do harm to users and that by giving their feedback, they're not putting themselves at risk. And likewise, it's harder to protect staff, individual staff, we don't see our role as trying to identify underperforming staff or blaming individuals, that's not what we are about, we're about learning and improvement. But there is risk that staff can be identified, we try very, very hard not to do that, but of course in a small care setting, that risk does increase. So there are particular challenges in social care and I think we're only at the start of this journey and there will be lots that we have to learn in order to make sure that we do this safely and effectively in ways that work well for staff and service users and carers.
 
@@ -64,7 +67,7 @@ Grant Douglas, an Equality Consultant, tell us about his work and why he thinks 
 
 GD I graduated from Napier Uni with a degree in Computer Science. (... unclear) to see how they teach equality for disabled people, and then I wrote to various different organisations to try and achieve equality for disabled people in housing, voting, education and health on a part time consultancy basis on education and health. I have been coming to facilitated group, facilitate discussion with any people whether they were support needs or not, and be impartial ... to actually facilitate a group of people, take their ideas and feed that back to the organisation.
 
-Int. So, do you see Care Opinion as being a really important initiative?
+MD So, do you see Care Opinion as being a really important initiative?
 
 GD Yes, and they use the feedback and they are not seen as making a complaint or being a troublemaker or anything like that, it's about the way of improving people services, and also being able to give positive feedback where it's merited. And a lot of people I have worked with in the past have used care services and have wanted to express opinion about care services and not been able to, because there has been no vehicle out there to use. I remember working with a group a pupils in a segregated school ... communication devices to communicate and they would go and do respite care that night, and they were dreading it because the care provider had no idea how to communicate with these people. And at that point there was nothing that we could ... no vehicle out there to express that opinion. But now if Care Opinion goes nationwide, then that means they will be able to provide that feedback back to that care provider. There are a lot of benefits, because you don't get judged on the way you look, the way you talk, you way you act, but on the other hand, there may be a lot of challenges for people who are not technically savvy and don't feel confident enough to use the online resource. I agree that will be our key area of Care Opinion in wanting to overcome that barrier during the pilot period. I believe in the next 10, 15 years, we will be amazed that generally we will go online very quickly and that everybody will be online and be technically savvy in the next 5, 10 years.
 

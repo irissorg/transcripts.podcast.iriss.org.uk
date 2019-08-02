@@ -3,6 +3,9 @@ title: "The little engine that could - ideas into practice"
 subtitle: "Dr Katharine Dill speaks about putting ideas into practice and gives an example of implementing system-wide change."
 date: "2013-11-27T00:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: []
+speakers: ["Katharine Dill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-little-engine-that-could-ideas-into-practice-1"
 iriss_archive_libsyn_title: "The little engine that could - ideas into practice"
 iriss_archive_libsyn_subtitle: "Dr Katharine Dill speaks about putting ideas into practice and gives an example of implementing system-wide change."
@@ -13,10 +16,9 @@ iriss_archive_website_pagetitle: "The little engine that could - ideas into prac
 iriss_archive_website_url: "/resources/irissfm/little-engine-could-ideas-practice"
 iriss_archive_website_date_of_recording: "2013-11-27T12:00:00+0000"
 ---
-MD - Michelle Drumm  
 KD - Katharine Dill
 
-MD Dr Katharine Dill, lecturer at Queens University Belfast and founding executive director of PART (Practice and Research Together), spoke at Iriss's 6th annual AGM on the 27th of November 2013. Her presentation was entitled 'The Little Engine That Could', creating, building and sustaining a Canadian based knowledge exchange programme. In this programme, Dr Katharine Dill speaks about putting ideas into practice and gives an example of implementing system-wide change.
+Dr Katharine Dill, lecturer at Queens University Belfast and founding executive director of PART (Practice and Research Together), spoke at Iriss's 6th annual AGM on the 27th of November 2013. Her presentation was entitled 'The Little Engine That Could', creating, building and sustaining a Canadian based knowledge exchange programme. In this programme, Dr Katharine Dill speaks about putting ideas into practice and gives an example of implementing system-wide change.
 
 KD So moving ideas into practice, and again, you know, I don't know, I mean this is a complicated issue and I think you as an audience can help me figure this out, but especially now I am moving into an academic setting. How do you get academics to move ideas into practice, you know, how do we create research that is actually practitioner focused? There is a really cool conference that's coming up in New York in June, which is focused on practice based research and it's a whole groundswell of thinking around getting academics to move away from creating research initiatives that are based on their own idea that is disconnected from practice. And then also once they create the knowledge, how is it going to change practice because there really is no point in doing a study if it isn't actually going to change the work that we do and help to improve it, so it's really about putting those ideas into practice.
 

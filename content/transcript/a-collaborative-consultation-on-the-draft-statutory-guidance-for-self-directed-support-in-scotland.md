@@ -3,6 +3,9 @@ title: "A collaborative consultation on the draft statutory guidance for self-di
 subtitle: "Following the publication of the draft guidance on self-directed support, a consultation event was held to give service providers, users of services and carers, the opportunity to air their views on the various parts of the guidance."
 date: "2013-06-05T23:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michelle Drumm"]
+speakers: ["Kate Fearnley", "Donald Macaskill", "Roy Campbell", "Scott Reid", "Donna McDowell", "Mark Paul Howard", "Kate Dowling", "Yvonne McLees", "Lesley McLaren"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/a-collaborative-consultation-on-the-draft-statutory-guidance-for-self-directed-support-in-scotland-1"
 iriss_archive_libsyn_title: "A collaborative consultation on the draft statutory guidance for self-directed support in Scotland"
 iriss_archive_libsyn_subtitle: "Following the publication of the draft guidance on self-directed support, a consultation event was held to give service providers, users of services and carers, the opportunity to air their views on the various parts of the guidance."
@@ -15,16 +18,16 @@ iriss_archive_website_date_of_recording: "2013-06-06T13:00:00+0100"
 ---
 MD - Michelle Drumm  
 KF - Kate Fearnley  
-DM - Donald McAskill  
+DM - Donald Macaskill  
 RC - Roy Campbell  
-SR - Scott Reid
-DMD - Donna McDowell
+SR - Scott Reid  
+DMD - Donna McDowell  
 MH - Mark Paul Howard  
 KD - Kate Dowling  
 YM - Yvonne McLees  
 LM - Lesley McLaren
 
-MD A consultation event on the draft statutory guidance for Self-Directed Support in Scotland was held on 6th June 2013 at the Carnegie Conference Centre in Dunfermline. It brought together providers of services and users and carers to discuss the various parts of the guidance and give their views on it. These views would then be collated into a report which will be presented to Scottish Government. Iriss.fm attended to capture some of the attendees views. Kate Fearnley, Deputy Chief Executive of Alzheimer Scotland and Donald McAskill, Scottish Care's Lead for People as Partners told us more about why the event was organised, the structure of the day and what the event aimed to achieve.
+MD A consultation event on the draft statutory guidance for Self-Directed Support in Scotland was held on 6th June 2013 at the Carnegie Conference Centre in Dunfermline. It brought together providers of services and users and carers to discuss the various parts of the guidance and give their views on it. These views would then be collated into a report which will be presented to Scottish Government. Iriss.fm attended to capture some of the attendees views. Kate Fearnley, Deputy Chief Executive of Alzheimer Scotland and Donald Macaskill, Scottish Care's Lead for People as Partners told us more about why the event was organised, the structure of the day and what the event aimed to achieve.
 
 KF It has been organised to bring together both providers and people who use social care services to look at the guidance and regulations for the new Self-Directed Support Act which comes into effect next year and make sure they work basically and comment on that to the government and really have some joint feedback that can be a powerful influence on the way that the guidance goes forward. I mean historically we have had a long history in Scotland of theoretically having direct payments and the option to direct your own support there in the legislation, but it hasn't been used very much at all - certain groups haven't had access to it at all, people with dementia have barely been able to use it. (... unclear) Scotland piloted using Self-Directed Support for people with dementia very successfully and now we are doing more of that work, but that is still kind of scratching the surface - we need people to actually be offered those options right from the start as the access that they should be.
 

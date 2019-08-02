@@ -3,6 +3,9 @@ title: "ISBA 2016: Back in the driving seat - James McKillop"
 subtitle: "Dr James McKillop MBE, a person who has been living with dementia for a long time, tells of his personal experience of risk and outdoors activity."
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: []
+speakers: ["Neil Mapes", "James McKillop"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-back-in-the-driving-seat-james-mckillop-1"
 iriss_archive_libsyn_title: "ISBA 2016: Back in the driving seat - James McKillop"
 iriss_archive_libsyn_subtitle: "Dr James McKillop MBE, a person who has been living with dementia for a long time, tells of his personal experience of risk and outdoors activity."

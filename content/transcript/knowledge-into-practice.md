@@ -3,6 +3,9 @@ title: "Knowledge into practice"
 subtitle: "Finding, using and sharing knowledge on social care. Michael McEwan of Able Radio talks to Dr Ann Wales about translating knowledge into practice."
 date: "2014-07-29T23:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: ["Michael McEwan"]
+speakers: ["Ann Wales"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/knowledge-into-practice-1"
 iriss_archive_libsyn_title: "Knowledge into practice"
 iriss_archive_libsyn_subtitle: "Finding, using and sharing knowledge on social care. Michael McEwan of Able Radio talks to Dr Ann Wales about translating knowledge into practice."

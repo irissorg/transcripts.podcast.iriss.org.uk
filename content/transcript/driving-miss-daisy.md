@@ -3,6 +3,9 @@ title: "Driving Miss Daisy"
 subtitle: "Michael McEwan interviews Ann Overdijking and Christine McIntyre from Driving Miss Daisy in Scotland."
 date: 2019-03-26T12:00:00+00:00
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Ann Overdijking", "Christine McIntyre"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/driving-miss-daisy"
 ---
 MM - Michael McEwan  

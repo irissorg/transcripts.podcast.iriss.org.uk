@@ -3,6 +3,9 @@ title: "Access to Politics"
 subtitle: "Michael McEwan speaks to Ethan Young, Civic Participation Officer at Inclusion Scotland about Access to Politics, a project which aims to support disabled people into politics."
 date: "2018-09-29T13:00:00+0100"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Ethan Young"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/access-to-politics-1"
 iriss_archive_libsyn_title: "Access to Politics"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Ethan Young, Civic Participation Officer at Inclusion Scotland about Access to Politics, a project which aims to support disabled people into politics"

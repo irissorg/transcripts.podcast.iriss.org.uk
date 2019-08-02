@@ -3,6 +3,9 @@ title: "Widening access to higher education for looked after young people"
 subtitle: "Review progress in relation to supporting students from a looked after background."
 date: "2013-01-25T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Neil Maclennan", "Jonathan Gray", "Susan Mueller", "Graham Connolly"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/widening-access-to-higher-education-for-looked-after-young-people-1"
 iriss_archive_libsyn_title: "Widening access to higher education for looked after young people"
 iriss_archive_libsyn_subtitle: "Review progress in relation to supporting students from a looked after background."

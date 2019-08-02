@@ -3,6 +3,9 @@ title: "Forgotten Citizens: welcome"
 subtitle: "Lisa Curtice and David Kinloch."
 date: "2008-06-16T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: []
+speakers: ["David Kinloch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/forgotten-citizens-welcome-0"
 iriss_archive_libsyn_title: "Forgotten Citizens: welcome"
 iriss_archive_libsyn_subtitle: "Lisa Curtice and David Kinloch"

@@ -3,6 +3,9 @@ title: "Talking Social Work: Claire Ferrier"
 subtitle: "Talking Social Work was an event held on 13 September 2018 to mark the 50th Anniversary of the Social Work (Scotland) Act 1968 – to celebrate, reflect on the journey so far and look to the future."
 date: "2018-09-13T13:00:00+0100"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Claire Ferrier"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/talking-social-work-claire-ferrier-1"
 iriss_archive_libsyn_title: "Talking Social Work: Claire Ferrier"
 iriss_archive_libsyn_subtitle: "Talking Social Work was an event held on 13 September 2018 to mark the 50th Anniversary of the Social Work (Scotland) Act 1968 – to celebrate, reflect on the journey so far and look to the future. Claire Ferrier,"

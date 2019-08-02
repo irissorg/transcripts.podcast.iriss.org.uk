@@ -3,6 +3,9 @@ title: "UCanDoIT, digital literacy training"
 subtitle: "UCanDoIT teaches people with disabilities how to use computers and the world wide web, including online shopping, banking and social media. Instruction takes place in the learner's own home, on his or her own computer."
 date: "2014-11-14T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Joyce Jordan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/ucandoit-digital-literacy-training-1"
 iriss_archive_libsyn_title: "UCanDoIT, digital literacy training"
 iriss_archive_libsyn_subtitle: "UCanDoIT teaches people with disabilities how to use computers and the world wide web, including online shopping, banking and social media. Instruction takes place in the learner's own home, on his or her own computer."

@@ -3,6 +3,9 @@ title: "A watershed for social work in Scotland?"
 subtitle: "On 30 November 2016, the Health and Social Care Alliance, in partnership with a number of sector organisations including Iriss, hosted a seminar entitled – A watershed for social work in Scotland?"
 date: "2016-11-30T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["John Lincoln", "Audrey Burt", "Lynn Williams", "Sue Lavery", "Alan Baird"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/a-watershed-for-social-work-in-scotland-1"
 iriss_archive_libsyn_title: "A watershed for social work in Scotland?"
 iriss_archive_libsyn_subtitle: "On 30 November 2016, the Health and Social Care Alliance, in partnership with a number of sector organisations including Iriss, hosted a seminar entitled – A watershed for social work in Scotland?"

@@ -3,6 +3,9 @@ title: "Getting It Right for Every Child: promoting effective change"
 subtitle: "Bill Alexander. Head of Children's Services for NHS Highland and Highland Council."
 date: "2008-09-24T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Bill Alexander"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/getting-it-right-for-every-child-promoting-effective-change-0"
 iriss_archive_libsyn_title: "Getting It Right for Every Child: promoting effective change"
 iriss_archive_libsyn_subtitle: "Bill Alexander. Head of Children's Services for NHS Highland and Highland Council."

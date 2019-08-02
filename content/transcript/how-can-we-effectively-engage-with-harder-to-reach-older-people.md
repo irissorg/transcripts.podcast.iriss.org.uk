@@ -3,6 +3,9 @@ title: "How can we effectively engage with harder to reach older people?"
 subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
 date: "2014-10-06T23:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Vivien Moffat"]
+speakers: ["Sarah Currie", "Betty Milton", "Audrey Taylor", "Gerry Power", "Agnes McGroarty"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/how-can-we-effectively-engage-with-harder-to-reach-older-people-1"
 iriss_archive_libsyn_title: "How can we effectively engage with harder to reach older people?"
 iriss_archive_libsyn_subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."

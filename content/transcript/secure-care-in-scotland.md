@@ -3,6 +3,9 @@ title: "Secure care in Scotland"
 subtitle: "The second of two episodes to celebrate the Festival of Residential Child Care 2017. Key messages emerging from the Secure Care National Project, which were published in the 2016 CYCJ report: Secure care in Scotland: looking ahead."
 date: "2017-05-22T23:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: []
+speakers: ["Debbie Nolan", "Alison Gough", "Sharon", "Deborah", "Lesley"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/secure-care-in-scotland-1"
 iriss_archive_libsyn_title: "Secure care in Scotland"
 iriss_archive_libsyn_subtitle: "The second of two episodes to celebrate the Festival of Residential Child Care 2017. Key messages emerging from the Secure Care National Project, which were published in the 2016 CYCJ report: Secure care in Scotland: looking ahead"

@@ -3,6 +3,9 @@ title: "Scottish Mental Health Arts Festival"
 subtitle: "Michael McEwan speaks to Richard Warden, the film lead, about the 2017 Scottish Mental Health Arts Festival (10-29 October)."
 date: "2017-10-02T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michael McEwan"]
+speakers: ["Richard Warden"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/scottish-mental-health-arts-festival-1"
 iriss_archive_libsyn_title: "Scottish Mental Health Arts Festival"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Richard Warden, the film lead, about the 2017 Scottish Mental Health Arts Festival (10-29 October)"

@@ -3,6 +3,9 @@ title: "The little engine that could - introduction"
 subtitle: "In this introductory episode, Dr Katharine Dill tells us how PART came about, grew and made an impact."
 date: "2013-11-27T00:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: []
+speakers: ["Katharine Dill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-little-engine-that-could-introduction-1"
 iriss_archive_libsyn_title: "The little engine that could - introduction"
 iriss_archive_libsyn_subtitle: "In this introductory episode, Dr Katharine Dill tells us how PART came about, grew and made an impact."
@@ -13,10 +16,9 @@ iriss_archive_website_pagetitle: "The little engine that could - introduction"
 iriss_archive_website_url: "/resources/irissfm/little-engine-that-could-introduction"
 iriss_archive_website_date_of_recording: "2013-11-27T12:00:00+0000"
 ---
-MD - Michelle Drumm  
 KD - Katharine Dill
 
-MD Dr Katharine Dill, Lecturer at Queen's University Belfast and founding Executive Director of PART, (Practice and Research Together) spoke at Iriss's sixth annual AGM on the 27th of November 2013. Her presentation was entitled, 'The Little Engine That Could', creating, building and sustaining a Canadian based knowledge exchange programme. This programme is known as PART (Practice and Research together). In this introductory episode, she tells us how PART came about, grew and made an impact.
+Dr Katharine Dill, Lecturer at Queen's University Belfast and founding Executive Director of PART, (Practice and Research Together) spoke at Iriss's sixth annual AGM on the 27th of November 2013. Her presentation was entitled, 'The Little Engine That Could', creating, building and sustaining a Canadian based knowledge exchange programme. This programme is known as PART (Practice and Research together). In this introductory episode, she tells us how PART came about, grew and made an impact.
 
 KD Well thank you so much for having me here today and I feel very, very honoured to have been invited by Alison to present. It's really lovely actually to talk about my own life actually, I am in a new life now, I am in Northern Ireland and teaching social work, but so much of what I do every day at Queens in Belfast is very linked to the whole concepts around evidence informed practice. I think Alison wanted me to come today just to talk about sort of the story of what we did in Canada, because I think a lot of the challenges and the opportunities are very transferable to anywhere in the world and we have had a wonderful day meeting with the team, there's just such incredible work that's happening at Iriss and I was meeting with the team this morning and I am very, very blessed to have my wonderful friend and colleague, Dr Catherine Higgins is also with me today from Queens in Belfast, and we were just drinking in all the wonderful ideas, but I was saying that one of the things that has happened for me is that I have really known about Iriss through Alison, through an international network that we work with, and one of the things that I noticed in my journeys in Canada and then moving here, is that everyone knows about Iriss and I think that that's a real testament to the great work that you are doing, so I am hoping that I can sort of celebrate what amazing things are coming out of a very small organisation, a 'little engine that could', which is similar to the talk that I am going to talk about today. I learned about Iriss through Alison, through work I had done with research and practice in England, but since I have been in Northern Ireland, every time I turn around, a lecturer has an Iriss document that they've downloaded on their computer and I am like, "wow, that's fantastic", so your work really does transcend worldwide and so I think that's really a fantastic opportunity to celebrate the things that are happening.
 

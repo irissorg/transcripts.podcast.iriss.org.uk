@@ -3,6 +3,9 @@ title: "Real Lives, Real Difference: service user and carer involvement in profe
 subtitle: "Focused on the subject of service user and carer involvement in professional education."
 date: "2013-06-03T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Peter Beresford", "James McKillop", "Tom Friel", "Surinder Kaur Saroya", "Mo McPhail"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/real-lives-real-difference-service-user-and-carer-involvement-in-professional-education-1"
 iriss_archive_libsyn_title: "Real Lives, Real Difference: service user and carer involvement in professional education"
 iriss_archive_libsyn_subtitle: "Focused on the subject of service user and carer involvement in professional education."
@@ -16,7 +19,7 @@ iriss_archive_website_date_of_recording: "2013-06-04T13:00:00+0100"
 MD - Michelle Drumm  
 PB - Peter Beresford  
 JM - James McKillop  
-TF - Tom Friel
+TF - Tom Friel  
 SS - Surinder Kaur Saroya  
 MM - Mo McPhail
 

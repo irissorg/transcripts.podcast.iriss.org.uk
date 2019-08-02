@@ -3,6 +3,9 @@ title: "ISBA 2016: No limits - Jamie Andrew"
 subtitle: "Jamie Andrew, mountaineer, adventurer and author tells his personal story of surviving an avalanche on the Les Droites mountain in the French Alps. He speaks about dealing with the life-changing challenges that followed and reaching his goals."
 date: "2016-09-14T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Donald Macleod", "Jamie Andrew"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-no-limits-jamie-andrew-1"
 iriss_archive_libsyn_title: "ISBA 2016: No limits - Jamie Andrew"
 iriss_archive_libsyn_subtitle: "Jamie Andrew, mountaineer, adventurer and author tells his personal story of surviving an avalanche on the Les Droites mountain in the French Alps. He speaks about dealing with the life-changing challenges that followed and reaching his goals."

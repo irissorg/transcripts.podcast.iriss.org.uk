@@ -3,6 +3,9 @@ title: "Mixed methods research and design: their development and use"
 subtitle: "Professor Brannen explores what we mean by mixed qualitative and quantitative research methodologies. She outlines its historic development and describes some recent examples of its use in studies of food practices."
 date: "2012-06-06T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Julia Brannen"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/mixed-methods-research-and-design-their-development-and-use-1"
 iriss_archive_libsyn_title: "Mixed methods research and design: their development and use"
 iriss_archive_libsyn_subtitle: "Professor Brannen explores what we mean by mixed qualitative and quantitative research methodologies. She outlines its historic development and describes some recent examples of its use in studies of food practices."

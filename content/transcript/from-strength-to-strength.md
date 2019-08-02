@@ -3,6 +3,9 @@ title: "From strength to strength"
 subtitle: "In 2012, Iriss undertook a project focused on understanding how an assets based approach could improve mental health and well-being within East Dunbartonshire, focusing specifically on Kirkintilloch."
 date: "2016-10-27T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Lisa Patonni"]
+speakers: ["John Moody", "David Delaney", "Deborah Reid"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/from-strength-to-strength-1"
 iriss_archive_libsyn_title: "From strength to strength"
 iriss_archive_libsyn_subtitle: "In 2012, Iriss undertook a project focused on understanding how an assets based approach could improve mental health and well-being within East Dunbartonshire, focusing specifically on Kirkintilloch."

@@ -3,6 +3,9 @@ title: "Social Worker of the Year, Sandy Watt"
 subtitle: "Sandy Watt, a senior mental health officer and practice teacher with North Lanarkshire Council. In this episode Sandy talks to Iriss's Rikke Iversholt about his 30 years in social work and the changes that the sector has gone through."
 date: "2012-03-31T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Rikke Iversholt"]
+speakers: ["Sandy Watt"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-worker-of-the-year-sandy-watt-1"
 iriss_archive_libsyn_title: "Social Worker of the Year, Sandy Watt"
 iriss_archive_libsyn_subtitle: "Sandy Watt, a senior mental health officer and practice teacher with North Lanarkshire Council. In this episode Sandy talks to Iriss's Rikke Iversholt about his 30 years in social work and the changes that the sector has gone through."

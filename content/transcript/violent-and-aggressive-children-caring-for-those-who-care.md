@@ -3,6 +3,9 @@ title: "Violent and aggressive children: caring for those who care"
 subtitle: "Adoptive or foster parents often believe they have failed and blame themselves for their child's violent or aggressive behaviour. It's important that professionals are 'trauma aware' and do not reinforce these feelings."
 date: "2015-09-16T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Edwina Grant", "Christine Gordon", "Karen Wallace"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/violent-and-aggressive-children-caring-for-those-who-care-1"
 iriss_archive_libsyn_title: "Violent and aggressive children: caring for those who care"
 iriss_archive_libsyn_subtitle: "Adoptive or foster parents often believe they have failed and blame themselves for their child's violent or aggressive behaviour. It's important that professionals are 'trauma aware' and do not reinforce these feelings."

@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Tommy Whitelaw"
 subtitle: "Michelle from Iriss speaks to Tommy Whitelaw, who was a full-time carer for his late mother Joan who had vascular dementia."
 date: "2018-07-04T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Tommy Whitelaw"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-tommy-whitelaw-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Tommy Whitelaw"
 iriss_archive_libsyn_subtitle: "Michelle from Iriss speaks to Tommy Whitelaw, who was a full-time carer for his late mother Joan who had vascular dementia."

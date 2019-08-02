@@ -3,6 +3,9 @@ title: "We Chose to Climb!"
 subtitle: "A three-day event or 'climb' that was held over 16-18th March 2015 at the Arches in Glasgow. It was an event that brought together those interested in discussing and exploring the principles of self-directed support."
 date: "2015-03-17T00:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michelle Drumm"]
+speakers: ["Charlie Barker"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/we-chose-to-climb-1"
 iriss_archive_libsyn_title: "We Chose to Climb!"
 iriss_archive_libsyn_subtitle: "A three-day event or 'climb' that was held over 16-18th March 2015 at the Arches in Glasgow. It was an event that brought together those interested in discussing and exploring the principles of self-directed support."

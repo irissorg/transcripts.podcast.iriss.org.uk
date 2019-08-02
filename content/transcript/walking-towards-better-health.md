@@ -3,6 +3,9 @@ title: "Walking towards better health"
 subtitle: "Michael McEwan of Able Radio speaks to Emma Goodlad, Walking Development Worker at ALLIANCE Scotland, about the Walking Towards Better Health programme."
 date: "2014-08-14T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Emma Goodlad"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/walking-towards-better-health-1"
 iriss_archive_libsyn_title: "Walking towards better health"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio speaks to Emma Goodlad, Walking Development Worker at ALLIANCE Scotland, about the Walking Towards Better Health programme."

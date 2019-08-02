@@ -3,6 +3,9 @@ title: "Discovering desistance"
 subtitle: "Claire Lightowler (Iriss) hosts a discussion at the second of two workshops held in Glasgow on 16 May 2012 as part of the desistance knowledge exchange."
 date: "2012-05-15T23:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: ["Claire Lightowler"]
+speakers: ["Ewan", "Beth", "Archie", "Elizabeth"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/discovering-desistance-1"
 iriss_archive_libsyn_title: "Discovering desistance"
 iriss_archive_libsyn_subtitle: "Claire Lightowler (Iriss) hosts a discussion at the second of two workshops held in Glasgow on 16 May 2012 as part of the desistance knowledge exchange."

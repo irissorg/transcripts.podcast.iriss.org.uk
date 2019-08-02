@@ -3,6 +3,9 @@ title: "Effective user involvement"
 subtitle: "Peter Beresford discusses user involvement in public service design and management has been widely promoted as a means of improving the quality and responsiveness of services."
 date: "2010-01-20T00:00:00+00:00"
 draft: false
+categories: ["Co-production"]
+hosts: []
+speakers: ["Peter Beresford"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/effective-user-involvement-0"
 iriss_archive_libsyn_title: "Effective user involvement"
 iriss_archive_libsyn_subtitle: "Peter Beresford discusses user involvement in public service design and management has been widely promoted as a means of improving the quality and responsiveness of services."

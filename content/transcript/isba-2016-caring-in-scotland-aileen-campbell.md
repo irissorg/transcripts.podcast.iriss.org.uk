@@ -3,6 +3,9 @@ title: "ISBA 2016: Caring in Scotland - Aileen Campbell"
 subtitle: "In this episode, Aileen Campbell, Minister for Public Health and Sport talks about: How the Scottish Government hopes to support carers – paid and unpaid New social security powers are being devolved to Scotland, how might these be best used?"
 date: "2016-09-12T23:00:00+00:00"
 draft: false
+categories: ["Carers"]
+hosts: []
+speakers: ["Donald Macleod", "Aileen Campbell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-caring-in-scotland-aileen-campbell-1"
 iriss_archive_libsyn_title: "ISBA 2016: Caring in Scotland - Aileen Campbell"
 iriss_archive_libsyn_subtitle: "In this episode, Aileen Campbell, Minister for Public Health and Sport talks about: How the Scottish Government hopes to support carers – paid and unpaid New social security powers are being devolved to Scotland, how might these be best used?"

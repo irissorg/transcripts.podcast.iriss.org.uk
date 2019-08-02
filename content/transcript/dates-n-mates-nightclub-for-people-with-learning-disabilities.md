@@ -3,6 +3,9 @@ title: "Dates-n-Mates nightclub for people with learning disabilities"
 subtitle: "Michael McEwan of Able Radio catches up with John Paul, a Director of Dates-n-Mates, at the Arches to talk about Late, Scotland's first inclusive club night for people with learning disabilities."
 date: "2014-03-14T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["John Paul"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/dates-n-mates-nightclub-for-people-with-learning-disabilities-1"
 iriss_archive_libsyn_title: "Dates-n-Mates nightclub for people with learning disabilities"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio catches up with John Paul, a Director of Dates-n-Mates, at the Arches to talk about Late, Scotland's first inclusive club night for people with learning disabilities."

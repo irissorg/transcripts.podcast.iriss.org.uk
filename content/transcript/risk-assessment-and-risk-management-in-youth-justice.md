@@ -3,6 +3,9 @@ title: "Risk assessment and risk management in youth justice"
 subtitle: "A discussion about the theory and practice of risk assessment and risk management in youth justice hosted by Mark McSherry, Head of Development with the Risk Management Authority."
 date: "2013-12-09T00:00:00+00:00"
 draft: false
+categories: ["Criminal justice"]
+hosts: []
+speakers: ["Lorraine Johnstone", "David Orr", "Stuart Allardyce", "Nina Vaswan", "Mark McSherry"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/risk-assessment-and-risk-management-in-youth-justice-1"
 iriss_archive_libsyn_title: "Risk assessment and risk management in youth justice"
 iriss_archive_libsyn_subtitle: "A discussion about the theory and practice of risk assessment and risk management in youth justice hosted by Mark McSherry, Head of Development with the Risk Management Authority."

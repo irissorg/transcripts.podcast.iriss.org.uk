@@ -3,6 +3,9 @@ title: "Learning Disability Week launch"
 subtitle: "For the launch of Learning Disability Week 2019, Michael McEwan spoke to Libby Clement from Scottish Commission for Learning Disability (SCLD); James Morton, Bake Off finalist; and Jonathan McKinstry, a nominee in the 2018 Learning Disability Awards."
 date: "2019-01-28T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Libby Clement"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/learning-disability-week-launch-1"
 iriss_archive_libsyn_title: "Learning Disability Week launch"
 iriss_archive_libsyn_subtitle: "For the launch of Learning Disability Week 2019, Michael McEwan spoke to Libby Clement from Scottish Commission for Learning Disability (SCLD); James Morton, Bake Off finalist; and Jonathan McKinstry, a nominee in the 2018 Learning Disability Awards."
@@ -14,7 +17,7 @@ iriss_archive_website_url: "/resources/irissfm/learning-disability-week-launch"
 iriss_archive_website_date_of_recording: "2019-01-28T12:00:00+0000"
 ---
 MM - Michael McEwan  
-LC = Libby Clement
+LC - Libby Clement
 
 MM On this episode of Iriss.fm I went to find out about this year's Learning Disability Week, the launch of Learning Disability Week was held at Project Ability in Glasgow and the National Learning Disability Week takes place from Monday the 13th to Sunday the 19th of May 2019. On this podcast I spoke to the winner of the British Bake Off, James Morton and also one of the award nominees from the learning disability awards last year, Jonathon McKendry. Okay but first up we are going to hear from the Scottish Commission for Learning Disability, Libby Clement.
 

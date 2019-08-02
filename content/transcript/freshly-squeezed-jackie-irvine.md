@@ -3,6 +3,9 @@ title: "Freshly Squeezed Jackie Irvine"
 subtitle: "Michelle Drumm interviews Jackie Irvine, Chief Social Work Officer and Head of Safer and Stronger Communities in the City of Edinburgh Council."
 date: 2019-05-07T12:00:00+01:00
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Jackie Irvine"]
 iriss_episode_libsyn_url: "https://podcast.Iriss.org.uk/freshly-squeezed-jackie-irvine"
 ---
 MD - Michelle Drumm  

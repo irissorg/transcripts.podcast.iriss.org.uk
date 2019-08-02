@@ -3,6 +3,9 @@ title: "Limelight Music"
 subtitle: "Michael McEwan speaks to Gordon Dougall, Artistic Director of Limelight Music."
 date: "2016-09-15T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Gordon Goodall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/limelight-music-1"
 iriss_archive_libsyn_title: "Limelight Music"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Gordon Dougall, Artistic Director of Limelight Music."

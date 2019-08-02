@@ -3,6 +3,9 @@ title: "PASDA. Supporting families of adults with autism"
 subtitle: "There are over 7000 families supporting adults with an autistic spectrum condition in Edinburgh and the Lothians."
 date: "2015-03-12T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Donna Nelson", "Cath Purdie"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/pasda-supporting-families-of-adults-with-autism-1"
 iriss_archive_libsyn_title: "PASDA. Supporting families of adults with autism"
 iriss_archive_libsyn_subtitle: "There are over 7000 families supporting adults with an autistic spectrum condition in Edinburgh and the Lothians. PASDA is a charity that offers support to parents, partners and siblings of adults with ASC"

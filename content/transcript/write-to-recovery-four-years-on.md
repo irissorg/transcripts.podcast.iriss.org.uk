@@ -3,6 +3,9 @@ title: "Write to Recovery - four years on"
 subtitle: "Erin Crombie (Group work facilitator) and John McCormack (Project Manager) from the Scottish Recovery Network give an update on the project."
 date: "2018-08-19T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Erin Crombie", "John McCormack", "Audrey", "Dorothea"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/write-to-recovery-four-years-on-1"
 iriss_archive_libsyn_title: "Write to Recovery - four years on"
 iriss_archive_libsyn_subtitle: "Erin Crombie (Group work facilitator) and John McCormack (Project Manager) from the Scottish Recovery Network give an update on the project."

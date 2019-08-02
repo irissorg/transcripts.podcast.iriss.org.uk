@@ -3,6 +3,9 @@ title: "Fit for the Future"
 subtitle: "A project dedicated to inspiring better outcomes for older people in Scotland."
 date: "2014-03-14T00:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Michelle Drumm"]
+speakers: ["Rhiann McLean"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/fit-for-the-future-2"
 iriss_archive_libsyn_title: "Fit for the Future"
 iriss_archive_libsyn_subtitle: "A project dedicated to inspiring better outcomes for older people in Scotland."

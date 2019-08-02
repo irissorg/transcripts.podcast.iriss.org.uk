@@ -3,6 +3,9 @@ title: "How to encourage innovation in the regulated environment"
 subtitle: "Part of the Iriss Masterclass series. Carole Wilkinson, former Director of the Scottish Social Services Council talks about how to encourage innovation in the regulated environment."
 date: "2010-04-22T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Carole Wilkinson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/how-to-encourage-innovation-in-the-regulated-environment-0"
 iriss_archive_libsyn_title: "How to encourage innovation in the regulated environment"
 iriss_archive_libsyn_subtitle: "Part of the Iriss Masterclass series. Carole Wilkinson, former Director of the Scottish Social Services Council talks about how to encourage innovation in the regulated environment."

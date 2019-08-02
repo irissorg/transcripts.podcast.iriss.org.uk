@@ -3,6 +3,9 @@ title: "Taking the first steps with self-directed support"
 subtitle: " A project that ran during the summer of 2012, was designed to introduce people to the processes involved in self directed support in a way that felt safe and not risky."
 date: "2013-01-31T00:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: []
+speakers: ["Keith Etherington", "Bill Alexander"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/taking-the-first-steps-wth-self-directed-support-1"
 iriss_archive_libsyn_title: "Taking the first steps with self-directed support"
 iriss_archive_libsyn_subtitle: " A project that ran during the summer of 2012, was designed to introduce people to the processes involved in self directed support in a way that felt safe and not risky."
@@ -112,6 +115,6 @@ But this is only the beginning, after Taking The First Steps, come taking the ne
 
 But for now, let's hear finally from Bill Alexander, Director of Health and Social Care and Highland Council, as it's not just the families that recognise the difference that this approach makes. Like some of the families, Bill was initially cautious and ambiguous about the potential benefits of this approach, but he has also changed his mind over the summer.
 
-BA "The families who have had access to funding that can they control and they can use to meet their outcomes do find that it is transformational, that they get something out of it, they get something out of having the control, having the responsibility. People talk about freedom of choice, people talk about wanting to manage the resource themselves and the incredible thing about this project is, with a fairly small fund, what people have achieved from it, and when we do have to be mindful of how we use the resource and get that resource to the most people and when you see the impact that it has on people, that has to be very compelling."
+BA The families who have had access to funding that can they control and they can use to meet their outcomes do find that it is transformational, that they get something out of it, they get something out of having the control, having the responsibility. People talk about freedom of choice, people talk about wanting to manage the resource themselves and the incredible thing about this project is, with a fairly small fund, what people have achieved from it, and when we do have to be mindful of how we use the resource and get that resource to the most people and when you see the impact that it has on people, that has to be very compelling.
 
 Thanks to everyone who got involved in the Taking The First Steps process, particularly to the children, families and young people, staff and ocial workers and local authorities and all the other people who were involved in making Taking The First Steps work well. It worked so well in fact that we are going to do it again next summer.

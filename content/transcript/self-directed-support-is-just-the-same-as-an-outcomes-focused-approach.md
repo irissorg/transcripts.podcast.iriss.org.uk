@@ -3,6 +3,9 @@ title: "Self-directed support is just the same as an outcomes focused approach?"
 subtitle: "This is the first in a series of round-table discussions that was recorded at the Iriss offices in the busy Merchant City of Glasgow."
 date: "2013-06-24T23:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Michelle Drumm"]
+speakers: ["Nikki Bruce", "Anne Connor", "Judith Midgley", "Yvonne Stewart", "Colin Millar", "Caroline Sturgeon", "June Findlater"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/self-directed-support-is-just-the-same-as-an-outcomes-focused-approach-1"
 iriss_archive_libsyn_title: "Self-directed support is just the same as an outcomes focused approach?"
 iriss_archive_libsyn_subtitle: "This is the first in a series of round-table discussions that was recorded at the Iriss offices in the busy Merchant City of Glasgow."
@@ -14,13 +17,13 @@ iriss_archive_website_url: "/resources/irissfm/self-directed-support-just-same-o
 iriss_archive_website_date_of_recording: "2013-06-25T13:00:00+0100"
 ---
 MD - Michelle Drumm  
-NB -  Nikki Bruce  
+NB - Nikki Bruce  
 AC - Anne Connor  
 JM - Judith Midgley  
 YW - Yvonne Stewart  
 CM - Colin Millar  
 CS - Caroline Sturgeon  
-JF = June Findlater
+JF - June Findlater
 
 MD The first in a series of planned Iriss discussions took place on 20th June 2013 on the topic self-directed support. We had seven people from various organisations involved including Nikki Bruce, Head of Personalisation at Enable Scotland, Anne Connor, Chief Executive at Outside the Box, Judith Midgley, Iriss Associate on the Pilotlight project, Yvonne Stewart, SDS Project Manager at Alzheimer Scotland, Colin Millar, Chief Executive at Scottish Personal Assistant Employers' Network (SPAEN), Caroline Sturgeon, Workforce Development Advisor at SSSC and finally June Findlater, Fieldwork Manager, Adult and Older People Services at South Lanarkshire Council.
 

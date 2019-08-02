@@ -3,6 +3,9 @@ title: "The grand challenge(s) for social work"
 subtitle: "At the Social Work Scotland AGM 2018, John Devaney, Centenary Chair of Social Work, spoke about social work in Scotland today."
 date: "2018-05-17T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["John Devaney"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-grand-challenges-for-social-work-1"
 iriss_archive_libsyn_title: "The grand challenge(s) for social work"
 iriss_archive_libsyn_subtitle: "At the Social Work Scotland AGM 2018, John Devaney, Centenary Chair of Social Work, spoke about social work in Scotland today."

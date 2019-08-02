@@ -3,6 +3,9 @@ title: "Attachment focused therapy for children and young people"
 subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland."
 date: "2012-09-04T23:00:00+00:00"
 draft: false
+categories: ["Attachment"]
+hosts: []
+speakers: ["Edwina Grant", "Dan Hughes"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/attachment-focused-therapy-for-children-and-young-people-1"
 iriss_archive_libsyn_title: "Attachment focused therapy for children and young people"
 iriss_archive_libsyn_subtitle: "Dyadic developmental psychotherapy is an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, who are adopted or are in foster care or children have experienced abuse, neglect or tra"
@@ -13,14 +16,14 @@ iriss_archive_website_pagetitle: "Attachment focused therapy for children and yo
 iriss_archive_website_url: "/resources/irissfm/attachment-focused-therapy-children-and-young-people"
 iriss_archive_website_date_of_recording: "2012-09-05T13:00:00+0100"
 ---
-EG -  Edwina Grant  
+EG - Edwina Grant  
 DH - Dan Hughes
 
-Introduction: Dan Hughes is an specialist in dyadic developmental psychotherapy, an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, as well as children who are adopted or are in foster care and children have experienced abuse, neglect or trauma in their early years.
+Dan Hughes is an specialist in dyadic developmental psychotherapy, an approach that is gaining momentum in Scotland as an effective intervention for children and young people in residential care, as well as children who are adopted or are in foster care and children have experienced abuse, neglect or trauma in their early years.
 
 Dan is a regular visitor to Scotland and we caught up with him in September 2012 in Glasgow during a four day workshop organised by Scottish Attachment in Action.
 
-Edwina Grant, a co- founder of Scottish Attachment in Action, asked Dan to explain the core features of dyactic developmental psychotherapy, in particular the attitude of PACE and the the concept of Blocked Care
+Edwina Grant, a co- founder of Scottish Attachment in Action, asked Dan to explain the core features of dyactic developmental psychotherapy, in particular the attitude of PACE and the the concept of Blocked Care.
 
 EG Good afternoon Dan and thank you for offering this interview. The Attachment Focus Therapy you have developed for supporting children and young people in foster care who are adopted, or children in residential care, children who have experienced abuse, neglect and trauma in their early years. This therapy is gaining momentum in Scotland as an effective intervention. The therapy of course is called Dyadic Developmental Psychotherapy. I wonder if you can tell us a little bit about the attitude of PACE that is core to dyadic developmental therapy, and also a little bit about the concept of blocked care?
 

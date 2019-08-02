@@ -3,6 +3,9 @@ title: "Supporting practitioners through the ethical research journey"
 subtitle: "Catherine-Rose Stocks Rankin, Iriss Associate speaks about supporting practitioners through the ethical research journey taken on the PROP (Practitioner Research and Older People) project."
 date: "2014-01-27T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Catherine-Rose Stocks Rankin"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/supporting-practitioners-through-the-ethical-research-journey-1"
 iriss_archive_libsyn_title: "Supporting practitioners through the ethical research journey"
 iriss_archive_libsyn_subtitle: "Catherine-Rose Stocks Rankin, Iriss Associate speaks about supporting practitioners through the ethical research journey taken on the PROP (Practitioner Research and Older People) project."
@@ -13,10 +16,9 @@ iriss_archive_website_pagetitle: "Supporting practitioners through the ethical r
 iriss_archive_website_url: "/resources/irissfm/supporting-practitioners-through-ethical-research-journey"
 iriss_archive_website_date_of_recording: "2014-01-27T12:00:00+0000"
 ---
-MD - Michelle Drumm  
 CR - Catherine-Rose Stocks Rankin
 
-MD An event entitled 'Navigating ethical approval and access in social care research' was held on the 28th of January 2014. It provided an opportunity to discuss the routes for gaining ethical approval for social care research and to provide a platform for the launch of the guidance document developed by a working group led by Scottish government. In this episode, Catherine-Rose Stocks Ranking, Iriss Associate, speaks about supporting practitioners through the ethical research journey taken on the PROP (Practitioner Research and Older People) project .
+An event entitled 'Navigating ethical approval and access in social care research' was held on the 28th of January 2014. It provided an opportunity to discuss the routes for gaining ethical approval for social care research and to provide a platform for the launch of the guidance document developed by a working group led by Scottish government. In this episode, Catherine-Rose Stocks Ranking, Iriss Associate, speaks about supporting practitioners through the ethical research journey taken on the PROP (Practitioner Research and Older People) project.
 
 CR So yes, I am just going to give you some insight from our work with practitioners. It was a project called 'PROP', which stands for Practitioner Research Older People, and it was a partnership between Iriss and the Centre for Research and Families and Relationships at the University of Edinburgh. And at that time I was the research associate on that project, so I was kind of the dogsbody, I was employed for 2 ½ days a week to manage the project and lead on lots of the research training and help support some of the practitioners through the ethical processes that they needed to negotiate as well as all of the other learning that they were doing. And when I was thinking about this presentation, I started to think about what the ethics processes were like because we had a range of practitioners involved and a range of organisations, which I will describe in a minute, but also what the ethics of their research was like, and I sort of see those things as two related ideas. So there was the kind of ethics guidelines and processes and clearance, but then there's also what is ethical research, which Alison was outlining there. And I got to thinking about research ethics, the kind of approval process as the bridge, it's the thing that facilitates and can help support a kind of ethical research journey, and so I am going to take you through kind of three stories and sort of use that metaphor all the way through.
 

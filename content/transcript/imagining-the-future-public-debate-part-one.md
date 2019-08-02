@@ -3,6 +3,9 @@ title: "Imagining the Future: public debate part one"
 subtitle: "Features guest speakers Alastair McIntosh, Scottish writer and academic who speaks about the challenges of social justice; and Gehan Macleod, Director of the GalGael Trust who focuses on the dilemmas for social services."
 date: "2014-05-18T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Lesley Riddoch", "Alastair McIntosh", "Gehan Macleod"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/imagining-the-future-public-debate-part-one-1"
 iriss_archive_libsyn_title: "Imagining the Future: public debate part one"
 iriss_archive_libsyn_subtitle: "Features guest speakers Alastair McIntosh, Scottish writer and academic who speaks about the challenges of social justice; and Gehan Macleod, Director of the GalGael Trust who focuses on the dilemmas for social services."
@@ -14,7 +17,7 @@ iriss_archive_website_url: "/resources/irissfm/imagining-future-public-debate-pa
 iriss_archive_website_date_of_recording: "2014-05-19T13:00:00+0100"
 ---
 MD - Michelle Drumm  
-LR - Lesley Riddoc  
+LR - Lesley Riddoch  
 AM - Alastair McIntosh  
 GM - Gehan Macleod
 

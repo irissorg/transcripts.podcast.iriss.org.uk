@@ -3,6 +3,9 @@ title: "What do we mean by prevention?"
 subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
 date: "2014-06-24T23:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Vivien Moffat"]
+speakers: ["Glenda Watt", "Betty Milton", "Irene Reid", "Derek Young", "Gerry Power", "Agnes McGroarty"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/what-do-we-mean-by-prevention-1"
 iriss_archive_libsyn_title: "What do we mean by prevention?"
 iriss_archive_libsyn_subtitle: "Plan P: New approaches to prevention with older people, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people."
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "What do we mean by prevention?"
 iriss_archive_website_url: "/resources/irissfm/what-do-we-mean-prevention"
 iriss_archive_website_date_of_recording: "2014-06-25T13:00:00+0100"
 ---
-VM - Viviene Moffat  
+VM - Vivien Moffat  
 GW - Glenda Watt  
 BM - Betty Milton  
 IR - Irene Reid  
@@ -23,7 +26,7 @@ AM - Agnes McGroarty
 
 Plan P, New Approaches to Prevention with older People, is an Iriss project which addresses the issue of social isolation and loneliness amongst older people. Each quarter, the Advisory Group records a group discussion about a related aspect of prevention. This is the third discussion. What do we mean by prevention, is it early intervention or universal prevention, or both? Recorded on the 25th of June 2014.
 
-VM I am Viviene Moffat, I am the Evidence-Informed Practice Programme Manager at Iriss and leading on Plan P.
+VM I am Vivien Moffat, I am the Evidence-Informed Practice Programme Manager at Iriss and leading on Plan P.
 
 GW I am Glenda Watt, I work for the City of Edinburgh Council.
 

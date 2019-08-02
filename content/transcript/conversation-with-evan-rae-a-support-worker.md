@@ -3,6 +3,9 @@ title: "Conversation with Evan Rae, a support worker"
 subtitle: "Michael McEwan speaks to Evan Rae about his experiences as a support worker with Sense Scotland."
 date: "2017-12-08T00:00:00+00:00"
 draft: false
+categories: ["Practitioner stories"]
+hosts: ["Michael McEwan"]
+speakers: ["Evan Rae"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/conversation-with-evan-rae-a-support-worker-1"
 iriss_archive_libsyn_title: "Conversation with Evan Rae, a support worker"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Evan Rae about his experiences as a support worker with Sense Scotland"

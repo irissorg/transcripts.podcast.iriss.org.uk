@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Lynn Williams"
 subtitle: "Michelle Drumm interviews Lynn Williams, an unpaid carer and activist, providing practical care and support to her husband Derek. Derek has a high level spinal injury and other linked, complex needs."
 date: "2018-11-05T00:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Lynn Williams"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-lynn-williams-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Lynn Williams"
 iriss_archive_libsyn_subtitle: "Michelle Drumm interviews Lynn Williams, an unpaid carer and activist, providing practical care and support to her husband Derek. Derek has a high level spinal injury and other linked, complex needs."

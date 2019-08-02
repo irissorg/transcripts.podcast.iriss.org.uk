@@ -3,6 +3,9 @@ title: "Food for Thought: the contexts of care"
 subtitle: "The Food for Thought project grew out of research undertaken by the University of Stirling into the symbolic role of food in foster and residential child care."
 date: "2013-11-19T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Ruth Edmond", "Robbie Gilligan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-for-thought-the-contexts-of-care-1"
 iriss_archive_libsyn_title: "Food for Thought: the contexts of care"
 iriss_archive_libsyn_subtitle: "The Food for Thought project grew out of research undertaken by the University of Stirling into the symbolic role of food in foster and residential child care."

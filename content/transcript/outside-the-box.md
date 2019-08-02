@@ -3,6 +3,9 @@ title: "Outside the Box"
 subtitle: "Michael McEwan speaks to Jill Keegan, Community Development Adviser with Outside the Box, an equalities charity that focuses on community development support across Scotland and the UK."
 date: "2018-09-19T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Jill Keegan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/outside-the-box-1"
 iriss_archive_libsyn_title: "Outside the Box"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Jill Keegan, Community Development Adviser with Outside the Box, an equalities charity that focuses on community development support across Scotland and the UK."

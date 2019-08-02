@@ -3,6 +3,9 @@ title: "Perceptions of social work education and practice"
 subtitle: "Martin Kettle of Glasgow Caledonian University gives an overview of research on newly qualified social worker perceptions of social work education and practice."
 date: "2018-05-30T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Martin Kettle"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/perceptions-of-social-work-education-and-practice-1"
 iriss_archive_libsyn_title: "Perceptions of social work education and practice"
 iriss_archive_libsyn_subtitle: "Martin Kettle of Glasgow Caledonian University gives an overview of research on newly qualified social worker perceptions of social work education and practice."

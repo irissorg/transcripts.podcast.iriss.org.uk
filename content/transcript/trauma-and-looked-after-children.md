@@ -3,6 +3,9 @@ title: "Trauma and looked after children"
 subtitle: "How do we deal with trauma? Most of us have a reference point for what is 'safe' which allows us to make sense of traumatic events (for example a car crash) and provides a framework to deal with it."
 date: "2015-04-01T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Fiona Lettice", "Christine Gordon", "Karen Wallace"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/trauma-and-looked-after-children-1"
 iriss_archive_libsyn_title: "Trauma and looked after children"
 iriss_archive_libsyn_subtitle: "How do we deal with trauma? Most of us have a reference point for what is 'safe' which allows us to make sense of traumatic events (for example a car crash) and provides a framework to deal with it."

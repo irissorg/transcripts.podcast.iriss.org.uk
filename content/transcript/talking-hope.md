@@ -3,6 +3,9 @@ title: "Talking Hope"
 subtitle: "A roundtable discussion exploring to what extent creating safe conversational spaces among diverse stakeholders helps cultivate hope in the context of young people considered to be at high risk."
 date: "2018-08-27T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Katherine Baxter", "Eileen Bray", "Liam Slaven", "Natalie Connell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/talking-hope-1"
 iriss_archive_libsyn_title: "Talking Hope"
 iriss_archive_libsyn_subtitle: "A roundtable discussion exploring to what extent creating safe conversational spaces among diverse stakeholders helps cultivate hope in the context of young people considered to be at high risk."
@@ -13,13 +16,12 @@ iriss_archive_website_pagetitle: "Talking Hope"
 iriss_archive_website_url: "/resources/irissfm/talking-hope"
 iriss_archive_website_date_of_recording: "2018-08-28T13:00:00+0100"
 ---
-MD - Michelle Drumm  
 KB - Katherine Baxter  
 EB - Eileen Bray  
 LS - Liam Slaven  
 NC - Natalie Connell
 
-MD - You're listening to Iriss.fm, Scotland's social services podcast. On the 28th of August 2018 we held a roundtable discussion on "Talking Hope", a project exploring to what extent to creating safe conversational spaces amongst diverse stakeholders helps cultivate hope in a context of young people considered to be at high risk. The conversation about Katherine Baxter, Research Associate on the project, Natalie Connell, Unit Manager of the Good Shepherd Centre, Eileen Bray, Mental Health Nurse at CAMHS Ayrshire and Arran, and Liam Slaven, a care-experienced young person and member of Star Board which aims to transform secure care in Scotland.
+You're listening to Iriss.fm, Scotland's social services podcast. On the 28th of August 2018 we held a roundtable discussion on "Talking Hope", a project exploring to what extent to creating safe conversational spaces amongst diverse stakeholders helps cultivate hope in a context of young people considered to be at high risk. The conversation about Katherine Baxter, Research Associate on the project, Natalie Connell, Unit Manager of the Good Shepherd Centre, Eileen Bray, Mental Health Nurse at CAMHS Ayrshire and Arran, and Liam Slaven, a care-experienced young person and member of Star Board which aims to transform secure care in Scotland.
 
 KB I'm Katherine. I'm the Research Associate for the "Talking Hope" project which is a project funded by the Scottish Government and European Social Innovation Fund, and it's based at the University of Strathclyde, and its primary partnership is with the Good Shepherd Centre in Bishopton, and we're here today to talk a little bit of hope with people who are involved in supporting in people or who have been and people who have had experiences of being in care. So I thought we'd just start off with some introductions, and so maybe all of you can go around and just tell me a little bit about your role and also what it is how you support young people?
 

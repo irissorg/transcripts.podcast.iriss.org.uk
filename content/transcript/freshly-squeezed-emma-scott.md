@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Emma Scott"
 subtitle: "Michelle Drumm speaks to Emma Scott, who was the winner of the Bright Spark Award at the Scottish Social Services Awards in 2018."
 date: "2018-09-26T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Emma Scott"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-emma-scott-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Emma Scott"
 iriss_archive_libsyn_subtitle: "Michelle Drumm speaks to Emma Scott, who was the winner of the Bright Spark Award at the Scottish Social Services Awards in 2018."

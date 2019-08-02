@@ -3,6 +3,9 @@ title: "Values into Action Scotland"
 subtitle: "Values into Action Scotland promotes rights and equality for people with learning difficulties and individuals on the autistic spectrum."
 date: "2015-07-12T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["David Ross", "Catherine Hurrell"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/values-into-action-scotland-1"
 iriss_archive_libsyn_title: "Values into Action Scotland"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio first talks to David Ross about how his work as a Quality Checker helps people bring more choice and control into their lives"

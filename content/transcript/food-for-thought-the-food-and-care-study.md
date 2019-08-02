@@ -3,6 +3,9 @@ title: "Food for Thought. The food and care study"
 subtitle: "Professor Samantha Punch of the University of Stirling, and one of the lead investigators on Food for Thought, summarises the original research project - the Use of Food and Food Practices in Residential Child Care in Scotland."
 date: "2013-11-19T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Samantha Punch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-for-thought-the-food-and-care-study-1"
 iriss_archive_libsyn_title: "Food for Thought. The food and care study"
 iriss_archive_libsyn_subtitle: "Professor Samantha Punch of the University of Stirling, and one of the lead investigators on Food for Thought, summarises the original research project - the Use of Food and Food Practices in Residential Child Care in Scotland."

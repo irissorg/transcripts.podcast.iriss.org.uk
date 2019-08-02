@@ -3,6 +3,9 @@ title: "Self directed support: North Lanarkshire demonstrator project"
 subtitle: "During the summer of 2012 North Lanarkshire Council is taking part in a self directed support demonstration project in which 20 families will each receive a budget of £200 to spend on something that will make a difference to their lives."
 date: "2012-05-01T23:00:00+00:00"
 draft: false
+categories: ["Self-directed support"]
+hosts: ["Ian Watson"]
+speakers: ["Carron O'Byrne", "Morag Dendy", "Gerry Kelly"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/self-directed-support-north-lanarkshire-demonstrator-project-1"
 iriss_archive_libsyn_title: "Self directed support: North Lanarkshire demonstrator project"
 iriss_archive_libsyn_subtitle: "During the summer of 2012 North Lanarkshire Council is taking part in a self directed support demonstration project in which 20 families will each receive a budget of £200 to spend on something that will make a difference to their lives."
@@ -16,7 +19,7 @@ iriss_archive_website_date_of_recording: "2012-05-02T13:00:00+0100"
 IW - Ian Watson  
 CO - Carron O'Byrne  
 MD - Morag Dendy  
-GK Gerry Kelly
+GK - Gerry Kelly
 
 Interviewees: Carron O'Byrne and Morag Dendy, North Lanarkshire Council and Gerry Kelly, In Control
 

@@ -3,6 +3,9 @@ title: "Leadership and professional identity"
 subtitle: "Susan Taylor, past President of Social Work Scotland, provides the keynote on leadership and professional identity, focusing particularly on the post-qualifying period."
 date: "2018-05-30T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Susan Taylor"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/leadership-and-professional-identity-1"
 iriss_archive_libsyn_title: "Leadership and professional identity"
 iriss_archive_libsyn_subtitle: "Susan Taylor, past President of Social Work Scotland, provides the keynote on leadership and professional identity, focusing particularly on the post-qualifying period."

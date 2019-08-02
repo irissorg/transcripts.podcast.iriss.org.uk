@@ -3,6 +3,9 @@ title: "What does the concept of Next Practice offer to people using social serv
 subtitle: "Geoff Mulgan is director of the Young Foundation. Between 1997 and 2004 he worked in the UK Prime Minister's office and Cabinet Office and before that was the founding director of the thinktank demos."
 date: "2010-03-19T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Geoff Mulgan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/what-does-the-concept-of-next-practice-offer-to-people-using-social-services-0"
 iriss_archive_libsyn_title: "What does the concept of Next Practice offer to people using social services?"
 iriss_archive_libsyn_subtitle: "Geoff Mulgan is director of the Young Foundation. Between 1997 and 2004 he worked in the UK Prime Minister's office and Cabinet Office and before that was the founding director of the thinktank demos."

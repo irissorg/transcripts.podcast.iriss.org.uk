@@ -3,6 +3,9 @@ title: "Putting the baby IN the bathwater, why attachment matters for all"
 subtitle: "We all believe in preventing harm to children and we know that attachment plays a key role in prevention, but how do we close the gap between what we know and what we do? "
 date: "2014-09-18T23:00:00+00:00"
 draft: false
+categories: ["Attachment"]
+hosts: []
+speakers: ["Jonathan Sher"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/putting-the-baby-in-the-bathwater-why-attachment-matters-for-all-1"
 iriss_archive_libsyn_title: "Putting the baby IN the bathwater, why attachment matters for all"
 iriss_archive_libsyn_subtitle: "We all believe in preventing harm to children and we know that attachment plays a key role in prevention, but how do we close the gap between what we know and what we do? "

@@ -3,6 +3,9 @@ title: "Outspoken Arts"
 subtitle: "Michael McEwan speaks to Steven Thomson, Creative Director and CEO of Outspoken Arts."
 date: "2018-12-03T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Steven Thomson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/outspoken-arts-1"
 iriss_archive_libsyn_title: "Outspoken Arts"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Steven Thomson, Creative Director and CEO of Outspoken Arts, a professional and creative organisation interested in work which references cutting edge social issues such as creative learning for young and vulnerable people,"

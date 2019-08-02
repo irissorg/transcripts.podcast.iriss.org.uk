@@ -3,6 +3,9 @@ title: "The Peckham Experiment. Henrietta Trotter in conversation with Lisa Curt
 subtitle: "The centre was set up in 1926 as a public health research study and became something of an icon for people interested in self organising communities."
 date: "2014-03-12T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Lisa Curtice", "Henrietta Trotter"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-peckham-experiment-henrietta-trotter-in-conversation-with-lisa-curtice-1"
 iriss_archive_libsyn_title: "The Peckham Experiment. Henrietta Trotter in conversation with Lisa Curtice"
 iriss_archive_libsyn_subtitle: "The centre was set up in 1926 as a public health research study and became something of an icon for people interested in self organising communities."
@@ -144,7 +147,7 @@ LC We do
 
 HT ... but I do think the parental contribution and taking part in the lives of children is terribly important, and I think community is the next important, so that the legacy, I think, is something which sadly I think we've lost today. I am hopeful it will, perhaps not in my lifetime, come back. But it's not just... children, adolescents - we're all in our different compartments and we don't mix much. But these things called Apps and whatever else it is, I bet you all have, which is isolating people from mixing with each other. And I think human ... you know, that's a miss, we have got to get back to realising actually that human beings are thousands of years old and we've ... we can't just change our basics in a period just because we have become a bit mechanical - but that's up to you lot ...
 
-HERE - 33:52
+HERE
 
 LC For me it's intangible in some ways. It's the inspiration that it gives to people whenever I have talked to community groups and so on, that reinforces people who think there can be a way of doing things in a community that is not based on regulation and telling people what to. And it's not that this is the only model, it is that it's incredibly reinforcing to know that it happened and to recognise the same principles, so there's something about the quality of that live experience and ... as you can see, I mean Henrietta and I know each other, and that being that living connection, the gossip as it was describe within the centre, that kind of continues, it's continued generationally, of course it comes from other projects as well and it's that, it's the quality of that experience and that connection and how we can be part of social conditions that enable that to happen, as opposed to quashing it, I suppose for me.
 

@@ -3,6 +3,9 @@ title: "Innovative approaches to creating the learning organisation - Euan Sempl
 subtitle: "Part of the Iriss Masterclass series, embedding social media in the workplace."
 date: "2010-01-15T00:00:00+00:00"
 draft: false
+categories: ["Learning and development"]
+hosts: []
+speakers: ["Euan Semple"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/innovative-approaches-to-creating-the-learning-organisation-euan-semple-0"
 iriss_archive_libsyn_title: "Innovative approaches to creating the learning organisation - Euan Semple"
 iriss_archive_libsyn_subtitle: "Part of the Iriss Masterclass series, embedding social media in the workplace."

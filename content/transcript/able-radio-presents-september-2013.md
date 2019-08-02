@@ -3,6 +3,9 @@ title: "Able Radio presents - September 2013"
 subtitle: "We are pleased to introduce guest presenter Michael McEwan, a regular contributor to Able Radio. Michael offers a roundup of news and events for people with disabilities."
 date: "2013-09-25T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: []
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/able-radio-presents-september-2013-1"
 iriss_archive_libsyn_title: "Able Radio presents - September 2013"
 iriss_archive_libsyn_subtitle: "We are pleased to introduce guest presenter Michael McEwan, a regular contributor to Able Radio. Michael offers a roundup of news and events for people with disabilities."

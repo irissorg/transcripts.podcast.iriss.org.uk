@@ -3,6 +3,9 @@ title: "SASW MHO of the Year Award: Liz Snodgrass"
 subtitle: "Liz Snodgrass from Renfrewshire became the first winner of the SASW MHO of the Year Award in memory of Wilma MacDonald, a highly respected and loved MHO from the East End of Glasgow who died in 2009."
 date: "2012-11-02T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michelle Drumm"]
+speakers: ["Liz Snodgrass"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/sasw-mho-of-the-year-award-liz-snodgrass-1"
 iriss_archive_libsyn_title: "SASW MHO of the Year Award: Liz Snodgrass"
 iriss_archive_libsyn_subtitle: "Liz Snodgrass from Renfrewshire became the first winner of the SASW MHO of the Year Award in memory of Wilma MacDonald, a highly respected and loved MHO from the East End of Glasgow who died in 2009."

@@ -3,6 +3,9 @@ title: "Bipolar Scotland"
 subtitle: "In this episode, Michael McEwan speaks to Alison Cairns, Chief Executive of Bipolar Scotland, about what the supports and services the organisation provides."
 date: "2017-01-20T00:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: ["Michael McEwan"]
+speakers: ["Alison Kermes"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/bipolar-scotland-1"
 iriss_archive_libsyn_title: "Bipolar Scotland"
 iriss_archive_libsyn_subtitle: "In this episode, Michael McEwan speaks to Alison Cairns, Chief Executive of Bipolar Scotland, about what the supports and services the organisation provides."

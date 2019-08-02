@@ -3,6 +3,9 @@ title: "Freshly Squeezed: David Williams"
 subtitle: "On World Social Work Day, Michelle Drumm interviews David Williams, Chief Officer of Glasgow Health and Social Care Partnership."
 date: 2019-04-11T12:00:31+01:00
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["David Williams"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-david-williams"
 ---
 MD - Michelle Drumm  

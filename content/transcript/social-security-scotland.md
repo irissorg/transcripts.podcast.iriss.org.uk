@@ -3,6 +3,9 @@ title: "Social Security Scotland"
 subtitle: "Michael McEwan spoke to Rachael McKechnie about Social Security Scotland's work to date and its ambitions for the future."
 date: "2019-02-20T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Rachael McKechnie"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-security-scotland-1"
 iriss_archive_libsyn_title: "Social Security Scotland"
 iriss_archive_libsyn_subtitle: "Michael McEwan spoke to Rachael McKechnie about Social Security Scotland's work to date and its ambitions for the future"

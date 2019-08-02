@@ -3,6 +3,9 @@ title: "Welfare reform. Impact on third sector social and housing care providers
 subtitle: "Iriss and CCPS - the Coalition of Care and Support Providers in Scotland - collaborated on an ESRC funded research project to investigate the impact of welfare reform on third sector social and housing care providers in Scotland."
 date: "2014-04-22T23:00:00+00:00"
 draft: false
+categories: ["Welfare reform"]
+hosts: []
+speakers: ["Gregory White", "Shaheena Din", "Kirsty McKechnie"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/welfare-reform-impact-on-third-sector-social-and-housing-care-providers-in-scotland-1"
 iriss_archive_libsyn_title: "Welfare reform. Impact on third sector social and housing care providers in Scotland"
 iriss_archive_libsyn_subtitle: "Iriss and CCPS - the Coalition of Care and Support Providers in Scotland - collaborated on an ESRC funded research project to investigate the impact of welfare reform on third sector social and housing care providers in Scotland."
@@ -13,12 +16,11 @@ iriss_archive_website_pagetitle: "Welfare reform. Impact on third sector social 
 iriss_archive_website_url: "/resources/irissfm/welfare-reform-impact-third-sector-social-and-housing-care-providers-scotland"
 iriss_archive_website_date_of_recording: "2014-04-23T13:00:00+0100"
 ---
-IW - Ian Watson  
 GW - Gregory White  
 SD - Shaheena Din  
 KM - Kirsty McKechnie
 
-IW Iriss and CCPS - the Coalition of Care and Support Providers in Scotland, collaborated on an ESRC funded research project to investigate the impact of welfare reform on third sector social and housing care providers in Scotland. The results of this project were shared at a workshop on the 23rd of April 2014. First, Lead Researcher Gregory White, describes the project and its findings. Then Shaheena Din explains the role of the Scottish Welfare Reform Advisory Service (SCOTRAS), highlighting examples of the kind of enquiries they handle. Finally, Kirsty McKechnie from the Child Poverty Action Group Scotland describes the Early Warning System for gathering information about the impact of welfare reform on children and their families.
+Iriss and CCPS - the Coalition of Care and Support Providers in Scotland, collaborated on an ESRC funded research project to investigate the impact of welfare reform on third sector social and housing care providers in Scotland. The results of this project were shared at a workshop on the 23rd of April 2014. First, Lead Researcher Gregory White, describes the project and its findings. Then Shaheena Din explains the role of the Scottish Welfare Reform Advisory Service (SCOTRAS), highlighting examples of the kind of enquiries they handle. Finally, Kirsty McKechnie from the Child Poverty Action Group Scotland describes the Early Warning System for gathering information about the impact of welfare reform on children and their families.
 
 GW The research we conducted was Impact Welfare Reform on the third sector care and support services in Scotland, it began with a literature review and aimed to understand the context of the changes introduced by the Welfare Reform Act 2012, and the subsequent amendments, vis a vis the Welfare Reform (Further Provision) Scotland Act 2012. So following this, we conducted 17 interviews across 5 organisations and we had 3 primary research questions, and as I say these are organisations across the care and support sector in Scotland, and the results of these interviews formed the basis of our investigations into reforms and how they are impacting on the social services workforce. So as I say, the number of research questions that we devised, which lead to identifying some of the key issues that are affecting social services workforce, namely that we were keen to understand how social service practitioners were being impacted by reforms, what evidence we could use to predict some of the impacts, and what we know about the response in the service providers in order to help them to prepare for some of the impacts of Welfare Reform.
 

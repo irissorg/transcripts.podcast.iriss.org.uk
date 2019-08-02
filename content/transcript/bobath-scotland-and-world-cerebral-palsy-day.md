@@ -3,6 +3,9 @@ title: "Bobath Scotland and World Cerebral Palsy Day"
 subtitle: "Bobath Scotland is the only charity in Scotland dedicated to helping people with cerebral palsy, the most common cause of physical disability."
 date: "2015-09-10T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Stephanie Fraser"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/bobath-scotland-and-world-cerebral-palsy-day-1"
 iriss_archive_libsyn_title: "Bobath Scotland and World Cerebral Palsy Day"
 iriss_archive_libsyn_subtitle: "Bobath Scotland is the only charity in Scotland dedicated to helping people with cerebral palsy, the most common cause of physical disability."

@@ -3,6 +3,9 @@ title: "Relationships Matter"
 subtitle: "An Iriss project to develop ideas that support young people who are leaving care to maintain positive, nurturing relationships with the people in their lives."
 date: "2014-09-16T23:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Gayle Rice"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/relationships-matter-1"
 iriss_archive_libsyn_title: "Relationships Matter"
 iriss_archive_libsyn_subtitle: "An Iriss project to develop ideas that support young people who are leaving care to maintain positive, nurturing relationships with the people in their lives."

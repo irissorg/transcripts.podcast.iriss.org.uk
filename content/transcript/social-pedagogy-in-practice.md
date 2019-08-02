@@ -3,6 +3,9 @@ title: "Social pedagogy in practice"
 subtitle: "Social Pedagogy Professional Association's conference Growing up, growing old and staying well in Edinburgh on 28 September 2018."
 date: "2018-10-14T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Mark Smith", "Lotte Harbo", "Gabriel Eichsteller", "Gemma Campbell", "Graham McPheat"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-pedagogy-in-practice-1"
 iriss_archive_libsyn_title: "Social pedagogy in practice"
 iriss_archive_libsyn_subtitle: "Social Pedagogy Professional Association's conference Growing up, growing old and staying well in Edinburgh on 28 September 2018"

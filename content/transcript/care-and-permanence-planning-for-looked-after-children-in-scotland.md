@@ -3,6 +3,9 @@ title: "Care and permanence planning for looked after children in Scotland"
 subtitle: "Recent research into the care and permanence planning for looked after children in Scotland."
 date: "2012-02-16T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: ["Michelle Drumm"]
+speakers: ["Gillian Henderson", "Michael Schaffer"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/care-and-permanence-planning-for-looked-after-children-in-scotland-1"
 iriss_archive_libsyn_title: "Care and permanence planning for looked after children in Scotland"
 iriss_archive_libsyn_subtitle: "Recent research into the care and permanence planning for looked after children in Scotland. Working to fill a gap in evidence and to inform changes in policy and law through the Scottish Government's Looked After Children Strategic Implementation Group"
@@ -13,17 +16,17 @@ iriss_archive_website_pagetitle: "Care and permanence planning for looked after 
 iriss_archive_website_url: "/resources/irissfm/care-and-permanence-planning-looked-after-children-scotland-gillian-henderson-malcolm-schaffer"
 iriss_archive_website_date_of_recording: "2012-02-16T12:00:00+0000"
 ---
-Int. -Interviewer  
+MD - Michelle Drumm  
 GH - Gillian Henderson  
 MS - Michael Schaffer
 
-Child care and protection research collection. Talk by Gillian Henderson and Michael Schaffer, recorded on 16th January 2012
+Child care and protection research collection. Talk by Gillian Henderson and Michael Schaffer, recorded on 16th January 2012.
 
 MS I'm Michael Schaffer and I am Head of Practice & Policy within SCRA.
 
 GH I'm Gillian Henderson and I am the Information Research Manager within SCRA and I did this research with my colleagues Lucy Hanson and India Whitehead.
 
-Int. Okay, so what research is it you have come to talk to us about today?
+MD Okay, so what research is it you have come to talk to us about today?
 
 GH It's about our research on the Care and Permanence Planning for Looked After Children in Scotland. Now there are two reports - a main report and a supplementary report on Children Identified at Risk at Birth. So what was the focus of our study? Well what we wanted to do was to follow the pathways of 100 children from when they were first identified as at risk to when they achieved permanence through an Adoption Order or a Parental Responsibilities Order. And we principally wanted to look at decision making throughout, number of placements and types of placements the children received up until they were adopted and the time it took for them to reach permanence. So we looked at 100 children in the main study and we also looked in more detail, with the supplementary report, at 44 children from the main study who were identified as at risk at birth and mostly accommodated at birth. We did the research in 2010 and it was published last year, May 2011.
 
@@ -33,4 +36,4 @@ GH So how did we do it? Well first of all we had to select the cases and we took
 
 MS So if we think to the future and some of the core messages and core (... unclear) ahead arising out of these reports, I think the first and most important message we have to always bear in mind is that decisions about permanence are never easy - they have huge implications for the rights of children and parents - do involve a very careful assessment of evidence, and therefore there is always built in some time factor in these decisions. A secondary issue is that when you are planning for permanence, it arises from the moment a child is almost first known to agencies - the impact on the future planning of sort of decisions, for instance, we take as reported when a child is first referred and the timescale within it can impact later on in life. So permanence is not just starting from the point of that final decision being taken - it is apportioned throughout the plan for a child. There are issues for all agencies, as Gillian has indicated, but all agencies in particular need more training, particularly in the area of attachment. I think that has been one of the general recognitions in what has been a very positive response to our reports, where all agencies have really owned up and taken on board the issues and identified improvements that they can make. But the attachment theory training in particular, which actually allows us to take on board the impact on the children of delays, of time moving on, of the clock ticking upon their developments both emotionally and physically - there is a lot we can learn, a lot more than we have at present. There is a balance within this between the rights of children and parents. It is never an easy balance to make - it particularly manifests itself, for instance, in deciding issues of contact, particularly when there is, in process, decision making about whether permanence is needed - how long to keep the contact going for, for what purpose, whose rights are being served? I think that is a particular example of the tension that can exist for Courts, Children's Hearings and for Social Work Departments in looking at this area.
 
-Int. Thank you.
+MD Thank you.

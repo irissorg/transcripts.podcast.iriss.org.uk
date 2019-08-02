@@ -3,6 +3,9 @@ title: "Social workers' communication with children involved in child protection
 subtitle: "Professor Cree and Dr Morrison share findings from the Talking and Listening to Children (TLC) research. This is a UK-wide study on social workers' communication with children. Funded by the ESRC, the research took place between 2013 and 2016."
 date: "2016-06-16T23:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Viv Cree", "Fiona Morrison"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/social-workers-communication-with-children-involved-in-child-protection-1"
 iriss_archive_libsyn_title: "Social workers' communication with children involved in child protection"
 iriss_archive_libsyn_subtitle: "Professor Cree and Dr Morrison share findings from the Talking and Listening to Children (TLC) research. This is a UK-wide study on social workers' communication with children. Funded by the ESRC, the research took place between 2013 and 2016."

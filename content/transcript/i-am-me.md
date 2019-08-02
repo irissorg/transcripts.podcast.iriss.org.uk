@@ -3,6 +3,9 @@ title: "I Am Me"
 subtitle: "Michael McEwan speaks to Debbie Campbell and Megan Milligan from I Am Me, a community charity, which is focused on raising awareness of disability hate crime in Scotland."
 date: "2018-04-19T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Megan Milligan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/i-am-me-1"
 iriss_archive_libsyn_title: "I Am Me"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Debbie Campbell and Megan Milligan from I Am Me, a community charity, which is focused on raising awareness of disability hate crime in Scotland."

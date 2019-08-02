@@ -3,6 +3,9 @@ title: "Keeping an eye on the child"
 subtitle: "Key Capabilities and students as leaders in multidisciplinary contexts."
 date: "2012-11-08T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Brigid Daniel"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/keeping-an-eye-on-the-child-1"
 iriss_archive_libsyn_title: "Keeping an eye on the child"
 iriss_archive_libsyn_subtitle: "Key Capabilities and students as leaders in multidisciplinary contexts."

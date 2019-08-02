@@ -3,6 +3,9 @@ title: "Why attachment matters"
 subtitle: "Professor Helen Minnis of the University of Glasgow, talks to David Woodier, a teacher, adoptive parent and blogger for Scottish Attachment in Action, about 'Why attachment matters'. "
 date: "2016-09-30T23:00:00+00:00"
 draft: false
+categories: ["Attachment"]
+hosts: []
+speakers: ["Helen Minnis", "David Woodier"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/why-attachment-matters-1"
 iriss_archive_libsyn_title: "Why attachment matters"
 iriss_archive_libsyn_subtitle: "Professor Helen Minnis of the University of Glasgow, talks to David Woodier, a teacher, adoptive parent and blogger for Scottish Attachment in Action, about 'Why attachment matters'. "

@@ -3,6 +3,9 @@ title: "Imagining the Future: public debate part three"
 subtitle: "Sir Harry Burns, keynote listener offers his thoughts and reflections on the full debate. This is followed by a discussion on key priorities and challenges for change in social services over the coming years."
 date: "2014-05-18T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Harry Burns", "Lesley Riddoch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/imagining-the-future-public-debate-part-three-1"
 iriss_archive_libsyn_title: "Imagining the Future: public debate part three"
 iriss_archive_libsyn_subtitle: "Sir Harry Burns, keynote listener offers his thoughts and reflections on the full debate. This is followed by a discussion on key priorities and challenges for change in social services over the coming years."

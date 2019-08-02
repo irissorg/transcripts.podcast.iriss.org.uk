@@ -3,6 +3,9 @@ title: "A RIGHT blether with Scotland's Commissioner for Children and Young Peop
 subtitle: "Katie outlines what children and young people considered to be 'Right Brilliant Things' in their lives and the result of the vote."
 date: "2012-01-06T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Katie Brown"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/a-right-blether-with-scotlands-commissioner-for-children-and-young-people-part-2-1"
 iriss_archive_libsyn_title: "A RIGHT blether with Scotland's Commissioner for Children and Young People (Part 2)"
 iriss_archive_libsyn_subtitle: "Katie outlines what children and young people considered to be 'Right Brilliant Things' in their lives and the result of the vote."

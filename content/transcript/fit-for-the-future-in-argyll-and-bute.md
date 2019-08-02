@@ -3,6 +3,9 @@ title: "Fit for the Future in Argyll and Bute"
 subtitle: "A project dedicated to inspiring better outcomes for older people in Scotland by working with providers from the independent sector. This is a round-table reflection on the work in Argyll and Bute."
 date: "2014-12-01T00:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Rhiann McLean"]
+speakers: ["Jim Robb", "Jackie Connelly", "Ann Austin"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/fit-for-the-future-in-argyll-and-bute-1"
 iriss_archive_libsyn_title: "Fit for the Future in Argyll and Bute"
 iriss_archive_libsyn_subtitle: "A project dedicated to inspiring better outcomes for older people in Scotland by working with providers from the independent sector. This is a round-table reflection on the work in Argyll and Bute."
@@ -15,7 +18,7 @@ iriss_archive_website_date_of_recording: "2014-12-01T12:00:00+0000"
 ---
 RM - Rhiann McLean  
 JR - Jim Robb  
-JC - Jackie Connelly
+JC - Jackie Connelly  
 AA - Ann Austin
 
 RM In 2014, the Fit for the Future project worked with Argyll & Bute Council and local independent sector providers to explore new approaches to the commissioning of care at home. Fit for the Future is a joint Scottish Care and Iriss project which aims to inspire better outcomes for older people by working with independent sector providers. In Argyll & Bute we worked locally with providers, commissioners and key strategic leads from the local authority and NHS to understand the current commissioning and delivery of care at home. We also explored the issues around it, particularly in rural areas. Then we brought all of that local effort and understanding together in an unconference of ideas where the partnership collaborated with the independent sector to form new and innovative approaches to commissioning. This Iriss.FM is a round table reflection on this project.

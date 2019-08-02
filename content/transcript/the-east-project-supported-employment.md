@@ -3,6 +3,9 @@ title: "The East Project: supported employment"
 subtitle: "Michael McEwan of Able Radio in conversation with Emma Hill about the East Project in East Renfrewshire. The project is run by Enable Scotland to support people with disabilities into employment."
 date: "2014-12-17T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Emma Hill"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-east-project-supported-employment-1"
 iriss_archive_libsyn_title: "The East Project: supported employment"
 iriss_archive_libsyn_subtitle: "Michael McEwan of Able Radio in conversation with Emma Hill about the East Project in East Renfrewshire. The project is run by Enable Scotland to support people with disabilities into employment."

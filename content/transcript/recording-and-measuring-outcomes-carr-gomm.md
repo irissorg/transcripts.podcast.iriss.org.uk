@@ -3,6 +3,9 @@ title: "Recording and measuring outcomes: Carr Gomm"
 subtitle: "An introduction to Carr Gomm's conversation-based outcome measurement tool. A system designed to capture and track the personal outcomes of the people they support, and link these to the wider local and national outcomes."
 date: "2013-04-10T23:00:00+00:00"
 draft: false
+categories: ["Outcomes"]
+hosts: []
+speakers: ["Andrew Thomson", "Jill", "Louise"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/recording-and-measuring-outcomes-carr-gomm-1"
 iriss_archive_libsyn_title: "Recording and measuring outcomes: Carr Gomm"
 iriss_archive_libsyn_subtitle: "An introduction to Carr Gomm's conversation-based outcome measurement tool. A system designed to capture and track the personal outcomes of the people they support, and link these to the wider local and national outcomes."

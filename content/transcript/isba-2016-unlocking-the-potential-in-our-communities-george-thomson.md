@@ -3,6 +3,9 @@ title: "ISBA 2016: Unlocking the potential in our communities - George Thomson"
 subtitle: "George Thomson, Chief Executive of Volunteer Scotland shares his memories of Edgar Cahn, the creator of Time Banking and explores its use as a community development tool. An example includes the walking charity 'Paths for all'."
 date: "2016-09-28T23:00:00+00:00"
 draft: false
+categories: ["Community development"]
+hosts: []
+speakers: ["Donald Macleod", "George Thomson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/isba-2016-unlocking-the-potential-in-our-communities-george-thomson-1"
 iriss_archive_libsyn_title: "ISBA 2016: Unlocking the potential in our communities - George Thomson"
 iriss_archive_libsyn_subtitle: "George Thomson, Chief Executive of Volunteer Scotland shares his memories of Edgar Cahn, the creator of Time Banking and explores its use as a community development tool. An example includes the walking charity 'Paths for all'."

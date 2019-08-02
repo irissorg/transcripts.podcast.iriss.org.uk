@@ -3,6 +3,9 @@ title: "My Life My Way: Gordon Roy"
 subtitle: "Experiences of a day centre for people with learning disability. Gordon Roy left school when he was 17 in the 1980s and attended a day centre."
 date: "2014-09-14T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Gordon Roy"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/my-life-my-way-gordon-roy-1"
 iriss_archive_libsyn_title: "My Life My Way: Gordon Roy"
 iriss_archive_libsyn_subtitle: "Experiences of a day centre for people with learning disability. Gordon Roy left school when he was 17 in the 1980s and attended a day centre."

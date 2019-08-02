@@ -3,6 +3,9 @@ title: "The Dundee Early Intervention Team"
 subtitle: "The Dundee Early Intervention Team (DEIT) provides early intervention support to families. The team is a partnership of the four leading children's charities in Dundee."
 date: "2017-07-30T23:00:00+00:00"
 draft: false
+categories: ["Early years"]
+hosts: ["Ellen Daly"]
+speakers: ["Natalie", "Harriet", "Jade", "Bianca", "Brian"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-dundee-early-intervention-team-1"
 iriss_archive_libsyn_title: "The Dundee Early Intervention Team"
 iriss_archive_libsyn_subtitle: "The Dundee Early Intervention Team (DEIT) provides early intervention support to families. The team is a partnership of the four leading children's charities in Dundee"
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "Conversations with the Dundee Early Interventi
 iriss_archive_website_url: "/resources/irissfm/conversations-dundee-early-intervention-team-extended"
 iriss_archive_website_date_of_recording: "2017-07-31T13:00:00+0100"
 ---
-Int. - Interviewer  
+ED - Ellen Daly  
 F - Natalie, Harriet, Jade, Bianca  
 M - Brian
 
@@ -37,7 +40,7 @@ The conversation opens with a discussion about the social pedagogy model applied
 
 F I suppose it's like a framework, a different kind of style of working. Not necessarily completely different, a lot of it I guess people would describe as common sense but what social pedagogy does that's different is it gives you like the theories behind that common-sense style approach to say why you do what you do so it places relationships at the centre of everything. It's about you know using relationship theories, using communication theories to sort of make that bigger picture of where someone's journey...where someone might be on their journey and then using your skills in relational based practice to actually support them to move forward on their journey or to go in their direction that they want to go in. Sometimes it might not be an expected direction but it's all okay within the sort of style of social pedagogy.
 
-Int. What's it like working in that way?
+ED What's it like working in that way?
 
 F I love it, for me I think when we first did the training they say that you have a Haltung (... unclear)
 
@@ -89,7 +92,7 @@ Part 2 - Challenges
 
 The team then move on to discuss the challenges of building trust and relationships. They also reflect on the importance of families feeling empowered and of carefully planning for when the team's support comes to an end, particularly when there might be attachment issues.
 
-Int. Yeah, when is it challenging to build that trust and that relationship, when is it difficult?
+ED Yeah, when is it challenging to build that trust and that relationship, when is it difficult?
 
 >
 
@@ -145,7 +148,7 @@ The discussion now moves on to focus on early intervention and how the understan
 
 F I feel like everyone's understanding of early intervention is different.
 
-Int. Okay.
+ED Okay.
 
 F Yeah.
 
@@ -159,11 +162,11 @@ F ...and that makes it very difficult cos we're on a time frame.
 
 F And also early for who? Because if it's the first time the family has ever been referred and that child happens to be 10, that's still early for that family but it's not necessarily early intervention in the sense of 0-3, 0-5 which is the common misconception.
 
-Int. Do you have a shared understanding in the DEIT about early intervention...
+ED Do you have a shared understanding in the DEIT about early intervention...
 
 F Yes.
 
-Int. ...and what is that shared understanding, can you say a bit about that?
+ED ...and what is that shared understanding, can you say a bit about that?
 
 F I think Natalie summed it up there...
 
@@ -269,19 +272,19 @@ F Do we all need to do the same? Because everyone works differently like...
 
 F Does it matter, is it something that's going to affect it?
 
-Int. So you have opportunities like that built in?
+ED So you have opportunities like that built in?
 
 F Yeah.
 
 M Yeah, quite frequent.
 
-Int. Do you have supervision...
+ED Do you have supervision...
 
 F Yeah.
 
 F Yeah.
 
-Int. ...or is that the reflection you talked about?
+ED ...or is that the reflection you talked about?
 
 F We have formal supervision as well and we have had in the past group supervisions where it's been appropriate to do that. We've had solution circles type meetings to discuss sort of both challenges within service challenges and challenging families where maybe there is something that isn't working. Sometimes it's nice to open that up to the team and say right okay, I've been trying this for so long, I don't really feel like this is happening. What do you guys think, can anyone suggest anything?
 
@@ -303,7 +306,7 @@ M Yeah just on the back of that, I'd agree with everything that Jade said and li
 
 F I guess for me I've learnt a lot about partnership working, I started in wee DEIT and it was all made up of children first workers and then I became part of DEIT and then there was me and 2 other children first workers moved over and then gradually I'm now the only one and I've been the only one for what 2 years maybe. And I think that I'm very open about how I feel, everyone knows if I'm having a bad day and if I'm going to cry, I'm going to cry there's no stopping me but no I've definitely...I've spoken to Bianca loads about how easily it is you can kind of feel just by being the only one you can sometimes feel a bit like oh where do I stand kind of thing but what I've learnt just how important it is to like...I've worked in the past with Linda Wood for example, Action for Children and never really at that point, I had Children First workers in the team with me and I never ever really gave it a thought and actually it is important to value everyone's...children's charity and the fact that they all have different values and I think it's really important that that stays as a focus for DEIT.
 
-Int. Okay.
+ED Okay.
 
 F Yeah I would agree, it's about showing and celebrating the differences between different organisations but also building on the shared values and that kind of then extends to families you know they're all very different but there are common themes and for me it's been about seeing how it all really is so linked because it's about relationships, I don't make a distinction between myself as a professional with a family to someone in social work or education. For me it's about that relationship and I guess...
 
@@ -311,6 +314,6 @@ F And I think that...told from Debbie today when she was able to have lunch like
 
 F That's the sort of human aspect of it, that nurturing and caring for and you don't need to put a different hat on and it shouldn't be about what your role is because you can perform the functions of your role and work towards your outcomes or whatever it is your objective is but actually still have that really nice relationship where you're connecting with someone or supporting them, looking after them or learning from them. We learn a lot from families, I've learned a lot about myself from these families and that's the value of the work for me as much as achieving great outcomes with them.
 
-Int. Natalie do you...?
+ED Natalie do you...?
 
 F I think for me it's probably something about change and evolution is the biggest learning curve because I was part of DEIT in its original 3 years and then I left because of the funding situation as did the majority of that team at that time because there wasn't a guarantee about the future and I went away for a couple of years nearly and came back and for me there's something about...the biggest learning curve is about evolution, about that things always change but the important part of that for me is that the main reasons for things don't change. The reason that we exist is still the reason that we exist whether we're 5 years in or 1 year in and those things don't change and while how we may go about things change and evolve, the actual need for there to be a team doesn't so I think the biggest learning curve is like dealing with the functioning changes I suppose, the day to day how things look but not losing that central core principles, values maybe all still are what they were whether you know...and it's that hope that whatever the future does hold would hopefully be a continuation of the service because I think that's really valuable but that's still that same core that same exact business plan reason for why there is a business plan type thing is the same and that's the families and the need for them to be supported.

@@ -3,6 +3,9 @@ title: "Safeguarding children of adults in receipt of palliative care"
 subtitle: "Dr Carole Comben, University of Stirling speaks about a study that was conducted on the role of the palliative care social worker in safeguarding and promoting the welfare of children of adults who are receiving palliative care."
 date: "2012-03-17T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Carol Comben"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/safeguarding-children-of-adults-in-receipt-of-palliative-care-1"
 iriss_archive_libsyn_title: "Safeguarding children of adults in receipt of palliative care"
 iriss_archive_libsyn_subtitle: "Dr Carole Comben, University of Stirling speaks about a study that was conducted on the role of the palliative care social worker in safeguarding and promoting the welfare of children of adults who are receiving palliative care."

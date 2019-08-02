@@ -3,6 +3,9 @@ title: "Lessons from a scoping study on disabled children and child protection"
 subtitle: "Professor Kirsten Stalker undertook an eight month scoping study, involving an international literature review, interviews with ten key informants from England and Scotland, guided conversations with four disabled children and some policy analysis."
 date: "2012-02-01T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: []
+speakers: ["Kirsten Stalker"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/lessons-from-a-scoping-study-on-disabled-children-and-child-protection-1"
 iriss_archive_libsyn_title: "Lessons from a scoping study on disabled children and child protection"
 iriss_archive_libsyn_subtitle: "Professor Kirsten Stalker undertook an eight month scoping study, involving an international literature review, interviews with ten key informants from England and Scotland, guided conversations with four disabled children and some policy analysis."

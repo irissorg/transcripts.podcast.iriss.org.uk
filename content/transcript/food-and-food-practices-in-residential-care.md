@@ -3,6 +3,9 @@ title: "Food and food practices in residential care"
 subtitle: "Food and eating can be used in powerfully symbolic ways to communicate and express and manage a whole range of feelings, behaviours and relationships. "
 date: "2012-02-14T00:00:00+00:00"
 draft: false
+categories: ["Young people"]
+hosts: []
+speakers: ["Ruth Emond", "Sam Punch"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/food-and-food-practices-in-residential-care-1"
 iriss_archive_libsyn_title: "Food and food practices in residential care"
 iriss_archive_libsyn_subtitle: "Food and eating can be used in powerfully symbolic ways to communicate and express and manage a whole range of feelings, behaviours and relationships. "

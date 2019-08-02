@@ -3,6 +3,9 @@ title: "Jo McFarlane's journey to recovery"
 subtitle: "Building the future: shaping our social work identity newly qualified social worker conference was held on 31 May 2018 in Edinburgh."
 date: "2018-05-30T23:00:00+00:00"
 draft: false
+categories: ["Mental health"]
+hosts: []
+speakers: ["Jo McFarlane"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/jo-mcfarlanes-journey-to-recovery-1"
 iriss_archive_libsyn_title: "Jo McFarlane's journey to recovery"
 iriss_archive_libsyn_subtitle: "Building the future: shaping our social work identity newly qualified social worker conference was held on 31 May 2018 in Edinburgh."

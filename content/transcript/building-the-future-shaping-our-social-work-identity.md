@@ -3,6 +3,9 @@ title: "Building the future; shaping our social work identity"
 subtitle: "Viviene Cree introduces the conference, and is followed by a presentation by Jane Johnstone who provides some thought provoking asks of attendees."
 date: "2018-05-30T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Martin Kettle"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/building-the-future-shaping-our-social-work-identity-1"
 iriss_archive_libsyn_title: "Building the future; shaping our social work identity"
 iriss_archive_libsyn_subtitle: "Viviene Cree introduces the conference, and is followed by a presentation by Jane Johnstone who provides some thought provoking asks of attendees."

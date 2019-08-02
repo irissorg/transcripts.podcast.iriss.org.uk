@@ -3,6 +3,9 @@ title: "Shared Lives"
 subtitle: "On 18 October 2018, Iriss hosted a discussion about Shared Lives, a community based model of social care, where adults that need support move in with, or regularly visit, an approved Shared Lives carer."
 date: "2018-10-18T13:00:00+0100"
 draft: false
+categories: ["Adult social care"]
+hosts: []
+speakers: ["Lesley Stevenson", "Shona Elvin", "Asif Khan", "Bill Black", "Elaine Stockdale", "Ben Hall"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/shared-lives-1"
 iriss_archive_libsyn_title: "Shared Lives"
 iriss_archive_libsyn_subtitle: "On 18 October 2018, Iriss hosted a discussion about Shared Lives, a community based model of social care, where adults that need support move in with, or regularly visit, an approved Shared Lives carer."

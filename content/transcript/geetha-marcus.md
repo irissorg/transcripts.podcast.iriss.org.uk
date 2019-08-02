@@ -3,6 +3,9 @@ title: "Geetha Marcus"
 subtitle: "Explore how co-production can equip social services with the cultural competency they need when working with Gypsy Traveller and Roma communities."
 date: "2018-03-07T00:00:00+00:00"
 draft: false
+categories: ["Co-production"]
+hosts: []
+speakers: ["Geetha Marcus"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/geetha-marcus-1"
 iriss_archive_libsyn_title: "Geetha Marcus"
 iriss_archive_libsyn_subtitle: "Explore how co-production can equip social services with the cultural competency they need when working with Gypsy Traveller and Roma communities"

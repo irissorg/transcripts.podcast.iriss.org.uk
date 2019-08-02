@@ -3,6 +3,9 @@ title: "Freshly Squeezed: Ian Welsh"
 subtitle: "Michelle Drumm speaks to Ian Welsh, Chief Executive of the Health and Social Care Alliance."
 date: "2018-08-13T23:00:00+00:00"
 draft: false
+categories: ["Freshly Squeezed"]
+hosts: ["Michelle Drumm"]
+speakers: ["Ian Welsh"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/freshly-squeezed-ian-welsh-1"
 iriss_archive_libsyn_title: "Freshly Squeezed: Ian Welsh"
 iriss_archive_libsyn_subtitle: "Michelle Drumm speaks to Ian Welsh, Chief Executive of the Health and Social Care Alliance."

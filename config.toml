@@ -18,6 +18,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 googleAnalytics = "UA-814723-45"
 
+
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 #  subtitle = ""
@@ -78,15 +80,37 @@ googleAnalytics = "UA-814723-45"
 #  telegram = "username"
 #  500px = "username"
 
+[[menu.footer]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 1
+    title = "Podcast categories"
+    
+[[menu.footer]]
+    title = "Speakers and interviewees"
+    name = "Speakers"
+    url = "/speakers/"
+    weight = 2
+
+[[menu.footer]]
+    title = "Iriss host or interviewer"
+    name = "Hosts"
+    url = "/hosts/"
+    weight = 3
+    
 [[menu.main]]
+    title = "About the transcripts website"
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 1
     
 [[menu.main]]
     name = "Iriss.fm"
-    url = "https://podcast.iriss.org.uk"
-    weight = 1
+    url = "https://podcast.iriss.org.uk/"
+    weight = 2
+    title = "Podcast website - listen to episodes"
+
+
 
 [privacy]
   [privacy.disqus]

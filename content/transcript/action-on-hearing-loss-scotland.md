@@ -3,6 +3,9 @@ title: "Action on Hearing Loss Scotland"
 subtitle: "According to Delia Henry, Director at Action on Hearing Loss Scotland, hearing loss and deafness don't often get highly profiled in Scottish society."
 date: "2016-03-28T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Delia Henry"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/action-on-hearing-loss-scotland-1"
 iriss_archive_libsyn_title: "Action on Hearing Loss Scotland"
 iriss_archive_libsyn_subtitle: "According to Delia Henry, Director at Action on Hearing Loss Scotland, hearing loss and deafness don't often get highly profiled in Scottish society."

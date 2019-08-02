@@ -3,6 +3,9 @@ title: "PAssport to Independent Living"
 subtitle: "The project was supported by Glasgow Centre for Inclusive Living (GCIL), the Workers Education Association (WEA) and Scottish Social Services Council (SSSC)."
 date: "2017-10-31T00:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: ["Michelle Drumm"]
+speakers: ["Lilian Smith", "Sharon Ledger", "Mandy", "Lizzie", "Susan", "Yvonne", "Alison"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/passport-to-independent-living-1"
 iriss_archive_libsyn_title: "PAssport to Independent Living"
 iriss_archive_libsyn_subtitle: "The project was supported by Glasgow Centre for Inclusive Living (GCIL), the Workers Education Association (WEA) and Scottish Social Services Council (SSSC)."

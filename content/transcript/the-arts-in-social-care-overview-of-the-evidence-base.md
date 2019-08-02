@@ -3,6 +3,9 @@ title: "The arts in social care: overview of the evidence base"
 subtitle: "In early 2013, Consilium Research (commissioned by Skills for Care and the Baring Foundation) conducted a literature review of available evidence to explore the role of the arts in delivering social care outcomes."
 date: "2014-05-26T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Jim Thomas"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/the-arts-in-social-care-overview-of-the-evidence-base-3"
 iriss_archive_libsyn_title: "The arts in social care: overview of the evidence base"
 iriss_archive_libsyn_subtitle: "In early 2013, Consilium Research (commissioned by Skills for Care and the Baring Foundation) conducted a literature review of available evidence to explore the role of the arts in delivering social care outcomes."

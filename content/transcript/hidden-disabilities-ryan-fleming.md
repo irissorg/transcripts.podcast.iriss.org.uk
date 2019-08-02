@@ -3,6 +3,9 @@ title: "Hidden disabilities: Ryan Fleming"
 subtitle: "Michael McEwan speaks to Ryan Fleming about growing up with a 'hidden disability'. Ryan is on the autistic spectrum and tells us about the challenging, as well as positive experiences he has faced from childhood right through to adulthood."
 date: "2017-06-18T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Ryan Fleming"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/hidden-disabilities-ryan-fleming-1"
 iriss_archive_libsyn_title: "Hidden disabilities: Ryan Fleming"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Ryan Fleming about growing up with a 'hidden disability'. Ryan is on the autistic spectrum and tells us about the challenging, as well as positive experiences he has faced from childhood right through to adulthood."

@@ -3,6 +3,9 @@ title: "Evaluating the Choose Life North Lanarkshire awareness programme"
 subtitle: "Suicide prevention programme in North Lanarkshire, Scotland."
 date: "2012-09-19T23:00:00+00:00"
 draft: false
+categories: ["Social work (general)"]
+hosts: []
+speakers: ["Greg Burgess", "Mark Robinson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/evaluating-the-choose-life-north-lanarkshire-awareness-programme-1"
 iriss_archive_libsyn_title: "Evaluating the Choose Life North Lanarkshire awareness programme"
 iriss_archive_libsyn_subtitle: "Suicide prevention programme in North Lanarkshire, Scotland."

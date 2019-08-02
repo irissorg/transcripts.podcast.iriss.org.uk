@@ -3,6 +3,9 @@ title: "Creative care and support: Pitlochry"
 subtitle: "Project to assist the community to develop better supports for people who use social services and forms part of the Creative Quarter programme of work."
 date: "2014-04-28T23:00:00+00:00"
 draft: false
+categories: ["Community development"]
+hosts: ["Michelle Drumm"]
+speakers: ["Fiona Johnstone", "Rikke Iversholt"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/creative-care-and-support-pitlochry-1"
 iriss_archive_libsyn_title: "Creative care and support: Pitlochry"
 iriss_archive_libsyn_subtitle: "Project to assist the community to develop better supports for people who use social services and forms part of the Creative Quarter programme of work."

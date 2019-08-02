@@ -3,6 +3,9 @@ title: "Understanding child trafficking and the challenges for practice"
 subtitle: "Recent work undertaken in Glasgow focused on the issue of child trafficking. Drawing on three reports, he highlights learning about the incidence in child trafficking among the population of 500 unaccompanied children referred to Glasgow social work."
 date: "2012-01-15T00:00:00+00:00"
 draft: false
+categories: ["Child protection"]
+hosts: []
+speakers: ["Paul Rigby"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/understanding-child-trafficking-and-the-challenges-for-practice-1"
 iriss_archive_libsyn_title: "Understanding child trafficking and the challenges for practice"
 iriss_archive_libsyn_subtitle: "Recent work undertaken in Glasgow focused on the issue of child trafficking. Drawing on three reports, he highlights learning about the incidence in child trafficking among the population of 500 unaccompanied children referred to Glasgow social work."

@@ -3,6 +3,9 @@ title: "Able Radio presents... December 2013"
 subtitle: "International Day of Disabled People 2013 Able Radio Trend Spotting / Social Care Ideas Factory."
 date: "2013-12-09T00:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: []
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/able-radio-presents-december-2013-1"
 iriss_archive_libsyn_title: "Able Radio presents... December 2013"
 iriss_archive_libsyn_subtitle: "International Day of Disabled People 2013 Able Radio Trend Spotting / Social Care Ideas Factory"
@@ -13,7 +16,7 @@ iriss_archive_website_pagetitle: "Able Radio presents... December 2013"
 iriss_archive_website_url: "/resources/irissfm/able-radio-presents-december-2013"
 iriss_archive_website_date_of_recording: "2013-12-09T12:00:00+0000"
 ---
-MM = Michael McEwan
+MM - Michael McEwan
 
 In this episode, guest presenter, Michael McEwan from Able Radio, gives us the latest roundup of news and events for people with disabilities.
 

@@ -3,6 +3,9 @@ title: "Public debate on welfare reform, Learning Disability Week 2013"
 subtitle: "Welfare reform will mean that people with learning disabilities will be pushed further into poverty?"
 date: "2013-08-19T23:00:00+00:00"
 draft: false
+categories: ["Welfare reform"]
+hosts: ["Michelle Drumm"]
+speakers: ["Peter Scott", "Alex Johnston", "Bill Scott", "Andrew McKie", "Michael McEwan"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/public-debate-on-welfare-reform-learning-disability-week-2013-1"
 iriss_archive_libsyn_title: "Public debate on welfare reform, Learning Disability Week 2013"
 iriss_archive_libsyn_subtitle: "Welfare reform will mean that people with learning disabilities will be pushed further into poverty?"

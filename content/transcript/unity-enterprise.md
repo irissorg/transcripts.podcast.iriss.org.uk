@@ -3,6 +3,9 @@ title: "Unity Enterprise"
 subtitle: "Michael McEwan speaks to Loretta Galloway, Learning Disability Service Manager at Unity Enterprise, about the services and supports the organisation provides."
 date: "2017-03-27T23:00:00+00:00"
 draft: false
+categories: ["Disability"]
+hosts: ["Michael McEwan"]
+speakers: ["Loretta Galloway"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/unity-enterprise-1"
 iriss_archive_libsyn_title: "Unity Enterprise"
 iriss_archive_libsyn_subtitle: "Michael McEwan speaks to Loretta Galloway, Learning Disability Service Manager at Unity Enterprise, about the services and supports the organisation provides."

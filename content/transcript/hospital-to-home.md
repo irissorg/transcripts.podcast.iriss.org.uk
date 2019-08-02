@@ -3,6 +3,9 @@ title: "Hospital to Home"
 subtitle: "An Iriss project to design a pathway to support the transition from hospital to home for older people. In this episode, Fiona Munro, the project lead gives us an overview of Hospital to Home, progress to date and the final outcomes of the project."
 date: "2014-07-07T23:00:00+00:00"
 draft: false
+categories: ["Adult social care"]
+hosts: ["Fiona Munro"]
+speakers: ["Peter McLeod"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/hospital-to-home-1"
 iriss_archive_libsyn_title: "Hospital to Home"
 iriss_archive_libsyn_subtitle: "An Iriss project to design a pathway to support the transition from hospital to home for older people. In this episode, Fiona Munro, the project lead gives us an overview of Hospital to Home, progress to date and the final outcomes of the project."
