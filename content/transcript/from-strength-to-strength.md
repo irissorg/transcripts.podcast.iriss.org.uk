@@ -4,7 +4,7 @@ subtitle: "In 2012, Iriss undertook a project focused on understanding how an as
 date: "2016-10-27T23:00:00+00:00"
 draft: false
 categories: ["Mental health"]
-hosts: ["Lisa Patonni"]
+hosts: ["Lisa Pattoni"]
 speakers: ["John Moody", "David Delaney", "Deborah Reid"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/from-strength-to-strength-1"
 iriss_archive_libsyn_title: "From strength to strength"
@@ -16,7 +16,7 @@ iriss_archive_website_pagetitle: "From strength to strength"
 iriss_archive_website_url: "/resources/irissfm/strength-strength"
 iriss_archive_website_date_of_recording: "2016-10-28T13:00:00+0100"
 ---
-LP - Lisa Patonni  
+LP - Lisa Pattoni  
 JM - John Moody  
 DD - David Delaney  
 DR - Deborah Reid
