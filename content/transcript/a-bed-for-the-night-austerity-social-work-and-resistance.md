@@ -4,7 +4,7 @@ subtitle: "Iain Ferguson gives his inaugural lecture on the impact of welfare re
 date: "2013-03-27T00:00:00+00:00"
 draft: false
 categories: ["Welfare reform"]
-hosts: ["Michelle Drumm"]
+hosts: []
 speakers: ["Iain Ferguson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/a-bed-for-the-night-austerity-social-work-and-resistance-1"
 iriss_archive_libsyn_title: "A bed for the night? Austerity, social work and resistance"
@@ -16,10 +16,9 @@ iriss_archive_website_pagetitle: "A bed for the night? Austerity, social work an
 iriss_archive_website_url: "/resources/irissfm/bed-night-austerity-social-work-and-resistance"
 iriss_archive_website_date_of_recording: "2013-03-27T12:00:00+0000"
 ---
-MD - Michelle Drumm  
 IF - Professor Iain Ferguson
 
-MD On 27th March 2013, Iain Ferguson, Professor of Social Work and Social Policy at the University of the West of Scotland, gave an inaugural lecture entitled 'A bed for the night? Austerity, social work and resistance', which challenges the myth of welfare dependency used to justify attacks on some of the poorest sections of the community. He examines the impact of cuts on services on people's lives, including the working poor, and argues that the crisis calls for a different kind of social work, drawing on the radical tradition and rooted in the collective experience of service users.
+On 27th March 2013, Iain Ferguson, Professor of Social Work and Social Policy at the University of the West of Scotland, gave an inaugural lecture entitled 'A bed for the night? Austerity, social work and resistance', which challenges the myth of welfare dependency used to justify attacks on some of the poorest sections of the community. He examines the impact of cuts on services on people's lives, including the working poor, and argues that the crisis calls for a different kind of social work, drawing on the radical tradition and rooted in the collective experience of service users.
 
 IF Many, many thanks for coming along tonight - it is really good to see so many faces from recent years and from many years ago, so I am really looking forward to the event. I had a wee bit of debate with myself about whether or not to use ... how much Powerpoint to use or whether to use it at all - and one of my colleagues, Janice, was talking about 'Death by Powerpoint', and that sinking feeling when we move onto Slide 34. So I have decided to use a very small number of illustrated slides, so don't worry, I have not forgotten if I go for a long time without using a slide, but I am just going to use a few.
 

@@ -17,10 +17,10 @@ iriss_archive_website_url: "/resources/irissfm/discover-care-opinion"
 iriss_archive_website_date_of_recording: "2014-11-13T12:00:00+0000"
 ---
 MD - Michelle Drumm  
-JM - James Munro
-IO - Irene Oldfather
-GA - Gina Alexander
-GD - Grant Douglas
+JM - James Munro  
+IO - Irene Oldfather  
+GA - Gina Alexander  
+GD - Grant Douglas  
 RL - Richard Lyall
 
 On the 13th of November, Iriss.fm attended Discover Care Opinion, an event to launch, as well as discussing explore Care Opinion, the sister site to patient Opinion in Scotland. James Munro, Chief Executive of Patient Opinion, gave us the background on the initiative and its aims.

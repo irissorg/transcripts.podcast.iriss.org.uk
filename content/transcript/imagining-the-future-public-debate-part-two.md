@@ -4,8 +4,8 @@ subtitle: "Public debate on the subject of social justice, chaired by the journa
 date: "2014-05-18T23:00:00+00:00"
 draft: false
 categories: ["Social work (general)"]
-hosts: ["Michelle Drumm"]
-speakers: ["Lesley Riddoch", "Jackie McLeod", "Alison Urie", "Bob Hamilton"]
+hosts: ["Lesley Riddoch"]
+speakers: ["Jackie McLeod", "Alison Urie", "Bob Hamilton"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/imagining-the-future-public-debate-part-two-1"
 iriss_archive_libsyn_title: "Imagining the Future: public debate part two"
 iriss_archive_libsyn_subtitle: "Public debate on the subject of social justice, chaired by the journalist Lesley Riddoch."
@@ -16,13 +16,12 @@ iriss_archive_website_pagetitle: "Imagining the Future: public debate part two"
 iriss_archive_website_url: "/resources/irissfm/imagining-future-public-debate-part-two"
 iriss_archive_website_date_of_recording: "2014-05-19T13:00:00+0100"
 ---
-MD - Michelle Drumm  
 LR - Lesley Riddoch  
 JM - Jackie McLeod  
 AU - Alison Urie  
 BH - Bob Hamilton
 
-MD As part of the Iriss, Imagining The Future of Social Services project, led by Robert Rae, a series of creative events were held in Govan over May 2014, to explore aspirations for the future from a locality perspective and to think about the changes that need to be made now and in the coming years. One of the events was a public debate on the subject of Social Justice, Chaired by the Journalist, Lesley Riddoch. This is the second of a three part series covering the debate. This episode features 3 guest speakers - Jackie McLeod who speaks about the importance of memory - linking past, present and future; Alison Urie who tells us more about the Distant Voices project; and Bob Hamilton who speaks about the Common Good Awareness project focused on preventing health inequalities and social isolation. The debate includes audience comments, questions and viewpoints.
+As part of the Iriss, Imagining The Future of Social Services project, led by Robert Rae, a series of creative events were held in Govan over May 2014, to explore aspirations for the future from a locality perspective and to think about the changes that need to be made now and in the coming years. One of the events was a public debate on the subject of Social Justice, Chaired by the Journalist, Lesley Riddoch. This is the second of a three part series covering the debate. This episode features 3 guest speakers - Jackie McLeod who speaks about the importance of memory - linking past, present and future; Alison Urie who tells us more about the Distant Voices project; and Bob Hamilton who speaks about the Common Good Awareness project focused on preventing health inequalities and social isolation. The debate includes audience comments, questions and viewpoints.
 
 LR We are going to have three, 3-minute stories. The three sitting before you now are Jackie McLeod who is going to talk about the importance of memory - linking past, present and future, and she is talking mostly about the work of the Govan Reminiscence Group. We have Alison Urie, Distant Voices and Creative Song is the process she has been involved in - Creative Song, writing by prisoners for self-understanding and communication of their stories to wider society, and Bob Hamilton, working Urban Land in Govan, as a fight for social justice and an opportunity to prevent health inequalities and social isolation. So that is where they are sort of coming from, but they are going to tell you some stories now, and here we go. First of all I think it's Jackie.
 

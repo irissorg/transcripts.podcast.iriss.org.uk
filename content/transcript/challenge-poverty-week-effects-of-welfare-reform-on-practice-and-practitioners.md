@@ -4,7 +4,7 @@ subtitle: "The effects of welfare reform on practice and practitioners: How can 
 date: "2013-10-08T23:00:00+00:00"
 draft: false
 categories: ["Welfare reform"]
-hosts: ["Michelle Drumm"]
+hosts: []
 speakers: ["Fiona McHardy", "Jackie Barton", "Chris White", "Lorraine McGrath", "Andrew MacDonald", "Lesley Sharkey", "Isobel Kelly", "Barry Levine"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/challenge-poverty-week-effects-of-welfare-reform-on-practice-and-practitioners-1"
 iriss_archive_libsyn_title: "Challenge Poverty Week: effects of welfare reform on practice and practitioners"
@@ -16,7 +16,6 @@ iriss_archive_website_pagetitle: "Challenge Poverty Week: effects of welfare ref
 iriss_archive_website_url: "/resources/irissfm/challenge-poverty-week-effects-welfare-reform-practice-and-practitioners"
 iriss_archive_website_date_of_recording: "2013-10-09T13:00:00+0100"
 ---
-MD - Michelle Drumm  
 FM - Fiona McHardy  
 JB - Jackie Barton  
 CW - Chris White  
@@ -26,7 +25,7 @@ LS - Lesley Sharkey
 IK - Isobel Kelly  
 BL - Barry Levine
 
-MD It's Challenge Poverty Week 2013, and to mark it Iriss recently hosted a round-table discussion on the subject of welfare reform. The topic was 'The effects of welfare reform on practice and practitioners - how can we continue to deliver positive services?' The seven participants include Jackie Barton from the Direct Access Accommodation Service at Aspire Scotland, Lorraine McGrath, Chief Executive of Glasgow Simon Community, Barrie Levine, Lecturer in Social Work at Glasgow Caledonian University, Chris White from the Scottish Mental Health User Research Network, Isobel Kelly (Team Manager, Money Matters), at North Ayrshire Council, Lesley Sharkey, Service Leader at C-Change and Andrew MacDonald (Planning and Development Manager) at East Ayrshire Council. The discussion was chaired by Fiona McHardy, Community Research Officer at Poverty Alliance. Fiona gets the discussion underway ...
+It's Challenge Poverty Week 2013, and to mark it Iriss recently hosted a round-table discussion on the subject of welfare reform. The topic was 'The effects of welfare reform on practice and practitioners - how can we continue to deliver positive services?' The seven participants include Jackie Barton from the Direct Access Accommodation Service at Aspire Scotland, Lorraine McGrath, Chief Executive of Glasgow Simon Community, Barrie Levine, Lecturer in Social Work at Glasgow Caledonian University, Chris White from the Scottish Mental Health User Research Network, Isobel Kelly (Team Manager, Money Matters), at North Ayrshire Council, Lesley Sharkey, Service Leader at C-Change and Andrew MacDonald (Planning and Development Manager) at East Ayrshire Council. The discussion was chaired by Fiona McHardy, Community Research Officer at Poverty Alliance. Fiona gets the discussion underway ...
 
 FM So just to start by opening up today's debate, what do we feel are the most pressing issues currently affecting service delivery as a result of the welfare changes?
 

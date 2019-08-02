@@ -4,8 +4,8 @@ subtitle: "Features guest speakers Alastair McIntosh, Scottish writer and academ
 date: "2014-05-18T23:00:00+00:00"
 draft: false
 categories: ["Social work (general)"]
-hosts: ["Michelle Drumm"]
-speakers: ["Lesley Riddoch", "Alastair McIntosh", "Gehan Macleod"]
+hosts: ["Lesley Riddoch"]
+speakers: ["Alastair McIntosh", "Gehan Macleod"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/imagining-the-future-public-debate-part-one-1"
 iriss_archive_libsyn_title: "Imagining the Future: public debate part one"
 iriss_archive_libsyn_subtitle: "Features guest speakers Alastair McIntosh, Scottish writer and academic who speaks about the challenges of social justice; and Gehan Macleod, Director of the GalGael Trust who focuses on the dilemmas for social services."
@@ -16,12 +16,11 @@ iriss_archive_website_pagetitle: "Imagining the Future: public debate part one"
 iriss_archive_website_url: "/resources/irissfm/imagining-future-public-debate-part-one"
 iriss_archive_website_date_of_recording: "2014-05-19T13:00:00+0100"
 ---
-MD - Michelle Drumm  
 LR - Lesley Riddoch  
 AM - Alastair McIntosh  
 GM - Gehan Macleod
 
-MD As part of the Iriss, Imagining The Future of Social Services project, led by Robert Rae, a series of creative events were held in Govan over May 2014, to explore aspirations for the future from a locality perspective and to think about the changes that need to be made now and in the coming years. One of the events was a public debate on the subject of Social Justice, Chaired by the Journalist, Lesley Riddoch. This is the first of three episodes covering the debate. This episode features guest speakers, Alastair McIntosh, Scottish writer and academic, who speaks about the challenges of social justice, and Gehan Macleod for the GalGael Trust, who focuses on the dilemmas for social services. The debate includes audience comments, questions and viewpoints.
+As part of the Iriss, Imagining The Future of Social Services project, led by Robert Rae, a series of creative events were held in Govan over May 2014, to explore aspirations for the future from a locality perspective and to think about the changes that need to be made now and in the coming years. One of the events was a public debate on the subject of Social Justice, Chaired by the Journalist, Lesley Riddoch. This is the first of three episodes covering the debate. This episode features guest speakers, Alastair McIntosh, Scottish writer and academic, who speaks about the challenges of social justice, and Gehan Macleod for the GalGael Trust, who focuses on the dilemmas for social services. The debate includes audience comments, questions and viewpoints.
 
 LR First of all is Alastair McIntosh, who is an activist, writer, broadcaster and has written many books including Soil and Soul, and is talking about the challenges of social justice, and Gehan Macleod, who is a Director of the GalGael Trust, talking about the dilemmas for social services. So let's hand over to Alastair, and give him a big round of applause, because it's not easy ...
 

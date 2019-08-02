@@ -22,7 +22,7 @@ PM - Peter McLaughlin
 MR - Mairead Rae  
 PM - Pamela Mackay
 
-Michelle Drumm: The Promoting Excellence in Dementia Education conference was held on the 18th of September 2013 at the Stirling Management Centre. Iriss.fm attended to capture some of the presentations and to get a flavour of the workshops. Henry Simmons, Chief Executive of Alzheimer Scotland, opened the conference and was subject to the Second Dementia Strategy for Scotland, he speaks about achievements in dementia care to date and some of the challenges.
+MD The Promoting Excellence in Dementia Education conference was held on the 18th of September 2013 at the Stirling Management Centre. Iriss.fm attended to capture some of the presentations and to get a flavour of the workshops. Henry Simmons, Chief Executive of Alzheimer Scotland, opened the conference and was subject to the Second Dementia Strategy for Scotland, he speaks about achievements in dementia care to date and some of the challenges.
 
 HS Good morning everyone, and Suzanne, thanks for that very warm welcome. It's an absolute pleasure and a privilege for me to be here today, as it has been an absolute pleasure and privilege to be involved in the development of promoting excellence, the team that have pulled this together I think have done a remarkable job, and looking around this room, the number of people who have been involved in delivery, is simply superb. So what I want to try and do today really is to give you a sense of some of the, I think some of the achievements, but some of the big issues that we feel still remain to be tackled by all of us, and then look at some more specific work that's happening as part of the dementia strategy.
 
