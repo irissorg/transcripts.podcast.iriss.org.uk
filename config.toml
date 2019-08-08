@@ -110,8 +110,6 @@ googleAnalytics = "UA-814723-45"
     weight = 2
     title = "Podcast website - listen to episodes"
 
-
-
 [privacy]
   [privacy.disqus]
     disable = true

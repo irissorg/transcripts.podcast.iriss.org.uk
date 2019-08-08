@@ -212,7 +212,7 @@ MD Mmmhmm.
 
 JF You've got to respect them for them to respect you, and that goes for the young person but also for the worker.
 
-MD And I suppose the Care Review is giving you, a person who has experience, the opportunity to have your voice heard really and to make changes, so that's really •?
+MD And I suppose the Care Review is giving you, a person who has experience, the opportunity to have your voice heard really and to make changes, so that's really ...?
 
 JF That's a crucial element, because you can't change a system with the same thinking that created that system. So all these people that are in their role at the moment, they are thinking logistically in terms of what is possible within their role, what can they do, but as we know, if there was something that could answer that it would be done.
 
