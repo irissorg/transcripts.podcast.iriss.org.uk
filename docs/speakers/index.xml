@@ -6,10 +6,19 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 06 Aug 2019 09:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rosie Smith</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/rosie-smith/</link>
+      <pubDate>Tue, 20 Aug 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/rosie-smith/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kathryn Lindsay</title>
