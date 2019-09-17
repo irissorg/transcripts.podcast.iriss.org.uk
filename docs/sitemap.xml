@@ -4,18 +4,59 @@
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2019-08-20T12:00:00+01:00</lastmod>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-viv-clelland/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/viv-clelland/</loc>
+    <lastmod>2019-09-17T09:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/disability/</loc>
-    <lastmod>2019-08-20T12:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
     <lastmod>2019-08-20T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -38,42 +79,12 @@
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2019-08-20T12:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2019-08-20T12:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
-    <lastmod>2019-08-20T12:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</loc>
-    <lastmod>2019-08-06T09:50:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/freshly-squeezed-kathryn-lindsay/</loc>
     <lastmod>2019-08-06T09:50:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/kathryn-lindsay/</loc>
-    <lastmod>2019-08-06T09:50:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
     <lastmod>2019-08-06T09:50:00+01:00</lastmod>
     <priority>0</priority>
   </url>

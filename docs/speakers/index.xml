@@ -6,10 +6,19 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 20 Aug 2019 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Viv Clelland</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/viv-clelland/</link>
+      <pubDate>Tue, 17 Sep 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/viv-clelland/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rosie Smith</title>
