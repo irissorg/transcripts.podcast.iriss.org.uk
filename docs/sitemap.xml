@@ -3,8 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/careers-in-care-residential-care/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/charlotte/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/elaine/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/greg/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/practitioner-stories/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/tasha/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2019-10-08T08:20:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,37 +85,7 @@
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/peter-macleod/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2019-10-01T08:48:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
     <lastmod>2019-10-01T08:48:26+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1050,12 +1085,6 @@
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/evan-rae/</loc>
-    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/practitioner-stories/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
