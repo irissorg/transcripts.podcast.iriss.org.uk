@@ -1,6 +1,6 @@
 ---
 title: "Careers in Care: Social Work"
-subtitle: "Interviews with social work practitioners"
+subtitle: "Interviews with social work practitioners."
 date: 2019-10-22T08:17:35+01:00
 draft: false
 categories: ["Practitioner stories"]
