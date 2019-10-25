@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 22 Oct 2019 08:17:35 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 08:19:08 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disability</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
+      <pubDate>Fri, 25 Oct 2019 08:19:08 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Practitioner stories</title>
@@ -26,15 +35,6 @@
       <pubDate>Tue, 01 Oct 2019 08:48:26 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
-      <pubDate>Tue, 24 Sep 2019 08:34:15 +0100</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
       <description></description>
     </item>
     
