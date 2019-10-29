@@ -5,11 +5,12 @@ date: 2019-10-29T09:19:17Z
 draft: false
 categories: ["Young people"]
 hosts: ["Michelle Drumm"]
-speakers: ["Michael Timmons"]
+speakers: ["Michael Timmons", "Andrew Sinclair"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/ensemble-music-project"
 ---
 MD - Michelle Drumm  
-MT - Michael Timmons
+MT - Michael Timmons  
+AS - Andrew Sinclair
 
 Ensemble is a Loretto Care project that supports young people out of homelessness through songwriting and music. On the 19th of September Michelle from Iriss travelled to Stirling to speak with Michael Timmons, community engagement lead for the project, and Andrew Sinclair, a participant and volunteer. Ensemble received a different approach award at the Scottish Social Services Awards 2019.
 
