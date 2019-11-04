@@ -6,7 +6,7 @@ draft: false
 categories: ["Young people"]
 hosts: ["Michelle Drumm"]
 speakers: ["Michael Timmons", "Andrew Sinclair"]
-iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/ensemble-music-project"
+iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/ensemble-music-project/"
 ---
 MD - Michelle Drumm  
 MT - Michael Timmons  
