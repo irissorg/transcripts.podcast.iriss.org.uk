@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 Nov 2019 09:25:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 09:49:17 +0000</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disability</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
+      <pubDate>Tue, 19 Nov 2019 09:49:17 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carers</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 29 Oct 2019 09:19:17 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/young-people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
-      <pubDate>Fri, 25 Oct 2019 08:19:08 +0100</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
       <description></description>
     </item>
     
