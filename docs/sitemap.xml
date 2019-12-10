@@ -3,13 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/carers/</loc>
-    <lastmod>2019-11-26T10:09:33+00:00</lastmod>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/michael-byrne/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/michael-byrne-lived-experience-trauma-support-lets/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michael-mcewan/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2019-12-10T08:44:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/carers/</loc>
     <lastmod>2019-11-26T10:09:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -32,31 +79,7 @@
   </url>
   
   <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
-    <lastmod>2019-11-26T10:09:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
-    <lastmod>2019-11-26T10:09:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2019-11-26T10:09:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2019-11-26T10:09:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
     <lastmod>2019-11-26T10:09:33+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,12 +93,6 @@
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/include-me-2-club/</loc>
     <lastmod>2019-11-19T09:49:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michael-mcewan/</loc>
-    <lastmod>2019-11-19T09:49:17+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -949,12 +966,6 @@
   
   <url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/john-mccormack/</loc>
-    <lastmod>2018-08-19T23:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</loc>
     <lastmod>2018-08-19T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
