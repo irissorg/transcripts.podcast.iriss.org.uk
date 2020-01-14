@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 Dec 2019 08:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 08:28:17 +0000</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freshly Squeezed</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</link>
+      <pubDate>Tue, 14 Jan 2020 08:28:17 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mental health</title>
@@ -62,15 +71,6 @@
       <pubDate>Tue, 22 Oct 2019 08:17:35 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/practitioner-stories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freshly Squeezed</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</link>
-      <pubDate>Tue, 01 Oct 2019 08:48:26 +0100</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/freshly-squeezed/</guid>
       <description></description>
     </item>
     
