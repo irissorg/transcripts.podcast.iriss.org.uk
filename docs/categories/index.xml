@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 14 Jan 2020 08:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 08:38:44 +0000</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disability</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
+      <pubDate>Wed, 22 Jan 2020 08:38:44 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Freshly Squeezed</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 26 Nov 2019 10:09:33 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/carers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
-      <pubDate>Tue, 19 Nov 2019 09:49:17 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
       <description></description>
     </item>
     
