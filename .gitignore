@@ -2,3 +2,4 @@ public/
 word-docs/
 node_modules/
 deploy.js
+.DS_Store
