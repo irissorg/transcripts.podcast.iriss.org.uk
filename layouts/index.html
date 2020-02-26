@@ -10,7 +10,8 @@
         {{ end }}
 
         <div class="posts-list">
-          {{ $pag := .Paginate (where .Data.Pages "Type" "transcript") }}
+        <!-- .Data.Pages "Type" "transcript" -->
+          {{ $pag := .Paginate (where .Site.RegularPages "Type" "transcript") }}
           {{ range $pag.Pages }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
