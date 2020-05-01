@@ -6,10 +6,28 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Apr 2020 16:04:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 08:48:34 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Margaret</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/margaret/</link>
+      <pubDate>Fri, 01 May 2020 08:48:34 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/margaret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margaret Riley</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/margaret-riley/</link>
+      <pubDate>Fri, 01 May 2020 08:48:34 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/margaret-riley/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ossie Stuart</title>
@@ -3545,15 +3563,6 @@
       <pubDate>Thu, 30 May 2013 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/speakers/diane-wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Margaret</title>
-      <link>https://transcripts.podcast.iriss.org.uk/speakers/margaret/</link>
-      <pubDate>Thu, 30 May 2013 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/speakers/margaret/</guid>
       <description></description>
     </item>
     
