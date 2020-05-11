@@ -1,5 +1,5 @@
 ---
-title: "Supporting People With Disabilities During the Covid 19 Crisis"
+title: "Supporting people with disabilities during the Covid-19 crisis"
 subtitle: "An interview with SPAEN, Partners for Inclusion and Unity."
 date: 2020-05-11T09:12:59+01:00
 draft: false
