@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 01 May 2020 10:12:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 09:12:59 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disability</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
+      <pubDate>Mon, 11 May 2020 09:12:59 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Domestic abuse</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 10 Mar 2020 08:40:20 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/adult-social-care/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disability</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
-      <pubDate>Wed, 26 Feb 2020 14:30:37 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
       <description></description>
     </item>
     
