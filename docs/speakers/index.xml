@@ -6,10 +6,19 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 11:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 15:11:48 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sue Stockdale</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/sue-stockdale/</link>
+      <pubDate>Fri, 19 Jun 2020 15:11:48 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/sue-stockdale/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Celia Sweeney</title>

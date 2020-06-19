@@ -6,15 +6,24 @@
     <description>Recent content in Hosts on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 11:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 15:11:48 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/hosts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Kerry Musselbrook</title>
+      <link>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</link>
+      <pubDate>Fri, 19 Jun 2020 15:11:48 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Michelle Drumm</title>
       <link>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</link>
-      <pubDate>Fri, 19 Jun 2020 11:50:00 +0100</pubDate>
+      <pubDate>Fri, 19 Jun 2020 15:11:48 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</guid>
       <description></description>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 30 Jul 2017 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/hosts/ellen-daly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kerry Musselbrook</title>
-      <link>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</link>
-      <pubDate>Sun, 14 May 2017 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</guid>
       <description></description>
     </item>
     
