@@ -6,10 +6,19 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 15:11:48 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 15:44:47 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bill Scott</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/bill-scott/</link>
+      <pubDate>Mon, 29 Jun 2020 15:44:47 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/bill-scott/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sue Stockdale</title>
@@ -3464,15 +3473,6 @@
       <pubDate>Mon, 19 Aug 2013 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/speakers/andrew-mckie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bill Scott</title>
-      <link>https://transcripts.podcast.iriss.org.uk/speakers/bill-scott/</link>
-      <pubDate>Mon, 19 Aug 2013 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/speakers/bill-scott/</guid>
       <description></description>
     </item>
     
