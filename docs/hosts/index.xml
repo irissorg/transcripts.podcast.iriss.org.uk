@@ -6,10 +6,19 @@
     <description>Recent content in Hosts on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 21 Aug 2020 15:14:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 16:05:03 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/hosts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kerry Musselbrook</title>
+      <link>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</link>
+      <pubDate>Fri, 21 Aug 2020 16:05:03 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Michelle Drumm</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 29 Jun 2020 15:44:47 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/hosts/michael-mcewan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kerry Musselbrook</title>
-      <link>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</link>
-      <pubDate>Fri, 19 Jun 2020 15:11:48 +0100</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</guid>
       <description></description>
     </item>
     

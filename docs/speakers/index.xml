@@ -6,10 +6,19 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 21 Aug 2020 15:14:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 16:05:03 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Davie Donaldson</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/davie-donaldson/</link>
+      <pubDate>Fri, 21 Aug 2020 16:05:03 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/davie-donaldson/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carolyn Wyllie</title>
