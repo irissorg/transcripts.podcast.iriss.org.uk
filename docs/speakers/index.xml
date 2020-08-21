@@ -6,10 +6,37 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 21 Aug 2020 16:33:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 16:53:26 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>David Ross</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/david-ross/</link>
+      <pubDate>Fri, 21 Aug 2020 16:53:26 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/david-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn Murdoch</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/lynn-murdoch/</link>
+      <pubDate>Fri, 21 Aug 2020 16:53:26 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/lynn-murdoch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Kennedy</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/scott-kennedy/</link>
+      <pubDate>Fri, 21 Aug 2020 16:53:26 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/scott-kennedy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gavin MacLeod</title>
@@ -2145,15 +2172,6 @@
     </item>
     
     <item>
-      <title>Lynn Murdoch</title>
-      <link>https://transcripts.podcast.iriss.org.uk/speakers/lynn-murdoch/</link>
-      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/speakers/lynn-murdoch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>George Gordon</title>
       <link>https://transcripts.podcast.iriss.org.uk/speakers/george-gordon/</link>
       <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
@@ -2222,15 +2240,6 @@
       <pubDate>Sun, 12 Jul 2015 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/speakers/catherine-hurrell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Ross</title>
-      <link>https://transcripts.podcast.iriss.org.uk/speakers/david-ross/</link>
-      <pubDate>Sun, 12 Jul 2015 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/speakers/david-ross/</guid>
       <description></description>
     </item>
     
