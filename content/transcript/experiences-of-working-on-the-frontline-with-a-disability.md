@@ -5,7 +5,7 @@ date: 2020-08-21T16:53:26+01:00
 draft: false
 categories: ["Coronavirus / Covid-19"]
 hosts: ["Michael McEwan"]
-speakers: ["Scott Kennedy"]
+speakers: ["Scott Kennedy", "Lynn Murdoch", "David Ross"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/experiences-of-working-on-the-frontline-with-a-disability"
 ---
 MM - Michael McEwan  
