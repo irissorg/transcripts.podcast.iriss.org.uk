@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 22 Sep 2020 12:41:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 17:30:32 +0100</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Social work (general)</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
+      <pubDate>Thu, 08 Oct 2020 17:30:32 +0100</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disability</title>
@@ -44,15 +53,6 @@
       <pubDate>Fri, 01 May 2020 10:12:28 +0100</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/domestic-abuse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social work (general)</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
-      <pubDate>Thu, 30 Apr 2020 13:56:05 +0100</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
       <description></description>
     </item>
     
