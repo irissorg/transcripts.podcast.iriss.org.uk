@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Oct 2020 15:18:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 15:43:47 +0000</lastBuildDate>
     
 	<atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welfare reform</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/welfare-reform/</link>
+      <pubDate>Fri, 30 Oct 2020 15:43:47 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/welfare-reform/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disability</title>
@@ -134,15 +143,6 @@
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/early-years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welfare reform</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/welfare-reform/</link>
-      <pubDate>Tue, 10 Jul 2018 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/welfare-reform/</guid>
       <description></description>
     </item>
     
