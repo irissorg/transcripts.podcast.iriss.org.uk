@@ -1,7 +1,7 @@
 ---
 title: "Near Me in social services: an introduction"
 subtitle: "An introduction to the Near Me in Social Services project"
-date: 2021-02-01T16:01:10Z
+date: 2021-02-02T16:01:10Z
 draft: false
 categories: ["Digital inclusion"]
 hosts: ["Michelle Drumm"]

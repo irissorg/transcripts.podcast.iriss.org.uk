@@ -1,7 +1,7 @@
 ---
 title: "Near Me in social services: tools and techniques for remote communication"
 subtitle: "Janet Crozier from NES presents tools and techniques for remote communication"
-date: 2021-03-01T16:02:10Z
+date: 2021-02-03T16:02:10Z
 draft: false
 categories: ["Digital inclusion"]
 hosts: ["Michelle Drumm"]
