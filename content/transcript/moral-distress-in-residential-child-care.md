@@ -8,9 +8,7 @@ hosts: ["Neil MacMillan"]
 speakers: ["Dan Johnson"]
 iriss_episode_libsyn_url: "https://podcast.iriss.org.uk/moral-distress-in-residential-child-care"
 ---
-
-NM - Neil MacMillan
-
+NM - Neil MacMillan  
 DJ - Dan Johnson
 
 Dan Johnson, Clinical Director at Kibble, interviews Neil MacMillan: an Executive Director at Kibble on the topic of moral distress in residential childcare. The conversation defines the concept, provides examples of it and suggestions for how to support workers who experience moral distress. More broadly it explores the impact of the system and the practice of residential childcare.
