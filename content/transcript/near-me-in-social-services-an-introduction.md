@@ -8,9 +8,7 @@ hosts: ["Michelle Drumm"]
 speakers: ["Louise Bowen"]
 iriss_episode_libsyn_url: "http://podcast.iriss.org.uk/near-me-in-social-services-an-introduction"
 ---
-
-MD - Michelle Drumm
-
+MD - Michelle Drumm  
 LD - Louise Bowen
 
 MD Near Me in Social Services is a project Iriss has been leading in partnership with the NHS Near Me team and the Scottish Government Technology Enabled Care (TEC) Programme over Autumn/Winter 2020/21. The project is producing new evidence around the priorities, enablers and challenges of using video consulting in social services.

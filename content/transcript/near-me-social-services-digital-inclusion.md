@@ -1,6 +1,6 @@
 ---
 title: "Near Me in social services: digital inclusion"
-subtitle: "Research about people's experiences of self-directed support in Scotland"
+subtitle: "Aaron Slater, Digital Participation Manager at SCVO gives an overview of digital exclusion in Scotland"
 date: 2021-02-25T16:01:10Z
 draft: false
 categories: ["Digital inclusion"]

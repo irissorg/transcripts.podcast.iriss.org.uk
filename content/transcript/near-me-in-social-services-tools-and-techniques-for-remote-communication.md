@@ -8,9 +8,7 @@ hosts: ["Michelle Drumm"]
 speakers: ["Janet Crozier"]
 iriss_episode_libsyn_url: "http://podcast.iriss.org.uk/near-me-in-social-services-tools-and-techniques-for-remote-communication"
 ---
-
-MD - Michelle Drumm
-
+MD - Michelle Drumm  
 JC - Janet Crozier
 
 MD Near Me in Social Services is a project Iriss has been leading in partnership with the NHS Near Me team and the Scottish Government Technology Enabled Care (TEC) Programme over Autumn/Winter 2020/21. The project is producing new evidence around the priorities, enablers and challenges of using video consulting in social services.
