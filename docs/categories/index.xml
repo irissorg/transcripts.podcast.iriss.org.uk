@@ -6,22 +6,40 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Mar 2021 16:01:10 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Digital inclusion</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/digital-inclusion/</link>
-      <pubDate>Mon, 15 Mar 2021 16:01:10 +0000</pubDate>
+      <title>Child protection</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/child-protection/</link>
+      <pubDate>Mon, 19 Apr 2021 23:00:00 +0000</pubDate>
       
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/digital-inclusion/</guid>
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/child-protection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disability</title>
       <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
-      <pubDate>Tue, 02 Mar 2021 16:01:10 +0000</pubDate>
+      <pubDate>Thu, 08 Apr 2021 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/disability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social work (general)</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
+      <pubDate>Thu, 18 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital inclusion</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/digital-inclusion/</link>
+      <pubDate>Mon, 15 Mar 2021 16:01:10 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/digital-inclusion/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Mon, 15 Feb 2021 16:01:10 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/early-years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social work (general)</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
-      <pubDate>Tue, 19 Jan 2021 16:02:10 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
       <description></description>
     </item>
     
@@ -148,15 +157,6 @@
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/co-production/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Child protection</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/child-protection/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/child-protection/</guid>
       <description></description>
     </item>
     
