@@ -1,7 +1,7 @@
 ---
 title: "Relationships matter"
 subtitle: "The real deal"
-date: "2021-07-01T23:00:00+00:00"
+date: "2021-06-30T23:00:00+00:00"
 draft: false
 categories: ["Adult social care"]
 hosts: ["Michael McEwan"]
