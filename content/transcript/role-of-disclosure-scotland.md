@@ -6,7 +6,7 @@ draft: false
 categories: ["Careers in social services"]
 hosts: ["Michelle Drumm"]
 speakers: ["Andrew Morrall"]
-iriss_episode_libsyn_url: "http://wwww.podcast.iriss.org.uk/careers-in-social-services-the-role-of-disclosure-scotland"
+iriss_episode_libsyn_url: "http://www.podcast.iriss.org.uk/careers-in-social-services-the-role-of-disclosure-scotland"
 
 ---
 
