@@ -1,13 +1,12 @@
 ---
 title: "Careers in social services: the role of Disclosure Scotland"
 subtitle: "A conversation with Andrew Morrall at Disclosure Scotland"
-date: "2021-07-22T23:00:00+00:00"
+date: "2021-07-22T12:00:00+00:00"
 draft: false
 categories: ["Careers in social services"]
 hosts: ["Michelle Drumm"]
 speakers: ["Andrew Morrall"]
-iriss_episode_libsyn_url: "http://www.podcast.iriss.org.uk/careers-in-social-services-the-role-of-disclosure-scotland"
-
+iriss_episode_libsyn_url: "http://podcast.iriss.org.uk/careers-in-social-services-the-role-of-disclosure-scotland"
 ---
 
 

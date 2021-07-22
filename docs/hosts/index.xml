@@ -6,7 +6,16 @@
     <description>Recent content in Hosts on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 29 Jun 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/hosts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/hosts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michelle Drumm</title>
+      <link>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</link>
+      <pubDate>Thu, 22 Jul 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Michael McEwan</title>
       <link>https://transcripts.podcast.iriss.org.uk/hosts/michael-mcewan/</link>
@@ -31,15 +40,6 @@
       <pubDate>Mon, 07 Jun 2021 23:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/hosts/iriss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelle Drumm</title>
-      <link>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</link>
-      <pubDate>Mon, 19 Apr 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</guid>
       <description></description>
     </item>
     
