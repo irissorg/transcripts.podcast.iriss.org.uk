@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 Sep 2021 11:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Oct 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental health</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</link>
+      <pubDate>Mon, 11 Oct 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Disability</title>
       <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
@@ -76,15 +85,6 @@
       <pubDate>Mon, 15 Feb 2021 16:01:10 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/early-years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental health</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</link>
-      <pubDate>Mon, 23 Nov 2020 16:30:56 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</guid>
       <description></description>
     </item>
     

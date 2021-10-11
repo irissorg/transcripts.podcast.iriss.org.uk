@@ -1,7 +1,7 @@
 ---
 title: "Recovery Conversation Cafes"
 subtitle: "A conversation with Ann Jones, Manager at the Mental Health Network, Greater Glasgow and Clyde"
-date: "2021-10-11T11:00:00+00:00"
+date: "2021-10-11T12:00:00+00:00"
 draft: false
 categories: ["Mental health"]
 hosts: ["Michelle Drumm"]
