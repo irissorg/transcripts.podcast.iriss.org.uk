@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/diana-hekerem/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/doing-public-sector-management-differently/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/learning-and-development/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/toby-lowe/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2021-11-28T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/adapting-social-work-for-a-changing-planet/</loc>
     <lastmod>2021-11-11T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2021-11-11T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/hosts/heather-lynch/</loc>
-    <lastmod>2021-11-11T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
     <lastmod>2021-11-11T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/sian-mckinnon/</loc>
@@ -20,16 +44,7 @@
     <loc>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</loc>
     <lastmod>2021-11-11T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2021-11-11T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/susan-kemp/</loc>
-    <lastmod>2021-11-11T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2021-11-11T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
     <lastmod>2021-11-11T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/tzeyeng-ng/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2021-10-11T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/mental-health/</loc>
-    <lastmod>2021-10-11T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/michelle-drumm/</loc>
     <lastmod>2021-10-11T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/recovery-conversation-cafes/</loc>
@@ -1806,9 +1818,6 @@
     <lastmod>2014-07-29T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/knowledge-into-practice/</loc>
-    <lastmod>2014-07-29T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/learning-and-development/</loc>
     <lastmod>2014-07-29T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/hosts/fiona-munro/</loc>
