@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 29 Nov 2021 11:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 11:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social work (general)</title>
+      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
+      <pubDate>Wed, 08 Dec 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Disability</title>
       <link>https://transcripts.podcast.iriss.org.uk/categories/disability/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/categories/learning-and-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social work (general)</title>
-      <link>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</link>
-      <pubDate>Thu, 11 Nov 2021 12:00:00 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</guid>
       <description></description>
     </item>
     
