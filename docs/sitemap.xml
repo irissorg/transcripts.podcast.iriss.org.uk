@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/role-of-technology-in-rural-social-work/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2022-05-23T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/alison-hughes/</loc>
     <lastmod>2022-05-09T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2022-05-09T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/changing-how-homecare-is-commissioned-and-delivered/</loc>
-    <lastmod>2022-05-09T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
     <lastmod>2022-05-09T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/categories/innovation-and-change/</loc>
@@ -21,15 +42,6 @@
     <lastmod>2022-05-09T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/meilys-heulfryn-smith/</loc>
-    <lastmod>2022-05-09T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2022-05-09T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2022-05-09T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
     <lastmod>2022-05-09T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/we-all-have-human-rights/</loc>
@@ -77,16 +89,10 @@
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/jayne-glass/</loc>
     <lastmod>2022-01-19T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/kerry-musselbrook/</loc>
-    <lastmod>2022-01-19T11:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/mark-shucksmith/</loc>
     <lastmod>2022-01-19T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/rural-lives-poverty-and-social-exclusion/</loc>
-    <lastmod>2022-01-19T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</loc>
     <lastmod>2022-01-19T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/iain-ramsay/</loc>
@@ -333,9 +339,6 @@
     <lastmod>2021-01-25T16:02:10+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/colin-turbett/</loc>
-    <lastmod>2021-01-19T16:02:10+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</loc>
     <lastmod>2021-01-19T16:02:10+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/transcript/rural-social-work/</loc>

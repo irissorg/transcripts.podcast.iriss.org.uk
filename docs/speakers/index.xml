@@ -6,7 +6,16 @@
     <description>Recent content in Speakers on Transcripts of Iriss.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 May 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://transcripts.podcast.iriss.org.uk/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jane Pye</title>
+      <link>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</link>
+      <pubDate>Mon, 23 May 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Alison Hughes</title>
       <link>https://transcripts.podcast.iriss.org.uk/speakers/alison-hughes/</link>
@@ -490,15 +499,6 @@
       <pubDate>Tue, 19 Jan 2021 16:02:10 +0000</pubDate>
       
       <guid>https://transcripts.podcast.iriss.org.uk/speakers/colin-turbett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jane Pye</title>
-      <link>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</link>
-      <pubDate>Tue, 19 Jan 2021 16:02:10 +0000</pubDate>
-      
-      <guid>https://transcripts.podcast.iriss.org.uk/speakers/jane-pye/</guid>
       <description></description>
     </item>
     
