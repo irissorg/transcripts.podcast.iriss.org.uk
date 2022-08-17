@@ -2,7 +2,7 @@
 title: "Geetha Marcus"
 subtitle: "Explore how co-production can equip social services with the cultural competency they need when working with Gypsy Traveller and Roma communities."
 date: "2018-03-07T00:00:00+00:00"
-draft: false
+draft: true
 categories: ["Co-production"]
 hosts: []
 speakers: ["Geetha Marcus"]
