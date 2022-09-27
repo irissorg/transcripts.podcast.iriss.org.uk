@@ -48,9 +48,7 @@ So, it was a recognition that too much of our focus was going on crisis response
 
 As you said, this was during covid, it was during times when opportunities to actually reach and meet people were very limited so, we weren’t able to do everything that we wanted to in that sphere. But we did our best to reach as many people as we could. We developed something called the 5 questions which was a very kind of simple survey which we could send out to large numbers of people that, rather than asking them leading questions about where we wanted to go with the model and so on; we just asked them very, very general questions about what was important to them, what were the issues that they faced, what helped for them; those kind of things. And that meant it was very accessible and it was possible for pretty much anyone to respond to. We sent that out to children, young people, parents, carers and professionals across East Ayrshire because we were able to do it through the school app; actually, the majority of the responses were from children and young people.
 
-
 **Michelle**: Interesting.
-
 
 **Andrew**: And as soon as we got it out in the app, we saw an immediate response and getting responses on a very broad level like that, we had something like 850 responses. It just gave us a very, very general sense of what was important for people at that moment; that snapshot in time. And the very big thing that came out of that was that people identified over and over again, far more than anything else, family as being by far the most important thing for them. So, we were able to draw the responses into a word cloud which showed that the concepts, the words that people used most frequently. And family is huge and right in the centre and things like love and support and care and things like that around it. 
 
@@ -72,12 +70,9 @@ And we put together a group called The Changemakers which was drawn, very broadl
 
 **Michelle**: Okay. And as a result of that then you came out with the sort of Heart Community Teams idea?
 
-
 **Andrew**: Yes, yeah. Well, we came out with four ideas actually. 
 
-
 **Michelle**: Okay.
-
 
 **Andrew**: The building blocks of the new model. Community Teams is the one that we’ve been given a green light to work on so far but it’s kind of an inter-linked series of ideas that are all based around this same central idea about trying to make sure that families get the help they need in early stage and where they need it. 
 
@@ -90,21 +85,15 @@ And we put together a group called The Changemakers which was drawn, very broadl
 
 A way that makes sense for me to explain it, is thinking about something that I think already works well in East Ayrshire which is that because it is a relatively small local authority, people tend to build up very good working relationships with their opposite numbers in other services. So, from my experience; my background is in social work and I’ve worked in social work in East Ayrshire for quite a number of years. In my experience, people in social work will, over time, get to know the head teachers or the deputy head teachers of the schools in their area. They’ll start to know the health visitors; they’ll work alongside the health visitors more than once and through that they start to build up person to person relationships which kind of make it much easier when they need to pick up the phone to each other to discuss how best to help a family. So, it’s really, it’s trying to build on something which I think was already good practice, in East Ayrshire and just make it absolutely standard across the board. 
 
-
 **Michelle**: So, putting a little bit more structure on it, if you like, and formalising it a little bit more.
 
-
 **Andrew**: Yes, yeah. 
-
 
 **Michelle**: Yeah. Because I can see how the importance of those relationships would be crucial to the support working for families. 
 
-
 **Andrew**: Yes, yeah. 
 
-
 **Michelle**: So, Community Teams is under way at the moment and is working quite well? 
-
 
 **Andrew**: I think we’re still in the early stages of this. So, in order to kind of prepare the ground for this, a number of different services needed to kind of realign the way that they worked. First of all, we had to think about what communities we were organising around. And we took the decision that we would work around education groups which are secondary school catchment areas. There are six non-denominational education groups in East Ayrshire; each of which relates to a particular kind of geographical area. And that just gave us, I think, a pre-existing model that we could work around that was in the Goldilocks zone. It wasn’t too big that it felt impersonal or it would make it very difficult for people to travel for services and it wasn’t so small that it was impractical to organise services around. 
 
@@ -114,54 +103,37 @@ So, a lot of the early stage was actually kind of going on behind the scenes to 
 
 **Michelle**: Yeah and it takes time. 
 
-
 **Andrew**: Yes.
-
 
 **Michelle**: So, that’s an on-going process; that’s an ongoing journey for you all. You talked earlier about applying a sort of Scottish Service Design approach to this process as well and was that always the goal? In a sense of taking that model as well, taking that approach to kind of help you with the culture change ultimately? Because you knew it was a long journey. Can you tell me a little bit more about that service design approach and how that was helpful?
 
-
 **Andrew**: Yeah, yeah. One of the key messages from the Scottish approach to service design is about trying to make sure that the voice of lived experience is absolutely central.
-
 
 **Michelle**: Yeah.
 
-
 **Andrew**: So, whenever you are making any decisions about how services should run, voice should always be present and voice should always be a part of that. So, that’s something that we have tried to do to the best of our ability, all the way through. I think, my perspective on this, is that generally across the board the reality still falls short of the rhetoric. So, we’re getting there, we’re getting to that point of having lived experience there but we still have some way to go.
-
 
 So, how have we done that? We have used the stories, the comments, the voices of the people who responded to our survey and took part in the interviews. We’ve used that all the way through. We have worked closely alongside What Matters to You who are working with a group of parents in the Cumnock area and supporting them to use their direct lived experience to influence the direction of things are going. So, we have a group of people there that we can kind of call upon to draw upon their expertise from their own lives in order to tell us whether we’re going the right way. 
 
-
 We’ve had a group called The Critical Friends, which has had an oversight role, really, for the implementation of Community Teams. And that’s involved young people and parents and carers and we’ve met with them and said, look, this is the direction we’re going; does this sound right? What thoughts do you have? How does this relate to your own experience? Would this kind of help if you were in that kind of situation again? 
-
 
 And another way that we’ve tried to thread lived experience all the way through this is in a new resource that we have developed which uses composite family stories as a tool to support practitioners from different services, working together and thinking about how they can collaborate more effectively to respond to a family. What we found is that when you talk about something like Heart in general terms, in general theoretical terms; people respond to it up to a certain level. But when you can talk about it in relation to an actual family, a real situation; it becomes much more vivid and much more real for people and it really starts to hit home and they start to see how an approach like this can benefit. So, the new resource is something like a game.
 
-
 **Michelle**: Okay.
-
 
 **Andrew**: That is designed to be played together by a group of practitioners. It’s based on the stories that families have told us. So, it’s true to life and it’s a family going through a series of events and at each event point, there’s an opportunity for the practitioners who are playing the game to think about how they can best help; what they can best do to support that family at that moment in their lives. So, hopefully that’s going to be a springboard for people to start to think creatively about what sort of approaches might help in their area, in their community team area to support families going through real issues.
 
-
 **Michelle**: Uh huh. And no doubt that resource will be of use to other, potential, local authorities, social work teams and managers out there too? 
-
 
 **Andrew**: We hope so, we hope so. We’re at the early stages of this.
 
-
 **Michelle**: Okay. So, that’s still in development?
-
 
 **Andrew**: That’s still in development. We’re testing it at the moment. We’ve got a plan to test it in a couple of weeks’ time. And then we’re going to be using it with the Community Teams in October when they come back together for launch events. So, if this works, if this is successful then we absolutely hope this is something that does have much broader use and broader potential and something that can be used in all different kinds of training. It’s just a way of trying to make this real to people.
 
-
 **Michelle**: I suppose I’m wondering as well, like have you seen the kind of benefits in terms of people’s lives getting better or improving as a result of what you’ve done so far? 
 
-
 **Andrew**: I think the broader question about starting to see positives, starting to see benefits; I think we’re still at too early a stage. We’re still, the Community Teams are forming, they’re starting to come together and they’re starting to think about how they can work more effectively. It’s going to take time for the benefits to start to come through. 
-
 
 So, for example, I keep on coming back to the Doon Valley because it is the most sort of geographically remote part of East Ayrshire. And it’s the part of East Ayrshire which historically has not had services and had a deficit of services around it. And it’s also part of East Ayrshire where there’s a high need for services where we know that there is a lot of need for families. So, that area is going to be having a social work team; a dedicated social work team for the first time, rather than it just being an add on to a team from another area. And it’s going to have dedicated workers from other services where those people are going to be meeting regularly, on a monthly basis, that are going to be thinking about what’s happening in that area. They’re going to be sharing what they’re picking up in terms of general trends and they’re going to be starting to think about what they can do together and what kind of collaborations they can come up with which will better serve families in that area. And that might mean, for example, drop ins or pop ups where different services are finding space to meet with families in that area and bringing more of their services down there. 
 
@@ -195,14 +167,10 @@ This kind of thinking has been central to, there’s plans afoot for development
 
 The next idea is fairly similar and it’s Connectors; in families stories when they talked about their experiences, they often talked about periods when they were lost within the system where they knew that they needed help but they didn’t know how to get it. And the people who were assigned to them or allocated to help them weren’t kind of meeting their needs. When things got better was when they found someone within the system who was able to pick up their cause and help them get to the form of support that they needed that was right for them. And so, we think of these people as being Connectors and it’s pretty similar to the Community Connectors model which exists in East Ayrshire and other places. People whose job it is to kind of help families navigate systems in order to get to the right form of help and support. So, that is an idea we would like to develop more; we would like to try and find ways to put Connectors where they can be easily contacted or make contact with families so that they can get to the help that they need at an early stage. 
 
-
 And the last idea was just a very broad idea was just about family support and it’s a recognition of one of the central ideas in the promise which is that we need far more early help family support. And families were able to tell us a lot about what that support should look and feel like for them. And we would also, I think, like for there to be more routes for families to be able to support each other through volunteering or mentoring kind of programmes. 
-
 
 I’d just like to say that we are always happy to speak to colleagues in other areas who are doing similar things or interested in doing similar things. I think everything we’re doing here really should be open source. So, we’re very, very up for comparing notes and hearing about what you’re doing and letting you know more about what we’ve got going on here. So, I think you would put our email address in the show notes and we’re very happy to be contacted. 
 
-
 **Michelle**: Andrew thank you very much for speaking to me today about Heart Community Teams and wishing you all the best.
-
 
 **Andrew**: No worries. Thank you for having me.
