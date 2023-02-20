@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/categories/disability/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/enable-respect-group-raising-awareness-of-hate-crime/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/hosts/iriss/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/jason-methven/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/michael-mcewan/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/sally-elfverson/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
+    <lastmod>2023-02-16T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/anne-fitzpatrick/</loc>
     <lastmod>2022-12-11T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/colin-turbett/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/hosts/iriss/</loc>
     <lastmod>2022-12-11T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/janet/</loc>
@@ -32,19 +56,7 @@
     <loc>https://transcripts.podcast.iriss.org.uk/categories/social-work-general/</loc>
     <lastmod>2022-12-11T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/transcript/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/</loc>
-    <lastmod>2022-12-11T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/deborah-kinnear/</loc>
-    <lastmod>2022-10-31T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/categories/disability/</loc>
     <lastmod>2022-10-31T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/hosts/michael-mcewan/</loc>
@@ -2325,9 +2337,6 @@
     <lastmod>2013-08-19T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/andrew-mckie/</loc>
-    <lastmod>2013-08-19T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://transcripts.podcast.iriss.org.uk/speakers/michael-mcewan/</loc>
     <lastmod>2013-08-19T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://transcripts.podcast.iriss.org.uk/speakers/peter-scott/</loc>
